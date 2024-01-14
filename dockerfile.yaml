@@ -1,0 +1,38 @@
+### Dockerfile for the Simulation
+FROM ubuntu:22.04
+
+RUN apt-get update  -y 
+
+RUN apt-get install -y software-properties-common 
+
+RUN apt-get -y install python3.9 
+  # since the docker container is completely empty we need to install python3.9 to be able to run something
+RUN apt-get -y install python3-pip 
+  # we install pip to be able to install after alle the packages used in the simulation
+RUN apt-get install openjdk-11-jdk -y 
+  # we install java to be able to use apache-kafka
+  #&& apt install curl mlocate default-jdk -y
+RUN apt install nano
+
+# initializing docker's bashrc
+RUN echo "export JAVA_PATH=/usr/lib/jvm/java-11-openjdk-amd64" >> ~/.bashrc
+RUN echo "export PATH=$PATH:$JAVA_HOME/bin" >> ~/.bashrc
+
+COPY ../requirements.txt ./bdtproject/requirements.txt
+
+RUN  pip install -r ./bdtproject/requirements.txt
+# we install all the packages contained in the requirements file
+
+COPY ../*.py ./bdtproject/
+# we copy all the .py files of the bdtproject folder 
+# COPY ../*.sh .
+# we copy all the .sh files of the bdtproject folder
+# we copy the raw POI data (stored as json) of the bdtproject folder 
+# we copy the raw MUNICIPALITIES data (stored as csv) of the bdt project 
+
+# copying the package folder
+COPY clients/ ./bdtproject/clients
+COPY dbconnector ./bdtproject/dbconnector
+COPY POI ./bdtproject/POI
+COPY run ./bdtproject/run
+#COPY dockerfolder ./bdtproject/dockerfolder
