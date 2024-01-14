@@ -1,0 +1,348 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.60.6 e2dc3e5b",
+    "osm3s": {
+        "timestamp_osm_base": "2023-06-14T18:41:16Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+        {
+            "type": "node",
+            "id": 343415728,
+            "lat": 45.7562572,
+            "lon": 11.1877641,
+            "tags": {
+                "garden:type": "botanical",
+                "leisure": "garden",
+                "name": "Giardino botanico alpino San Marco",
+                "wikidata": "Q20009202",
+                "wikipedia": "it:Giardino botanico alpino San Marco"
+            }
+        },
+        {
+            "type": "node",
+            "id": 897577697,
+            "lat": 46.1620041,
+            "lon": 10.9486071,
+            "tags": {
+                "leisure": "nature_reserve",
+                "name": "Grotte"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1950602686,
+            "lat": 45.9136874,
+            "lon": 10.9900071,
+            "tags": {
+                "leisure": "nature_reserve",
+                "name": "Biotopo Fontanelle"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3280727374,
+            "lat": 46.0267654,
+            "lon": 11.372123,
+            "tags": {
+                "leisure": "nature_reserve",
+                "natural": "tree"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3978096389,
+            "lat": 46.0678809,
+            "lon": 11.4630985,
+            "tags": {
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4539854757,
+            "lat": 46.0097313,
+            "lon": 11.6190643,
+            "tags": {
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4726651189,
+            "lat": 45.6685569,
+            "lon": 11.3497254,
+            "tags": {
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4796430841,
+            "lat": 46.1675402,
+            "lon": 11.5532318,
+            "tags": {
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4900384336,
+            "lat": 46.3272516,
+            "lon": 11.0968522,
+            "tags": {
+                "access": "private",
+                "description": "Le Jardin de Campagne \u00e8 una fantastica vista della Val di Non e sulle Dolomiti di Brenta",
+                "ele": "850",
+                "email": "info@lejardindecampagne.it",
+                "leisure": "garden",
+                "name": "Le Jardin de Campagne",
+                "website": "www.lejardindecampagne.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5031827032,
+            "lat": 45.9945775,
+            "lon": 11.4366885,
+            "tags": {
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5047377957,
+            "lat": 45.9237481,
+            "lon": 10.7527718,
+            "tags": {
+                "check_date": "2022-05-06",
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5567364192,
+            "lat": 46.0772525,
+            "lon": 11.5741302,
+            "tags": {
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5661640722,
+            "lat": 46.0646286,
+            "lon": 11.6376463,
+            "tags": {
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5661640723,
+            "lat": 46.0644816,
+            "lon": 11.6375041,
+            "tags": {
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5900184806,
+            "lat": 46.0693097,
+            "lon": 11.1134554,
+            "tags": {
+                "description": "Spazio autogestito con orti di quartiere di Piedicastello",
+                "garden:type": "community",
+                "leisure": "garden",
+                "name": "Laboratorio Sociale Officina Piedicastello",
+                "website": "https://officinapiedicastello.wordpress.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5968584726,
+            "lat": 46.125003,
+            "lon": 10.8134646,
+            "tags": {
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6458222816,
+            "lat": 45.9182049,
+            "lon": 10.8777535,
+            "tags": {
+                "addr:city": "Arco",
+                "addr:postcode": "38062",
+                "addr:street": "Via Donatori di Sangue",
+                "ele": "91",
+                "leisure": "garden",
+                "name": "Giardino Sensoriale",
+                "note": "Visibile dall'estreno, ma non utilizzabile. Realizzato dagli alunni della scuola primaria Segantini.",
+                "operator": "Scuola Segantini"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6584070626,
+            "lat": 45.9636821,
+            "lon": 10.9102632,
+            "tags": {
+                "leisure": "nature_reserve",
+                "name": "Riserva locale \"Le Gere\""
+            }
+        },
+        {
+            "type": "node",
+            "id": 7556490743,
+            "lat": 46.1100527,
+            "lon": 11.1565245,
+            "tags": {
+                "access": "permissive",
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7561867183,
+            "lat": 46.112705,
+            "lon": 11.160773,
+            "tags": {
+                "access": "yes",
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7840326709,
+            "lat": 46.3932328,
+            "lon": 11.078524,
+            "tags": {
+                "leisure": "nature_reserve",
+                "name": "Parco Fluviale Novella"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7872350669,
+            "lat": 45.9695671,
+            "lon": 11.2630402,
+            "tags": {
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8605455421,
+            "lat": 46.1162473,
+            "lon": 11.1603738,
+            "tags": {
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8617567928,
+            "lat": 46.1170766,
+            "lon": 11.1608833,
+            "tags": {
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8670945790,
+            "lat": 46.1212125,
+            "lon": 11.1946016,
+            "tags": {
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8670945793,
+            "lat": 46.1214825,
+            "lon": 11.1948478,
+            "tags": {
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8670945794,
+            "lat": 46.1214815,
+            "lon": 11.1940942,
+            "tags": {
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8670945797,
+            "lat": 46.1210743,
+            "lon": 11.1939947,
+            "tags": {
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8675200685,
+            "lat": 46.1170598,
+            "lon": 11.1894267,
+            "tags": {
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8789310170,
+            "lat": 46.0343274,
+            "lon": 10.7965721,
+            "tags": {
+                "access": "yes",
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9922974695,
+            "lat": 45.6559612,
+            "lon": 11.1278592,
+            "tags": {
+                "description": "Seems reasonably permanent but not official",
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9923013722,
+            "lat": 45.6559612,
+            "lon": 11.1278592,
+            "tags": {
+                "description": "Seems reasonably permanent but not official",
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10184101550,
+            "lat": 45.6872572,
+            "lon": 11.1221369,
+            "tags": {
+                "leisure": "firepit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10184101551,
+            "lat": 45.6869644,
+            "lon": 11.1214375,
+            "tags": {
+                "leisure": "firepit"
+            }
+        }
+    ]
+}

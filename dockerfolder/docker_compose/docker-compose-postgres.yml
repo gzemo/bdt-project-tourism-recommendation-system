@@ -1,0 +1,20 @@
+version: '3' 
+# each service corresponds to a container
+
+services: 
+  postgres: 
+    image: postgres:14.1-alpine       
+    restart: always #there is also the option unless-stopped
+    container_name: postgres #this is the name of the container 
+
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=123
+      - POSTGRES_DB=bdt
+      - DB_SCHEMA=public
+
+    ports:
+      #[port we want on our machine]:[port we want to retrieve in the container] by default a postgres database is running on the 5432 port
+      # default 5432:5432
+      # proposed 5433:5433
+      - '5433:5432' 

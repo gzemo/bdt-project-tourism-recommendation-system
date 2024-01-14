@@ -1,0 +1,3201 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.60.6 e2dc3e5b",
+    "osm3s": {
+        "timestamp_osm_base": "2023-06-14T18:41:16Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+        {
+            "type": "node",
+            "id": 250068699,
+            "lat": 45.9244875,
+            "lon": 10.8719029,
+            "tags": {
+                "name": "Falesia di Baone",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 268795930,
+            "lat": 46.0272322,
+            "lon": 10.9712019,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia S.Siro",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 268797932,
+            "lat": 46.0102793,
+            "lon": 10.9751067,
+            "tags": {
+                "name": "Area arrampicata attrezzata",
+                "name:en": "Outdoor, bolted climbing wall",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 272274746,
+            "lat": 45.9374186,
+            "lon": 10.8942308,
+            "tags": {
+                "created_by": "JOSM",
+                "name": "San Paolo",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 287973907,
+            "lat": 46.3807386,
+            "lon": 10.9599299,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 293114875,
+            "lat": 46.0595994,
+            "lon": 10.9612606,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "La Gola",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 293114876,
+            "lat": 46.0593264,
+            "lon": 10.9670808,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia La Gola - Pezzent Area",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 333780902,
+            "lat": 46.3149446,
+            "lon": 10.7960813,
+            "tags": {
+                "addr:city": "Mezzana",
+                "addr:postcode": "38020",
+                "addr:street": "Palazzetto dello Sport,Via per Marilleva,Loc. Del, Via del Pressenach",
+                "building": "yes",
+                "fee": "yes",
+                "leisure": "sports_centre",
+                "name": "X Rafting",
+                "sport": "canoe;rafting"
+            }
+        },
+        {
+            "type": "node",
+            "id": 427524154,
+            "lat": 45.7745861,
+            "lon": 10.8625384,
+            "tags": {
+                "leisure": "pitch",
+                "source": "survey",
+                "sport": "free_flying"
+            }
+        },
+        {
+            "type": "node",
+            "id": 427524155,
+            "lat": 45.7806396,
+            "lon": 10.8626307,
+            "tags": {
+                "access": "yes",
+                "free_flying:paragliding": "yes",
+                "free_flying:site": "takeoff",
+                "leisure": "pitch",
+                "lit": "no",
+                "source": "survey",
+                "sport": "free_flying",
+                "surface": "grass"
+            }
+        },
+        {
+            "type": "node",
+            "id": 427547691,
+            "lat": 46.1395851,
+            "lon": 10.9655861,
+            "tags": {
+                "free_flying:hanggliding": "yes",
+                "free_flying:official": "yes",
+                "free_flying:paragliding": "yes",
+                "free_flying:site": "landing",
+                "free_flying:tandem": "yes",
+                "leisure": "pitch",
+                "name": "Molveno",
+                "source": "survey",
+                "sport": "free_flying"
+            }
+        },
+        {
+            "type": "node",
+            "id": 448837185,
+            "lat": 45.7893987,
+            "lon": 11.4840874,
+            "tags": {
+                "ele": "1275",
+                "free_flying:hanggliding": "yes",
+                "free_flying:paragliding": "yes",
+                "free_flying:site": "takeoff",
+                "free_flying:site_orientation": "S",
+                "sport": "free_flying",
+                "tourism": "viewpoint"
+            }
+        },
+        {
+            "type": "node",
+            "id": 454228715,
+            "lat": 46.4228006,
+            "lon": 11.2874861,
+            "tags": {
+                "name": "Ruderboot-Verleih - Noleggio di barche a remi",
+                "name:de": "Ruderboot-Verleih",
+                "name:it": "Noleggio di barche a remi",
+                "sport": "canoe"
+            }
+        },
+        {
+            "type": "node",
+            "id": 711865889,
+            "lat": 45.8379889,
+            "lon": 10.5691253,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Corna dal Vescov",
+                "sport": "climbing",
+                "website": "http://www.caisatstoro.it/index.php/strumenti/palestra-corna-del-vescov"
+            }
+        },
+        {
+            "type": "node",
+            "id": 765601126,
+            "lat": 46.0607624,
+            "lon": 10.9257211,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Klettergarten \"Limarock\"",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 765601128,
+            "lat": 46.0474486,
+            "lon": 10.9461358,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Limar\u00f2",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 766029403,
+            "lat": 46.3125798,
+            "lon": 11.3220203,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 766096771,
+            "lat": 46.3672591,
+            "lon": 11.2422691,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 863901400,
+            "lat": 45.8639336,
+            "lon": 10.8805582,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Busatte Adventure",
+                "sport": "climbing_adventure",
+                "website": "https://busatteadventure.it/",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 865160885,
+            "lat": 45.8805674,
+            "lon": 10.8869872,
+            "tags": {
+                "climbing:bolted": "1m",
+                "climbing:grade:french:max": "6a",
+                "climbing:grade:french:min": "3b",
+                "climbing:length": "20",
+                "climbing:orientation": "S",
+                "climbing:rock": "limestone",
+                "climbing:sport": "yes",
+                "leisure": "sports_centre",
+                "name": "Falesia Belvedere Sector A",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 865161982,
+            "lat": 45.8807838,
+            "lon": 10.8879426,
+            "tags": {
+                "climbing:bolted": "1m",
+                "climbing:grade:french:max": "7c",
+                "climbing:grade:french:min": "3b",
+                "climbing:length": "20",
+                "climbing:orientation": "S",
+                "climbing:quality": "solid",
+                "climbing:rock": "limestone",
+                "climbing:sport": "yes",
+                "leisure": "sports_centre",
+                "name": "Falesia Belvedere Sector B",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 944269702,
+            "lat": 46.0461756,
+            "lon": 10.7504552,
+            "tags": {
+                "name": "Falesia Croz de la niere",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 944288551,
+            "lat": 45.889534,
+            "lon": 11.0589033,
+            "tags": {
+                "name": "Noriglio",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 944296572,
+            "lat": 45.8679902,
+            "lon": 10.8972702,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia di Traole",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 959231770,
+            "lat": 45.8465357,
+            "lon": 10.8631198,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 959468944,
+            "lat": 45.8451073,
+            "lon": 10.8636834,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 959468950,
+            "lat": 45.8450436,
+            "lon": 10.862936,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 961334519,
+            "lat": 46.0535267,
+            "lon": 10.5170827,
+            "tags": {
+                "climbing:orientation": "S",
+                "climbing:quality": "solid",
+                "climbing:sport": "yes",
+                "name": "Parete Artificiale Malga Bissina",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1219944762,
+            "lat": 46.4819732,
+            "lon": 11.1312765,
+            "tags": {
+                "sport": "climbing",
+                "type": "cliff"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1329922437,
+            "lat": 46.2805794,
+            "lon": 10.7388166,
+            "tags": {
+                "name": "Palestra di roccia",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1395199018,
+            "lat": 46.1714453,
+            "lon": 10.7476038,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1438773974,
+            "lat": 45.8865459,
+            "lon": 11.1574151,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia di Serrada",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1493354852,
+            "lat": 45.9724586,
+            "lon": 10.865473,
+            "tags": {
+                "name": "Parco dell'Arrampicata Val Lomasone - Settore Roccia dei Folletti",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1524662825,
+            "lat": 45.9377259,
+            "lon": 10.8942248,
+            "tags": {
+                "name": "Via Calliope",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1576759993,
+            "lat": 46.0578921,
+            "lon": 10.8548235,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1725739819,
+            "lat": 45.9288982,
+            "lon": 10.9028897,
+            "tags": {
+                "check_date": "2021-09-01",
+                "description": "Bosco Caproni",
+                "information": "map",
+                "map_size": "site",
+                "map_type": "scheme",
+                "name": "Bosco Caproni",
+                "sport": "climbing",
+                "tourism": "information"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1760865591,
+            "lat": 45.9729669,
+            "lon": 10.8652789,
+            "tags": {
+                "climbing:bolted": "1m",
+                "climbing:orientation": "W",
+                "climbing:quality": "solid",
+                "climbing:rock": "limestone",
+                "climbing:sport": "yes",
+                "name": "Val Lomasone",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1831866724,
+            "lat": 45.932932,
+            "lon": 11.0394778,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1863341904,
+            "lat": 46.4701955,
+            "lon": 11.3147706,
+            "tags": {
+                "addr:housenumber": "4",
+                "addr:street": "Via Waltraud Gebert Deeg - Waltraud-Gebert-Deeg-Stra\u00dfe",
+                "leisure": "sports_centre",
+                "name": "Salewa Cube",
+                "sport": "climbing",
+                "website": "http://www.salewa-cube.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1874027086,
+            "lat": 45.7461589,
+            "lon": 11.1857328,
+            "tags": {
+                "int_name": "Free climbing",
+                "name": "Falesia free climbing",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1887588770,
+            "lat": 45.8764431,
+            "lon": 11.0469539,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1950602797,
+            "lat": 45.9209879,
+            "lon": 10.9984228,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1992721143,
+            "lat": 45.8695909,
+            "lon": 10.8947226,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Segrom - Settore Basso",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2081539344,
+            "lat": 45.8737433,
+            "lon": 10.9096362,
+            "tags": {
+                "climbing:boulder": "yes",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2194569436,
+            "lat": 46.0279392,
+            "lon": 10.9460088,
+            "tags": {
+                "climbing:boulder": "yes",
+                "leisure": "sports_centre",
+                "name": "Campfour Boulder",
+                "sport": "climbing",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2200290913,
+            "lat": 46.0279922,
+            "lon": 10.9699262,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia S.Siro",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2262105333,
+            "lat": 46.3692506,
+            "lon": 11.090716,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2338603983,
+            "lat": 45.9291847,
+            "lon": 10.9025846,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia Massone Policromuro",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2357942547,
+            "lat": 46.4841789,
+            "lon": 11.3549467,
+            "tags": {
+                "name": "Falesia - Klettergarten \"Regno dei Ragni",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2410390011,
+            "lat": 46.0366736,
+            "lon": 11.1540893,
+            "tags": {
+                "climbing:bolted": "yes",
+                "climbing:boulder": "no",
+                "climbing:deepwater": "no",
+                "climbing:grade:uiaa:max": "VII",
+                "climbing:grade:uiaa:min": "III",
+                "climbing:ice": "no",
+                "climbing:length:max": "30",
+                "climbing:length:min": "7",
+                "climbing:mixed": "no",
+                "climbing:multipitch": "no",
+                "climbing:sport": "yes",
+                "name": "Palestra di roccia Bindesi",
+                "sport": "climbing",
+                "url": "http://www.trekking-etc.it/etc/trekking/it/treks/europe/it/tn/trento/marzola/palestra-dei-bindesi/palestra-di-roccia/poi.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2421337217,
+            "lat": 46.1041321,
+            "lon": 11.0482382,
+            "tags": {
+                "playground": "climbingframe",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2437406131,
+            "lat": 46.0917106,
+            "lon": 11.091684,
+            "tags": {
+                "name": "Falesia della Vela - Settore B",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2641465725,
+            "lat": 46.0465305,
+            "lon": 11.1332036,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:housenumber": "88",
+                "addr:postcode": "38128",
+                "addr:street": "Via della Malpensada",
+                "contact:instagram": "sanbapolis",
+                "leisure": "sports_centre",
+                "name": "Palestra di roccia San Bartolameo",
+                "name:en": "Climbing hall",
+                "opening_hours": "Mo-Fr 12:00-22:30, Sa-Su 09:00-22:00",
+                "sport": "climbing",
+                "website": "http://www.sanbapolis.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2747184346,
+            "lat": 46.093637,
+            "lon": 11.0395148,
+            "tags": {
+                "name": "Palestra di roccia",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2748158445,
+            "lat": 46.088156,
+            "lon": 11.0341495,
+            "tags": {
+                "name": "Palestra di roccia",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2823294379,
+            "lat": 45.863738,
+            "lon": 10.8290251,
+            "tags": {
+                "name": "Settore D, Piccolo Budda",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2823299116,
+            "lat": 45.8641749,
+            "lon": 10.8272262,
+            "tags": {
+                "description": "This is shown as 'Spirito Libero' in Osmand which is misleading. 'Spirito Libero' is only one Route in 'Settore C'",
+                "name": "Settore C",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2823299117,
+            "lat": 45.8649316,
+            "lon": 10.8276422,
+            "tags": {
+                "name": "Settore A",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2823309736,
+            "lat": 45.8643023,
+            "lon": 10.8268721,
+            "tags": {
+                "name": "Settore B",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2823428717,
+            "lat": 45.8771238,
+            "lon": 10.8383197,
+            "tags": {
+                "name": "La Ponta",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2876402386,
+            "lat": 45.921955,
+            "lon": 11.0128371,
+            "tags": {
+                "climbing:sport": "2",
+                "name": "La Zolina",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2916166105,
+            "lat": 45.7407725,
+            "lon": 11.3935947,
+            "tags": {
+                "name": "La Fessura Matrassa",
+                "natural": "rock",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2945855811,
+            "lat": 45.8610248,
+            "lon": 10.5789403,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3055394399,
+            "lat": 45.8487277,
+            "lon": 10.8627904,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3079690680,
+            "lat": 46.3205238,
+            "lon": 11.2134857,
+            "tags": {
+                "name": "Klettergarten Hintersegg - Falesia Hintersegg",
+                "name:de": "Klettergarten Hintersegg",
+                "name:it": "Falesia Hintersegg",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3265428590,
+            "lat": 45.8840786,
+            "lon": 10.9066521,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3299243508,
+            "lat": 45.8734995,
+            "lon": 10.9270299,
+            "tags": {
+                "name": "Palestra di Roccia",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3369037366,
+            "lat": 45.8677096,
+            "lon": 10.9518386,
+            "tags": {
+                "name": "Palestra di roccia",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3464870829,
+            "lat": 46.0597275,
+            "lon": 10.9666468,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia La Gola - Arcadioland",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3469987860,
+            "lat": 45.8635073,
+            "lon": 10.8264217,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3470008090,
+            "lat": 46.047487,
+            "lon": 10.9459936,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Piccolo Dain - Parete della Centrale",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3476733425,
+            "lat": 45.9314385,
+            "lon": 10.8788096,
+            "tags": {
+                "name": "L'Orto",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3570249399,
+            "lat": 45.8857125,
+            "lon": 10.911836,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Palestra Naranc",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3583918547,
+            "lat": 45.9542617,
+            "lon": 10.9205502,
+            "tags": {
+                "name": "Lastoni di Dro",
+                "name:it": "Lastoni di Dro",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3599269560,
+            "lat": 45.9026546,
+            "lon": 10.9557093,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3668446132,
+            "lat": 45.9843016,
+            "lon": 10.5294798,
+            "tags": {
+                "name": "Simoncelli 7c",
+                "natural": "stone",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3701539885,
+            "lat": 46.161181,
+            "lon": 10.8922197,
+            "tags": {
+                "climbing:multipitch": "yes",
+                "climbing:trad": "yes",
+                "ele": "2300",
+                "name": "Fehrmannverschneidung",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3780773642,
+            "lat": 45.9795231,
+            "lon": 10.9472034,
+            "tags": {
+                "name": "Nikolas Tesla",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3810570576,
+            "lat": 45.9259193,
+            "lon": 10.7187694,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "ex centrale",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3810570582,
+            "lat": 45.8622226,
+            "lon": 10.6442281,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3823046854,
+            "lat": 45.6704481,
+            "lon": 11.1191618,
+            "tags": {
+                "name": "Cascata dell'Orco",
+                "natural": "cliff",
+                "sport": "climbing",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3823047496,
+            "lat": 45.680581,
+            "lon": 11.1254327,
+            "tags": {
+                "name": "Cascata della Valle Rossa",
+                "natural": "cliff",
+                "sport": "climbing",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3976203459,
+            "lat": 45.8751919,
+            "lon": 10.9128276,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4018391160,
+            "lat": 45.857271,
+            "lon": 10.980794,
+            "tags": {
+                "name": "Sas dei 4 pini",
+                "natural": "stone",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4171979697,
+            "lat": 45.9274366,
+            "lon": 10.8902742,
+            "tags": {
+                "access": "yes",
+                "climbing": "yes",
+                "climbing:bolted": "1 m",
+                "climbing:boulder": "yes",
+                "climbing:grade:french:max": "7c",
+                "climbing:grade:french:min": "4a",
+                "climbing:length": "12",
+                "climbing:rock": "limestone",
+                "climbing:sport": "yes",
+                "climbing:toprope": "yes",
+                "leisure": "sports_centre",
+                "name": "Massi Di Prabi",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4171979698,
+            "lat": 45.944746,
+            "lon": 10.8999947,
+            "tags": {
+                "access": "yes",
+                "climbing:grade:french:mean": "8a+",
+                "climbing:sport": "yes",
+                "name": "Zauberfee",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4171994112,
+            "lat": 45.9282128,
+            "lon": 10.8904343,
+            "tags": {
+                "access": "yes",
+                "climbing": "yes",
+                "climbing:bolted": "1 m",
+                "climbing:boulder": "yes",
+                "climbing:grade:french:max": "7c",
+                "climbing:grade:french:min": "4a",
+                "climbing:length": "12",
+                "climbing:rock": "limestone",
+                "climbing:sport": "yes",
+                "climbing:toprope": "yes",
+                "leisure": "sports_centre",
+                "name": "Block A",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4171994113,
+            "lat": 45.9276895,
+            "lon": 10.8902451,
+            "tags": {
+                "access": "yes",
+                "climbing": "yes",
+                "climbing:bolted": "1 m",
+                "climbing:boulder": "yes",
+                "climbing:grade:french:max": "7c",
+                "climbing:grade:french:min": "4a",
+                "climbing:length": "12",
+                "climbing:rock": "limestone",
+                "climbing:sport": "yes",
+                "climbing:toprope": "yes",
+                "leisure": "sports_centre",
+                "name": "Block D; Block 2",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4175487127,
+            "lat": 45.9276434,
+            "lon": 10.8908963,
+            "tags": {
+                "access": "yes",
+                "climbing": "yes",
+                "climbing:boulder": "yes",
+                "climbing:rock": "limestone",
+                "climbing:sport": "yes",
+                "climbing:toprope": "yes",
+                "leisure": "sports_centre",
+                "name": "Block 1",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4175487128,
+            "lat": 45.9260277,
+            "lon": 10.8890455,
+            "tags": {
+                "access": "yes",
+                "climbing": "yes",
+                "climbing:boulder": "yes",
+                "climbing:rock": "limestone",
+                "climbing:sport": "yes",
+                "climbing:toprope": "yes",
+                "leisure": "sports_centre",
+                "name": "Block 11 - Passi falsi",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4175487129,
+            "lat": 45.9282702,
+            "lon": 10.8891958,
+            "tags": {
+                "access": "yes",
+                "climbing": "yes",
+                "climbing:boulder": "yes",
+                "climbing:rock": "limestone",
+                "climbing:sport": "yes",
+                "climbing:toprope": "yes",
+                "leisure": "sports_centre",
+                "name": "Settore B",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4175487130,
+            "lat": 45.9452617,
+            "lon": 10.9002277,
+            "tags": {
+                "access": "yes",
+                "climbing:grade:french:mean": "8a+",
+                "climbing:sport": "yes",
+                "name": "Demetra",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4175487131,
+            "lat": 45.9453701,
+            "lon": 10.9002677,
+            "tags": {
+                "climbing:grade:french:mean": "VI+",
+                "climbing:multipitch": "yes",
+                "climbing:sport": "yes",
+                "name": "Nereidi",
+                "outdoor": "no",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4176959165,
+            "lat": 45.8689985,
+            "lon": 10.8956205,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Segrom - Settore Centrale",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4187008997,
+            "lat": 45.8634544,
+            "lon": 10.8267378,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Babilonia",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4187008998,
+            "lat": 45.8634693,
+            "lon": 10.8275009,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Fiori di Primavera",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4187009046,
+            "lat": 45.8633956,
+            "lon": 10.8269672,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Sesto Senso",
+                "sport": "climbing",
+                "website": "http://www.gardaclimbing.it/settore/multipich-regina-del-lago/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4187041689,
+            "lat": 45.9760742,
+            "lon": 10.9153476,
+            "tags": {
+                "climbing": "crag",
+                "climbing:multipitch": "4",
+                "name": "Parete di Sherwood",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4187041861,
+            "lat": 45.9732977,
+            "lon": 10.9145242,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4189004864,
+            "lat": 46.0130516,
+            "lon": 10.9300113,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Via Alessandro Avancini",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4189049310,
+            "lat": 45.9372116,
+            "lon": 10.8935071,
+            "tags": {
+                "name": "Via Caldo Inverno",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4199421181,
+            "lat": 45.995096,
+            "lon": 10.9167551,
+            "tags": {
+                "climbing": "route_bottom",
+                "name": "Gino Gianna",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4199421188,
+            "lat": 45.9954854,
+            "lon": 10.9172406,
+            "tags": {
+                "climbing": "route_bottom",
+                "name": "Man Ilia",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4215597751,
+            "lat": 46.0725459,
+            "lon": 11.1859247,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia Celva",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4264858492,
+            "lat": 45.9956779,
+            "lon": 10.5261344,
+            "tags": {
+                "climbing:boulder": "yes",
+                "climbing:rock": "granite",
+                "name": "Settore Curva",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4294210350,
+            "lat": 46.0277741,
+            "lon": 10.7607701,
+            "tags": {
+                "name": "La Larga di Saone",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4409839047,
+            "lat": 45.8864943,
+            "lon": 10.8398569,
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:postcode": "38066",
+                "addr:street": "Porta San Marco",
+                "check_date": "2023-05-28",
+                "email": "info@satrivadelgarda.it",
+                "name": "Societ\u00e0 Alpinisti Tridentini - Sezione di Riva del Garda",
+                "office": "association",
+                "ref:vatin": "IT93014870229",
+                "sport": "climbing",
+                "website": "http://www.satrivadelgarda.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4449216209,
+            "lat": 46.0131837,
+            "lon": 11.6515574,
+            "tags": {
+                "alt_name": "Falesia di Serafini",
+                "climbing:grade:french:max": "8a",
+                "climbing:grade:french:min": "5a",
+                "climbing:sport": "38",
+                "name": "Falesia La Curva",
+                "sport": "climbing",
+                "website": "http://www.trentinoexperience.net/d-arr_sport_FALESIE_154.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4498519643,
+            "lat": 46.0973349,
+            "lon": 11.1358752,
+            "tags": {
+                "climbing": "crag",
+                "climbing:bolted": "2 m",
+                "climbing:crag": "Calisio storica",
+                "climbing:grade:french:max": "7b",
+                "climbing:grade:french:mean": "6b",
+                "climbing:grade:french:min": "5c+",
+                "climbing:length": "20 m",
+                "climbing:orientation": "s",
+                "climbing:quality": "solid",
+                "climbing:rock": "limestone",
+                "climbing:sport": "10",
+                "height": "20",
+                "name": "Falesia Calisio storica",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4498519667,
+            "lat": 46.096285,
+            "lon": 11.1381926,
+            "tags": {
+                "climbing": "crag",
+                "climbing:bolted": "yes",
+                "climbing:crag": "Drago nascosto",
+                "climbing:length": "20 m",
+                "climbing:orientation": "s",
+                "climbing:rock": "limestone",
+                "name": "Falesia Drago Nascosto",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4498520689,
+            "lat": 46.0966003,
+            "lon": 11.1363687,
+            "tags": {
+                "climbing": "crag",
+                "climbing:bolted": "yes",
+                "climbing:crag": "Lo scudo",
+                "climbing:length": "20 m",
+                "climbing:orientation": "s",
+                "climbing:quality": "solid",
+                "climbing:rock": "limestone",
+                "height": "20",
+                "name": "Falesia Lo scudo",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4498737379,
+            "lat": 46.087845,
+            "lon": 11.0939241,
+            "tags": {
+                "name": "Falesia della Vela - Settore A",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4499029736,
+            "lat": 46.0947709,
+            "lon": 11.1512152,
+            "tags": {
+                "climbing": "crag",
+                "climbing:bolted": "2 m",
+                "climbing:crag": "Makkiodromo",
+                "climbing:grade:french:max": "6b",
+                "climbing:grade:french:mean": "5b",
+                "climbing:grade:french:min": "5a",
+                "climbing:length": "20 m",
+                "climbing:orientation": "s",
+                "climbing:quality": "solid",
+                "climbing:rock": "limestone",
+                "climbing:sport": "10",
+                "height": "25",
+                "name": "Falesia Makkiodromo",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4597900600,
+            "lat": 45.9432901,
+            "lon": 11.0657594,
+            "tags": {
+                "leisure": "pitch",
+                "name": "Falesia \"Servis\"",
+                "sport": "climbing",
+                "surface": "rock"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4637900091,
+            "lat": 45.7034716,
+            "lon": 11.4639729,
+            "tags": {
+                "leisure": "fitness_centre",
+                "name": "Sala Boulder Area 57 JM",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4708672867,
+            "lat": 45.8042997,
+            "lon": 11.4385938,
+            "tags": {
+                "ele": "1254",
+                "free_flying:hanggliding": "yes",
+                "free_flying:paragliding": "yes",
+                "free_flying:site": "takeoff",
+                "free_flying:site_orientation": "SE",
+                "sport": "free_flying"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4795453547,
+            "lat": 46.0949739,
+            "lon": 11.1471862,
+            "tags": {
+                "climbing": "crag",
+                "climbing:bolted": "2 m",
+                "climbing:crag": "Mescalisio",
+                "climbing:grade:french:max": "6b",
+                "climbing:grade:french:mean": "5c",
+                "climbing:grade:french:min": "5b",
+                "climbing:length": "18 m",
+                "climbing:orientation": "s",
+                "climbing:quality": "solid",
+                "climbing:rock": "limestone",
+                "climbing:sport": "10",
+                "height": "25",
+                "name": "Falesia Mescalisio",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4830519597,
+            "lat": 45.9395709,
+            "lon": 11.2500283,
+            "tags": {
+                "description": "Masso ciclopico con vie di arrampicata",
+                "leisure": "sports_centre",
+                "name": "Palestra di roccia Prombis",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4830529778,
+            "lat": 46.3472183,
+            "lon": 10.9265737,
+            "tags": {
+                "leisure": "fitness_station",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4849878057,
+            "lat": 45.9439639,
+            "lon": 10.8996901,
+            "tags": {
+                "access": "yes",
+                "climbing:grade:french:mean": "6b",
+                "climbing:sport": "yes",
+                "name": "Porci con le Ali",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4880538082,
+            "lat": 46.088669,
+            "lon": 11.1754292,
+            "tags": {
+                "name": "Falesia Finestron",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4880622851,
+            "lat": 46.137903,
+            "lon": 11.073813,
+            "tags": {
+                "name": "Falesia di Zambana",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4895732825,
+            "lat": 45.9300762,
+            "lon": 10.9038213,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia Abissi",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4911193409,
+            "lat": 46.1703418,
+            "lon": 11.7083822,
+            "tags": {
+                "name": "Falesia Salina",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4932398240,
+            "lat": 46.2483,
+            "lon": 11.2349904,
+            "tags": {
+                "name": "Garbe",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4960356098,
+            "lat": 46.0356958,
+            "lon": 10.510582,
+            "tags": {
+                "natural": "stone",
+                "sport": "climbing",
+                "website": "http://daoneboulder.blogspot.it/p/blog-page_26.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5140946526,
+            "lat": 45.9300438,
+            "lon": 10.887371,
+            "tags": {
+                "climbing:bolted": "yes",
+                "climbing:grade:french:max": "6a",
+                "climbing:grade:french:mean": "5b",
+                "climbing:grade:french:min": "4c",
+                "climbing:length": "9",
+                "climbing:length:max": "10",
+                "climbing:length:min": "8",
+                "climbing:orientation": "W",
+                "climbing:sport": "yes",
+                "leisure": "sports_centre",
+                "name": "Muro dell'Asino",
+                "outdoor": "yes",
+                "sport": "climbing",
+                "website": "https://maps.gardatrentino.it/de/tour/alpinklettern/muro-dell-asino-klettergarten--45-routen-von-4a-bis-6b-/7922669/",
+                "wikidata": "Q82992190"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5148331682,
+            "lat": 45.9771843,
+            "lon": 10.9148779,
+            "tags": {
+                "climbing": "route_bottom",
+                "climbing:grade:uiaa": "7-",
+                "leisure": "sports_centre",
+                "name": "Dinosauri",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5187352097,
+            "lat": 45.7658222,
+            "lon": 11.4805788,
+            "tags": {
+                "free_flying:hanggliding": "yes",
+                "free_flying:official": "yes",
+                "free_flying:paragliding": "yes",
+                "free_flying:site": "landing",
+                "sport": "free_flying",
+                "surface": "grass",
+                "website": "www.trattoriasantantonio.com/index.php/parapendio"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5214714011,
+            "lat": 46.0932132,
+            "lon": 11.1525488,
+            "tags": {
+                "climbing": "crag",
+                "climbing:bolted": "2 m",
+                "climbing:crag": "Sasso dei Matti",
+                "climbing:grade:french:max": "6a+",
+                "climbing:grade:french:mean": "5c",
+                "climbing:grade:french:min": "5a",
+                "climbing:length": "10",
+                "climbing:quality": "solid",
+                "climbing:rock": "limestone",
+                "climbing:sport": "5",
+                "name": "Falesia Sasso dei Matti",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5264270906,
+            "lat": 46.037935,
+            "lon": 10.9918905,
+            "tags": {
+                "name": "Falesia Castel Madruzzo",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5276939082,
+            "lat": 45.6605697,
+            "lon": 11.1349547,
+            "tags": {
+                "climbing": "route",
+                "intermittent": "yes",
+                "name": "Cascata Alar",
+                "natural": "cliff",
+                "sport": "climbing",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5374871948,
+            "lat": 46.0593346,
+            "lon": 10.8086575,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia Coltura",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5501538122,
+            "lat": 46.0813355,
+            "lon": 11.1684501,
+            "tags": {
+                "climbing:sport": "yes",
+                "name": "Falesia dei Forti",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5501703593,
+            "lat": 46.0913923,
+            "lon": 11.1607575,
+            "tags": {
+                "name": "Falesia Tradpel",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5590944670,
+            "lat": 45.837863,
+            "lon": 10.5669863,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5663265081,
+            "lat": 46.0709772,
+            "lon": 10.9047434,
+            "tags": {
+                "name": "Falesia Promeghin",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5714743734,
+            "lat": 46.0663462,
+            "lon": 11.0995015,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5761846753,
+            "lat": 45.8691666,
+            "lon": 10.8944809,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Massi delle Traole - Settore A-G",
+                "sport": "climbing",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5840055901,
+            "lat": 46.0168511,
+            "lon": 11.4406623,
+            "tags": {
+                "name": "Falesia Crozi di Sella",
+                "natural": "rock",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5884748747,
+            "lat": 45.9024479,
+            "lon": 10.9774875,
+            "tags": {
+                "leisure": "pitch",
+                "sport": "free_flying"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6052997606,
+            "lat": 45.9743717,
+            "lon": 10.9151155,
+            "tags": {
+                "climbing": "route_bottom",
+                "climbing:grade:uiaa": "6, 5+",
+                "climbing:multipitch": "13",
+                "leisure": "sports_centre",
+                "name": "Il Mercurio serpeggiante",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6052997627,
+            "lat": 45.9750875,
+            "lon": 10.9150189,
+            "tags": {
+                "climbing": "route_bottom",
+                "climbing:grade:uiaa": "7",
+                "climbing:multipitch": "10",
+                "leisure": "sports_centre",
+                "name": "Te lo do io il colorado",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6055108997,
+            "lat": 46.0932208,
+            "lon": 11.1542022,
+            "tags": {
+                "climbing": "crag",
+                "climbing:bolted": "1m",
+                "climbing:crag": "Cartoon Network",
+                "climbing:grade:french:max": "6a",
+                "climbing:grade:french:mean": "5a",
+                "climbing:grade:french:min": "4c",
+                "climbing:length": "12",
+                "climbing:quality": "solid",
+                "climbing:rock": "limestone",
+                "climbing:sport": "20",
+                "height": "12",
+                "name": "Falesia Cartoon Network",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6058200834,
+            "lat": 46.0835049,
+            "lon": 11.0963369,
+            "tags": {
+                "name": "Falesia Schizzolandia",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6071665622,
+            "lat": 46.0680644,
+            "lon": 10.9784684,
+            "tags": {
+                "climbing": "route_bottom",
+                "climbing:grade:uiaa": "4+",
+                "leisure": "sports_centre",
+                "name": "Lo Spigolo Nascosto",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6071665623,
+            "lat": 46.0678273,
+            "lon": 10.9791829,
+            "tags": {
+                "climbing": "route_bottom",
+                "climbing:grade:uiaa": "4",
+                "leisure": "sports_centre",
+                "name": "Lo Spigolo Nascosto",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6103356415,
+            "lat": 46.0556875,
+            "lon": 10.959913,
+            "tags": {
+                "name": "Falesia Bassilandia",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6113372645,
+            "lat": 45.9394865,
+            "lon": 11.7223223,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6115517596,
+            "lat": 45.9477641,
+            "lon": 11.0783869,
+            "tags": {
+                "leisure": "pitch",
+                "name": "Falesia \"Val Granda\"",
+                "sport": "climbing",
+                "surface": "rock"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6252338463,
+            "lat": 45.9984762,
+            "lon": 11.124874,
+            "tags": {
+                "addr:city": "Mattarello",
+                "addr:housenumber": "25",
+                "addr:postcode": "38123",
+                "addr:street": "Localit\u00e0 le Basse",
+                "contact:instagram": "infinityboulder",
+                "email": "infinityboulder@gmail.com",
+                "leisure": "sports_centre",
+                "name": "Infinity Boulder",
+                "opening_hours": "Tu 07:30-11:30, 16:30-22:30; We 10:00-22:00; Th 07:30-11:30, 16:30-22:30; Fr 12:00-22:00; Sa, Su 10:00-20:00",
+                "phone": "+39 345 7767114",
+                "sport": "climbing",
+                "website": "http://infinityboulder.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6340090581,
+            "lat": 45.8419066,
+            "lon": 11.0288102,
+            "tags": {
+                "climbing:rock": "limestone",
+                "climbing:sport": "yes",
+                "fee": "no",
+                "name": "Piste dei dinosauri",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6372974565,
+            "lat": 46.1559206,
+            "lon": 11.185505,
+            "tags": {
+                "name": "Falesia dry-tooling",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6380813927,
+            "lat": 46.1504777,
+            "lon": 11.2681156,
+            "tags": {
+                "name": "Falesia Martino Giovannini - Rizzolaga",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6380885157,
+            "lat": 45.9381165,
+            "lon": 11.115278,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia Cola Grant",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6402783970,
+            "lat": 46.2007728,
+            "lon": 11.3180178,
+            "tags": {
+                "name": "Falesia arrampicata",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6432886287,
+            "lat": 46.0377099,
+            "lon": 10.9025332,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Palestra Arrampicata di Comano",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6467549651,
+            "lat": 45.9269117,
+            "lon": 10.888745,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Gaia",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6467555251,
+            "lat": 45.9266038,
+            "lon": 10.888643,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Aspettando Martino",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6468144845,
+            "lat": 45.9952874,
+            "lon": 10.9170014,
+            "tags": {
+                "climbing": "route_bottom",
+                "leisure": "sports_centre",
+                "name": "Via Trento",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6538138017,
+            "lat": 45.9984001,
+            "lon": 10.5243927,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6538138047,
+            "lat": 45.9987336,
+            "lon": 10.5221075,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6643124643,
+            "lat": 46.2486091,
+            "lon": 11.2346968,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6710983949,
+            "lat": 46.1641429,
+            "lon": 10.6640319,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6743806901,
+            "lat": 45.6346523,
+            "lon": 11.2547354,
+            "tags": {
+                "name": "Falesia di Castelvecchio",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6747033527,
+            "lat": 46.1432741,
+            "lon": 10.9526965,
+            "tags": {
+                "name": "Sant' Antonio",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6806480796,
+            "lat": 46.2297649,
+            "lon": 11.0982081,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7024219489,
+            "lat": 45.6930033,
+            "lon": 11.2277564,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7035170140,
+            "lat": 46.0579693,
+            "lon": 10.8549014,
+            "tags": {
+                "leisure": "sports_centre",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7167002886,
+            "lat": 46.0895947,
+            "lon": 11.1695592,
+            "tags": {
+                "climbing": "crag",
+                "climbing:bolted": "2.5",
+                "climbing:grade:french:max": "5c",
+                "climbing:grade:french:mean": "5a",
+                "climbing:grade:french:min": "4c",
+                "climbing:length": "25",
+                "climbing:orientation": "south",
+                "climbing:quality": "solid",
+                "climbing:rock": "limestone",
+                "climbing:sport": "12",
+                "ele": "700",
+                "name": "Falesia La Placca che spacca",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7167017913,
+            "lat": 46.0953575,
+            "lon": 11.1433305,
+            "tags": {
+                "climbing": "crag",
+                "climbing:bolted": "2 m",
+                "climbing:crag": "La Placca che spacca",
+                "climbing:grade:french:max": "5c",
+                "climbing:grade:french:mean": "5a",
+                "climbing:grade:french:min": "4c",
+                "climbing:length": "12 m",
+                "climbing:orientation": "s",
+                "climbing:quality": "solid",
+                "climbing:rock": "limestone",
+                "climbing:sport": "6",
+                "height": "10",
+                "name": "Falesia C'era una volta",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7200143347,
+            "lat": 45.7415395,
+            "lon": 11.1271977,
+            "tags": {
+                "intermittent": "yes",
+                "name": "Cascata delle Bisse Bianche",
+                "sport": "climbing:ice",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7517775586,
+            "lat": 46.0408926,
+            "lon": 11.4553569,
+            "tags": {
+                "name": "Falesia La Rocchetta",
+                "natural": "rock",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7600542174,
+            "lat": 46.0676275,
+            "lon": 11.1502072,
+            "tags": {
+                "leisure": "sports_centre",
+                "noname": "yes",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7613218757,
+            "lat": 45.8865197,
+            "lon": 10.6032,
+            "tags": {
+                "climbing:rock": "limestone",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7657235082,
+            "lat": 46.0413318,
+            "lon": 10.9445335,
+            "tags": {
+                "name": "Falesia Il Posto Delle Fragole",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7737896074,
+            "lat": 45.8714713,
+            "lon": 10.9184449,
+            "tags": {
+                "outdoor": "yes",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7964458388,
+            "lat": 45.939315,
+            "lon": 10.895883,
+            "tags": {
+                "name": "Via Elios",
+                "sport": "climbing_adventure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7964465406,
+            "lat": 45.9970968,
+            "lon": 10.9184359,
+            "tags": {
+                "climbing": "route_bottom",
+                "leisure": "sports_centre",
+                "name": "Solaris, 6c",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7964474653,
+            "lat": 46.001132,
+            "lon": 10.9209243,
+            "tags": {
+                "climbing": "route_bottom",
+                "leisure": "sports_centre",
+                "name": "Nozze d'Argento, Zebratta central sector",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8075681137,
+            "lat": 46.0641791,
+            "lon": 10.9257319,
+            "tags": {
+                "fee": "no",
+                "leisure": "sports_centre",
+                "name": "Bolted walls",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8151386648,
+            "lat": 45.8669025,
+            "lon": 10.8945739,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Massi delle Traole Settore H - Star Wars",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8174679488,
+            "lat": 46.0624838,
+            "lon": 10.9315847,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Il Bersaglio, Ranzo",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8567017248,
+            "lat": 46.2364676,
+            "lon": 11.06822,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8618026600,
+            "lat": 45.9225076,
+            "lon": 11.0163491,
+            "tags": {
+                "climbing:bolted": "yes",
+                "climbing:rock": "limestone",
+                "climbing:sport": "yes",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8669034087,
+            "lat": 45.8766226,
+            "lon": 11.0473672,
+            "tags": {
+                "climbing:rock": "limestone",
+                "climbing:sport": "yes",
+                "fee": "no",
+                "natural": "cliff",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8669034088,
+            "lat": 45.8768654,
+            "lon": 11.0474154,
+            "tags": {
+                "climbing:rock": "limestone",
+                "climbing:sport": "yes",
+                "fee": "no",
+                "name": "Campana",
+                "natural": "cliff",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8669042964,
+            "lat": 45.872055,
+            "lon": 11.0403056,
+            "tags": {
+                "climbing:rock": "limestone",
+                "climbing:sport": "yes",
+                "climbing:trad": "yes",
+                "fee": "no",
+                "name": "Val Scodella",
+                "natural": "cliff",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8669042965,
+            "lat": 45.8712055,
+            "lon": 11.0370945,
+            "tags": {
+                "climbing:rock": "limestone",
+                "climbing:sport": "yes",
+                "climbing:trad": "yes",
+                "fee": "no",
+                "name": "Val Scodella",
+                "natural": "cliff",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8796096115,
+            "lat": 46.0556206,
+            "lon": 11.2548205,
+            "tags": {
+                "name": "Falesia",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8836963503,
+            "lat": 45.8957191,
+            "lon": 10.9549772,
+            "tags": {
+                "climbing": "climbing",
+                "climbing:sport": "yes",
+                "leisure": "sports_centre",
+                "name": "Climbing Ronzo",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8897185202,
+            "lat": 45.9261199,
+            "lon": 10.7174461,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Pizzocol",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8944618661,
+            "lat": 46.0795545,
+            "lon": 10.8113849,
+            "tags": {
+                "name": "Val d Algone",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8977850595,
+            "lat": 45.8861047,
+            "lon": 11.5392951,
+            "tags": {
+                "addr:city": "Gallio",
+                "addr:housenumber": "31",
+                "addr:postcode": "36032",
+                "addr:street": "Via Camona",
+                "email": "info@puntosportgallio.it",
+                "name": "Punto Sport Gallio",
+                "payment:cash": "yes",
+                "payment:contactless": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:mastercard": "yes",
+                "phone": "+39 0424 658895",
+                "shop": "sports",
+                "sport": "swimming;soccer;climbing;multi;skiing",
+                "website": "https://www.puntosportgallio.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9019705359,
+            "lat": 45.9681459,
+            "lon": 10.9487644,
+            "tags": {
+                "name": "Dos Pel\u00e0",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9019705943,
+            "lat": 45.9274647,
+            "lon": 10.8999233,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia Family San Martino",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9038021541,
+            "lat": 45.8306305,
+            "lon": 11.0827457,
+            "tags": {
+                "access": "yes",
+                "climbing": "crag",
+                "climbing:length:max": "16",
+                "climbing:length:min": "10",
+                "climbing:orientation": "NW",
+                "climbing:quality": "solid",
+                "climbing:rock": "limestone",
+                "climbing:sport": "yes",
+                "climbing:trad": "no",
+                "ele": "600",
+                "fee": "no",
+                "name": "Sass de la Vecia",
+                "outdoor": "yes",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9050424885,
+            "lat": 45.8771701,
+            "lon": 10.7672721,
+            "tags": {
+                "name": "Canoa Kayak Ledro",
+                "sport": "canoe"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9108928514,
+            "lat": 45.8889644,
+            "lon": 10.917098,
+            "tags": {
+                "climbing:quality": "fragile",
+                "climbing:sport": "yes",
+                "outdoor": "yes",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9117634024,
+            "lat": 45.9512814,
+            "lon": 11.2386541,
+            "tags": {
+                "climbing": "rock=limestone",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9140322101,
+            "lat": 45.8631272,
+            "lon": 10.8293656,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Bella e cattiva",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9229728306,
+            "lat": 45.9553987,
+            "lon": 10.9199243,
+            "tags": {
+                "name": "Via dei Ciclamini",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9230542443,
+            "lat": 46.0119997,
+            "lon": 11.3425831,
+            "tags": {
+                "fixme": "Da verificare il nome",
+                "free_flying:paragliding": "yes",
+                "free_flying:site": "landing",
+                "name": "Landingplace Barco 2 - Atterraggio Volo Libero Trentino",
+                "place": "locality",
+                "sport": "free_flying"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9231737403,
+            "lat": 45.9392061,
+            "lon": 10.8958267,
+            "tags": {
+                "name": "Freiheit die ich meine",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9231773768,
+            "lat": 45.9386465,
+            "lon": 10.8952387,
+            "tags": {
+                "name": "7 Muri",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9231790101,
+            "lat": 45.9393696,
+            "lon": 10.8959368,
+            "tags": {
+                "name": "Selene",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9231827020,
+            "lat": 45.9396379,
+            "lon": 10.8962171,
+            "tags": {
+                "name": "I Moschetteri",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9231839145,
+            "lat": 45.9397813,
+            "lon": 10.8964683,
+            "tags": {
+                "name": "Weg durch das Gesicht",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9231840020,
+            "lat": 45.9382935,
+            "lon": 10.8947746,
+            "tags": {
+                "name": "Orfeo",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9231848896,
+            "lat": 45.9388911,
+            "lon": 10.8954943,
+            "tags": {
+                "name": "Via Roberto",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9253747855,
+            "lat": 45.6578927,
+            "lon": 11.1394876,
+            "tags": {
+                "name": "Cascata Laterale",
+                "natural": "cliff",
+                "sport": "climbing",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9253773510,
+            "lat": 45.6639533,
+            "lon": 11.1358264,
+            "tags": {
+                "name": "Cascata Super Paolo",
+                "natural": "cliff",
+                "sport": "climbing",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9253805104,
+            "lat": 45.6606428,
+            "lon": 11.1441225,
+            "tags": {
+                "name": "Cascata In Cerca di..",
+                "natural": "cliff",
+                "sport": "climbing",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9253805108,
+            "lat": 45.6613702,
+            "lon": 11.1435753,
+            "tags": {
+                "name": "Cascata La Candela",
+                "natural": "cliff",
+                "sport": "climbing",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9253805112,
+            "lat": 45.6580183,
+            "lon": 11.1431488,
+            "tags": {
+                "name": "Cascata Salto delel Grole",
+                "natural": "cliff",
+                "sport": "climbing",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9253805116,
+            "lat": 45.6671024,
+            "lon": 11.1383638,
+            "tags": {
+                "name": "Cascata Parete",
+                "natural": "cliff",
+                "sport": "climbing",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9253818920,
+            "lat": 45.6672842,
+            "lon": 11.1393052,
+            "tags": {
+                "name": "Cascata Sertori",
+                "natural": "cliff",
+                "sport": "climbing",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9253818924,
+            "lat": 45.6666469,
+            "lon": 11.1376369,
+            "tags": {
+                "name": "Cascata La Stretta",
+                "natural": "cliff",
+                "sport": "climbing",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9253925708,
+            "lat": 45.699226,
+            "lon": 11.1261999,
+            "tags": {
+                "name": "Cascata di Mezzod\u00ec",
+                "natural": "cliff",
+                "sport": "climbing",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9253931227,
+            "lat": 45.6988063,
+            "lon": 11.1267471,
+            "tags": {
+                "name": "Cascata Pilastro",
+                "natural": "cliff",
+                "sport": "climbing",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9253954388,
+            "lat": 45.7050985,
+            "lon": 11.1274338,
+            "tags": {
+                "natural": "cliff",
+                "sport": "climbing",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9253954408,
+            "lat": 45.7051229,
+            "lon": 11.1289465,
+            "tags": {
+                "natural": "cliff",
+                "sport": "climbing",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9253954416,
+            "lat": 45.7046508,
+            "lon": 11.1288071,
+            "tags": {
+                "natural": "cliff",
+                "sport": "climbing",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9253963626,
+            "lat": 45.7042312,
+            "lon": 11.1292577,
+            "tags": {
+                "natural": "cliff",
+                "sport": "climbing",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9266885368,
+            "lat": 45.9954401,
+            "lon": 10.9171006,
+            "tags": {
+                "climbing": "route_bottom",
+                "leisure": "sports_centre",
+                "name": "Via 46 Parallelo",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9266891849,
+            "lat": 45.9951634,
+            "lon": 10.916763,
+            "tags": {
+                "climbing": "route_bottom",
+                "leisure": "sports_centre",
+                "name": "Giusy",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9627302145,
+            "lat": 45.9539276,
+            "lon": 10.8926493,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Via Anche le donne vogliono arrampicare",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9627333772,
+            "lat": 45.953967,
+            "lon": 10.8926846,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Via Il luogo degli esseri brutti",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9627363458,
+            "lat": 45.9538734,
+            "lon": 10.8926212,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Via Diedro Baldessarini",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9628919828,
+            "lat": 45.9740559,
+            "lon": 10.91495,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "La Luna Argentea",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9628948946,
+            "lat": 46.0556853,
+            "lon": 10.9599155,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia Bassilandia",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9706643282,
+            "lat": 45.7457773,
+            "lon": 11.1271334,
+            "tags": {
+                "intermittent": "yes",
+                "name": "Cascata Della Miniera",
+                "sport": "climbing:ice",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9706643290,
+            "lat": 45.7381775,
+            "lon": 11.1189365,
+            "tags": {
+                "fixme": "is this really the name?",
+                "height": "60",
+                "intermittent": "yes",
+                "name": "Vi Piace il Posto?",
+                "sport": "climbing",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9763491262,
+            "lat": 45.9545522,
+            "lon": 10.9189146,
+            "tags": {
+                "name": "Dimensione terzo",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9786587975,
+            "lat": 46.3082834,
+            "lon": 11.6450509,
+            "tags": {
+                "name": "Brooklyn",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9787578420,
+            "lat": 46.3071287,
+            "lon": 11.6491135,
+            "tags": {
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9798618472,
+            "lat": 45.86538,
+            "lon": 10.820485,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia Regina del Lago",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9798707997,
+            "lat": 45.8640793,
+            "lon": 10.8273829,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Palestra Regina del Lago",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9798717408,
+            "lat": 45.865177,
+            "lon": 10.8271435,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Regina del Lago- settore A",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9798755346,
+            "lat": 45.8643147,
+            "lon": 10.8268814,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Regina del Lago- settore B",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9798755347,
+            "lat": 45.8641895,
+            "lon": 10.8272341,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Regina del Lago - settore C",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9798755348,
+            "lat": 45.8637718,
+            "lon": 10.8290249,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Regina del Lago- settore D Piccolo Budda",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9807072390,
+            "lat": 46.0917019,
+            "lon": 11.0916558,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia La Vela - settore B - nord",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9807100184,
+            "lat": 46.087834,
+            "lon": 11.093907,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia La Vela- settore A - sud",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9811232419,
+            "lat": 45.9250813,
+            "lon": 10.8694042,
+            "tags": {
+                "fee": "no",
+                "leisure": "sports_centre",
+                "name": "Placche di Baone",
+                "sport": "climbing",
+                "wikidata": "Q82992189"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9867358030,
+            "lat": 45.882315,
+            "lon": 10.8501703,
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housename": "Canoa Club Riva del Garda",
+                "addr:housenumber": "7",
+                "addr:postcode": "38066",
+                "addr:street": "Via Christoph H. Von Hartungen",
+                "addr:unit": "C.P.2",
+                "club": "sport",
+                "email": "canoaclubcanottieririva@gmail.com",
+                "name": "Canoa Club Canottieri Riva del Garda",
+                "opening_hours:covid19": "restricted",
+                "sport": "kayak;canoe"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9952851159,
+            "lat": 45.8705094,
+            "lon": 10.8932368,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia di Nago",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9966205787,
+            "lat": 46.0683488,
+            "lon": 10.9785278,
+            "tags": {
+                "climbing": "route_bottom",
+                "climbing:grade:uiaa": "4",
+                "leisure": "sports_centre",
+                "name": "G.M.D.",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9966205788,
+            "lat": 46.0688081,
+            "lon": 10.9782071,
+            "tags": {
+                "climbing": "route_bottom",
+                "climbing:grade:uiaa": "5+",
+                "leisure": "sports_centre",
+                "name": "Giubileo",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9986950045,
+            "lat": 46.4522569,
+            "lon": 11.1350077,
+            "tags": {
+                "name": "Mondino",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9988803202,
+            "lat": 46.4484623,
+            "lon": 11.1656789,
+            "tags": {
+                "name": "Marino Stenico",
+                "sport": "climbing",
+                "website": "https://proloco.fondo.it/index.php/palestra-di-roccia/?lang=en"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9989993765,
+            "lat": 45.9913153,
+            "lon": 10.9035185,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Speranza",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10002052545,
+            "lat": 45.7980766,
+            "lon": 10.9926752,
+            "tags": {
+                "climbing:rock": "limestone",
+                "climbing:sport": "yes",
+                "name": "Falesia Falegnameria",
+                "natural": "cliff",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10002089523,
+            "lat": 45.8520826,
+            "lon": 11.0913361,
+            "tags": {
+                "climbing:rock": "limestone",
+                "climbing:sport": "yes",
+                "name": "Falesia Piam del Levro - Val del Orco",
+                "natural": "cliff",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10015606290,
+            "lat": 45.8680651,
+            "lon": 10.8998105,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Le Trincee",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10053692864,
+            "lat": 46.2908448,
+            "lon": 10.8765289,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia Doss di Santa Brigida",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10073769165,
+            "lat": 45.8571355,
+            "lon": 10.9617427,
+            "tags": {
+                "climbing": "route",
+                "climbing:bolted": "yes",
+                "climbing:pitches": "1",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10115995774,
+            "lat": 45.9367791,
+            "lon": 10.8933874,
+            "tags": {
+                "name": "La Cengia Rossa",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10288822090,
+            "lat": 46.4472631,
+            "lon": 11.2995111,
+            "tags": {
+                "fixme": "Add more info",
+                "operator": "CAI Appiano",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10310735812,
+            "lat": 45.8788847,
+            "lon": 10.8843189,
+            "tags": {
+                "name": "Marmite dei Giganti",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10558995836,
+            "lat": 46.1519415,
+            "lon": 10.9035586,
+            "tags": {
+                "height": "2500",
+                "name": "Campanile Teresa : La Giovent\u00f9 dei Vecchi Eroici",
+                "natural": "cliff",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10685323029,
+            "lat": 46.0651955,
+            "lon": 10.9116389,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia Dimenticata",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10831579951,
+            "lat": 45.9762895,
+            "lon": 10.9153574,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Little John",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10831579952,
+            "lat": 45.9760444,
+            "lon": 10.9152711,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Sceriffo di Nottingham",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10831579953,
+            "lat": 45.9760755,
+            "lon": 10.915335,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Parete di Sherwood",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10845342781,
+            "lat": 46.041216,
+            "lon": 10.9452471,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia La Panoramica",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10845342782,
+            "lat": 46.0413239,
+            "lon": 10.9444229,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia Il Posto Delle Fragole",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10873823042,
+            "lat": 46.1378391,
+            "lon": 11.0738428,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Falesia Zambana Vecchia",
+                "sport": "climbing"
+            }
+        }
+    ]
+}

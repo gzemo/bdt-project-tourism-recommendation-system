@@ -1,0 +1,65 @@
+[out:json];
+// art and culture
+(
+node["tourism"~"museum|gallery|exihibition_centre|theater"](around:50000, 46.06787, 11.12108);
+);
+out center;
+
+[out:json];
+// historical monument
+(
+node["tourism"="attraction"](around:50000, 46.06787, 11.12108);
+node["historic"~"monument|castle|archaeological_site|church"](around:50000, 46.06787, 11.12108);
+);
+out center;
+
+[out:json];
+// adventure
+(
+node["sport"~"climbing|climbing_adventure|canoe|free_flying|parachuting"](around:50000, 46.06787, 11.12108);
+node["leisure"~"water_park|escape_game"](around:50000, 46.06787, 11.12108);
+node["tourism"="adventure_park"](around:50000, 46.06787, 11.12108);
+);
+out center;
+
+[out:json];
+// nature
+(
+node["sport"="hiking"](around:50000, 46.06787, 11.12108);
+node["tourism"="alpine_hut|wilderness_hut|viewpoint"](around:50000, 46.06787, 11.12108);
+node["leisure"~"garden|nature_reserve|firepit"](around:50000, 46.06787, 11.12108);
+);
+out center;
+
+[out:json];
+// wellness
+(
+node["leisure"~"sauna|fitness_centre|fitness_station|tanning_salon"](around:50000, 46.06787, 11.12108);
+node["shop"="beauty"](around:50000, 46.06787, 11.12108);
+);
+out center;
+
+[out:json];
+// animals
+(
+node["tourism"~"zoo|acquarium"](around:50000, 46.06787, 11.12108);
+node["leisure"~"bird_hide|wildlife_hide"](around:50000, 46.06787, 11.12108);
+);
+out center;
+
+[out:json];
+// gastronomy
+(
+node["amenity"="restaurant"](around:50000, 46.06787, 11.12108);
+node["leisure"="outdoor_seating"](around:50000, 46.06787, 11.12108);
+);
+out center;
+
+[out:json];
+// family
+(
+node["leisure"~"park|picnic_table|playground|resort|dog_park|bathing_place|miniature_golf"](around:50000, 46.06787, 11.12108);
+);
+out center;
+
+

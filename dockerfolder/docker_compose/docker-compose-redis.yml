@@ -1,0 +1,34 @@
+version: '3'
+
+# NOTE for container direct connection
+# redis user is settled as "default"
+# use AUTH "default" "redis_password"
+services:
+  redis-master: #this is a master node Redis Cluster
+    image: 'redis:latest' #redis:latest is the name of the image, to checkkkk
+    container_name: redis
+    ports:
+      - '6380:6379' # changing from the default (6379:6379)
+    environment:
+      - REDIS_REPLICATION_MODE=master
+      - REDIS_PASSWORD=redis_password
+      - REDIS_AOF_ENABLED=yes #AOF persistence logs every write operation received by the server
+    volumes:
+      - ./docker-data/redis-cluster1.tmpl:/usr/local/etc/redis/redis.conf # Redis master data volume
+    command: redis-server /usr/local/etc/redis/redis.conf
+ 
+  redis-replica:
+    image: 'redis:latest'
+    ports:
+      - '6381:6379'
+    depends_on:
+      - redis-master
+    environment:
+      - REDIS_REPLICATION_MODE=slave
+      - REDIS_MASTER_HOST=redis-master
+      - REDIS_MASTER_PORT_NUMBER=6380
+      - REDIS_MASTER_PASSWORD=redis_password
+      - REDIS_PASSWORD=redis_password
+volumes:
+  redis-1:
+    driver: local

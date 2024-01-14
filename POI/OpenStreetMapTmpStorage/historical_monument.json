@@ -1,0 +1,5130 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.60.6 e2dc3e5b",
+    "osm3s": {
+        "timestamp_osm_base": "2023-06-14T18:41:16Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+        {
+            "type": "node",
+            "id": 248947102,
+            "lat": 46.0678401,
+            "lon": 11.1275686,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento ad Alcide De Gasperi",
+                "subject:wikidata": "Q153832",
+                "website": "https://www.comune.trento.it/Aree-tematiche/Cultura-e-turismo/Visitare/Altri-siti-di-interesse-turistico/Monumento-ad-Alcide-De-Gasperi"
+            }
+        },
+        {
+            "type": "node",
+            "id": 261081630,
+            "lat": 46.2818698,
+            "lon": 11.4422332,
+            "tags": {
+                "created_by": "JOSM",
+                "historic": "archaeological_site",
+                "importance": "urban",
+                "name": "Doss Zelor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 263822419,
+            "lat": 46.2876135,
+            "lon": 11.4618678,
+            "tags": {
+                "created_by": "JOSM",
+                "historic": "archaeological_site",
+                "name": "Banco dela Reson"
+            }
+        },
+        {
+            "type": "node",
+            "id": 264020317,
+            "lat": 45.9113712,
+            "lon": 10.8338622,
+            "tags": {
+                "name": "Cascata del Varone",
+                "name:he": "\u05de\u05e4\u05dc\u05d9 \u05d5\u05e8\u05d5\u05e0\u05d4",
+                "tourism": "attraction",
+                "waterway": "waterfall",
+                "wikidata": "Q3661554",
+                "wikipedia": "it:Cascate del Varone"
+            }
+        },
+        {
+            "type": "node",
+            "id": 270076323,
+            "lat": 45.845374,
+            "lon": 11.0130416,
+            "tags": {
+                "name": "Ruina Dantesca",
+                "name:en": "Ruina Dantesca",
+                "name:it": "Ruina Dantesca",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 270099585,
+            "lat": 45.8740208,
+            "lon": 11.0389098,
+            "tags": {
+                "historic": "monument",
+                "name": "Campana dei Caduti",
+                "tourism": "attraction",
+                "wikidata": "Q3651777",
+                "wikipedia": "it:Campana dei Caduti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 270133216,
+            "lat": 46.009116,
+            "lon": 10.9732452,
+            "tags": {
+                "access": "yes",
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "historic:civilization": "ancient_roman",
+                "inscription": "Pliammus Terti M andilonis f(ilius) sibi et P rimae Libertae ux(ori)",
+                "name": "Carega del Diaol",
+                "opening_hours": "24/7",
+                "site_type": "petroglyph",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 289827483,
+            "lat": 45.9033082,
+            "lon": 11.1359144,
+            "tags": {
+                "name": "Cascata dell'Hofentol",
+                "tourism": "attraction",
+                "waterway": "waterfall",
+                "wikidata": "Q70334425"
+            }
+        },
+        {
+            "type": "node",
+            "id": 293338582,
+            "lat": 46.0653377,
+            "lon": 11.0415696,
+            "tags": {
+                "contact:website": "https://www.asucsopramonte.it/it/comparto-storico",
+                "historic": "archaeological_site",
+                "name": "Monastero di Sant'Anna",
+                "ruins": "monastery"
+            }
+        },
+        {
+            "type": "node",
+            "id": 297715485,
+            "lat": 46.3126279,
+            "lon": 11.2238962,
+            "tags": {
+                "amenity": "place_of_worship",
+                "building": "church",
+                "historic": "church",
+                "name:it": "Chiesa di San Vigilio",
+                "religion": "christian",
+                "wheelchair": "yes",
+                "wikidata": "Q93858298"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301455699,
+            "lat": 45.9174774,
+            "lon": 10.8180586,
+            "tags": {
+                "access": "yes",
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "ancient_roman",
+                "name": "Area Archeologica San Martino",
+                "site_type": "settlement",
+                "website": "http://www.archeosanmartino.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302099274,
+            "lat": 45.9224802,
+            "lon": 10.8881639,
+            "tags": {
+                "contact:phone": "+39 464 510156",
+                "fee": "yes",
+                "historic": "castle",
+                "name": "Castello di Arco",
+                "opening_hours": "Apr-Sep: 10:00-19:00; Oct-Dec: 10:00-16:00; Jan: Sa,Su 10:00-16:00; Mo-Fr off; Feb-Mar: 10:00-16:00; Nov 1 off; Dec 25-26 off; Jan 1 off",
+                "website": "http://www.comune.arco.tn.it/Territorio/Luoghi-e-punti-di-interesse/Cosa-puoi-visitare/Beni-artistici-e-monumentali/Il-Castello",
+                "wikidata": "Q224779",
+                "wikipedia": "it:Castello di Arco"
+            }
+        },
+        {
+            "type": "node",
+            "id": 303383849,
+            "lat": 45.889143,
+            "lon": 11.0160727,
+            "tags": {
+                "name": "Opera Ciclica",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 307705093,
+            "lat": 45.8891533,
+            "lon": 10.9916134,
+            "tags": {
+                "castle_type": "defensive",
+                "historic": "castle",
+                "historic:civilization": "medieval",
+                "name": "Castel Corno",
+                "ruins": "castle",
+                "wikidata": "Q3662088",
+                "wikipedia": "it:Castel Corno"
+            }
+        },
+        {
+            "type": "node",
+            "id": 317479080,
+            "lat": 46.1811669,
+            "lon": 11.0840018,
+            "tags": {
+                "access": "yes",
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "prehistoric",
+                "name": "Area archeologica di Dos Castel",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 317916360,
+            "lat": 46.0621495,
+            "lon": 11.237164,
+            "tags": {
+                "amenity": "place_of_worship",
+                "denomination": "catholic",
+                "historic": "church",
+                "name": "Chiesa dei Padri Francescani",
+                "name:de": "Kirche der Franziskanerv\u00e4ter",
+                "name:es": "Iglesia de los Padres Franciscanos",
+                "religion": "christian",
+                "wikidata": "Q59772789"
+            }
+        },
+        {
+            "type": "node",
+            "id": 322071391,
+            "lat": 45.7904782,
+            "lon": 11.0331347,
+            "tags": {
+                "historic": "monument",
+                "name": "Madonna del Cacciatore"
+            }
+        },
+        {
+            "type": "node",
+            "id": 324599681,
+            "lat": 45.8602988,
+            "lon": 10.9678543,
+            "tags": {
+                "name": "Prea dela farina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 330327914,
+            "lat": 45.8503967,
+            "lon": 10.9603452,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Grotta del colombo",
+                "wikidata": "Q1531173",
+                "wikipedia": "it:Grotta del Colombo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 335647222,
+            "lat": 45.8885093,
+            "lon": 10.6702863,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento ai Caduti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 348296627,
+            "lat": 45.7558014,
+            "lon": 11.2818634,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento ai Caduti di Vallortigara"
+            }
+        },
+        {
+            "type": "node",
+            "id": 364991102,
+            "lat": 45.9524269,
+            "lon": 11.0196472,
+            "tags": {
+                "historic": "monument",
+                "name": "Madonnina del Lago"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369443450,
+            "lat": 45.8876532,
+            "lon": 11.0797181,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "polsaora dei morti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 370131849,
+            "lat": 45.757112,
+            "lon": 11.2581139,
+            "tags": {
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 373272472,
+            "lat": 46.4821355,
+            "lon": 11.2489794,
+            "tags": {
+                "castle_type": "stately",
+                "castle_type:de": "schloss",
+                "historic": "castle",
+                "historic:civilization": "middle-ages",
+                "name": "Schloss Korb - Castel Corba",
+                "name:de": "Schloss Korb",
+                "name:it": "Castel Corba",
+                "wikidata": "Q2241924",
+                "wikipedia": "de:Schloss Korb"
+            }
+        },
+        {
+            "type": "node",
+            "id": 392740297,
+            "lat": 46.4438054,
+            "lon": 11.1422773,
+            "tags": {
+                "name": "Canyon Rio Sass",
+                "opening_hours": "Mo-Sa 09:00-12:30, 13:30-16:30",
+                "phone": "+39 0463 850000",
+                "tourism": "attraction",
+                "website": "http://www.canyonriosass.it",
+                "wikidata": "Q34147272",
+                "wikipedia": "it:Canyon rio Sass"
+            }
+        },
+        {
+            "type": "node",
+            "id": 411740411,
+            "lat": 46.4446615,
+            "lon": 11.2455579,
+            "tags": {
+                "name": "Eisl\u00f6cher - Buche di ghiaccio",
+                "name:de": "Eisl\u00f6cher",
+                "name:it": "Buche di ghiaccio",
+                "tourism": "attraction",
+                "wikidata": "Q1347540",
+                "wikipedia": "de:Eppaner Eisl\u00f6cher"
+            }
+        },
+        {
+            "type": "node",
+            "id": 416948525,
+            "lat": 46.3227322,
+            "lon": 11.348858,
+            "tags": {
+                "addr:city": "Truden - Trodena",
+                "addr:city:de": "Truden",
+                "addr:city:it": "Trodena",
+                "addr:housenumber": "2",
+                "addr:postcode": "39040",
+                "addr:street": "Am Kofl",
+                "contact:email": "info@trudnerhorn.com",
+                "contact:website": "http://www.trudnerhorn.com/naturpark-trudner-horn/naturparkhaus-trudner-horn-p12.html",
+                "name": "Naturparkhaus Trudner Horn - Centro visite Parco Naturale Monte Corno",
+                "name:de": "Naturparkhaus Trudner Horn",
+                "name:en": "Monte Corno Nature House",
+                "name:it": "Centro visite Parco Naturale Monte Corno",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 418822913,
+            "lat": 46.3205281,
+            "lon": 11.3399159,
+            "tags": {
+                "name": "Kalkbrennofen - Calcara",
+                "name:de": "Kalkbrennofen",
+                "name:it": "Calcara",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 426973981,
+            "lat": 46.18934,
+            "lon": 11.4614489,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Iscrizione romana",
+                "note": "VERY INACCURATE"
+            }
+        },
+        {
+            "type": "node",
+            "id": 441073384,
+            "lat": 45.6309027,
+            "lon": 11.093057,
+            "tags": {
+                "name": "Valle delle Sfingi",
+                "tourism": "attraction",
+                "wikidata": "Q4008170",
+                "wikipedia": "it:Valle delle sfingi"
+            }
+        },
+        {
+            "type": "node",
+            "id": 453560765,
+            "lat": 46.1466485,
+            "lon": 11.4363642,
+            "tags": {
+                "name": "Orto Botanico",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 461635698,
+            "lat": 46.0096081,
+            "lon": 11.30542,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Tomba romana (Roman sarcophagus)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 493169757,
+            "lat": 45.6503358,
+            "lon": 10.9893763,
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "regional",
+                "description": "Goat farm. All kinds of Goat cheese and goat mild products.",
+                "name": "Malga Faggioli",
+                "shop": "dairy",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 515913640,
+            "lat": 46.1640177,
+            "lon": 11.2165289,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Doss Casl\u00ecr",
+                "place": "locality",
+                "ruins": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 520499052,
+            "lat": 45.7938002,
+            "lon": 11.1844281,
+            "tags": {
+                "historic": "monument",
+                "name": "Tomba Generale Vittorio Emanuele Rossi"
+            }
+        },
+        {
+            "type": "node",
+            "id": 520499474,
+            "lat": 45.7926983,
+            "lon": 11.1854947,
+            "tags": {
+                "ele": "2035",
+                "historic": "monument",
+                "name": "Arco Romano"
+            }
+        },
+        {
+            "type": "node",
+            "id": 552935671,
+            "lat": 46.1865692,
+            "lon": 11.2513554,
+            "tags": {
+                "historic": "castle",
+                "name": "Castello di Segonzano",
+                "place": "locality",
+                "wikidata": "Q17254848",
+                "wikipedia": "it:Castello di Segonzano"
+            }
+        },
+        {
+            "type": "node",
+            "id": 560584110,
+            "lat": 46.0681933,
+            "lon": 11.1173361,
+            "tags": {
+                "access": "yes",
+                "barrier": "sally_port",
+                "material": "stone",
+                "name": "Porta Santa Margherita",
+                "tourism": "attraction",
+                "wikidata": "Q28000696"
+            }
+        },
+        {
+            "type": "node",
+            "id": 600025838,
+            "lat": 45.8534376,
+            "lon": 11.0362043,
+            "tags": {
+                "name": "Grotta Damiano Chiesa",
+                "natural": "cave_entrance",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 600678570,
+            "lat": 45.9299671,
+            "lon": 10.8257563,
+            "tags": {
+                "loc_name": "Trav\u00e0i",
+                "name": "Travaglio",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 616524591,
+            "lat": 46.36619,
+            "lon": 10.8935403,
+            "tags": {
+                "name": "Mulino ad acqua - Molino Ruatti",
+                "opening_hours": "24/7",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 616524758,
+            "lat": 46.4076181,
+            "lon": 10.811489,
+            "tags": {
+                "name": "Seghja di Braghje",
+                "opening_hours": "24/7",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 646724003,
+            "lat": 46.0753701,
+            "lon": 11.2436242,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Area archeologica Montesei di Serso",
+                "note": "Parco minerario Alta Valsugana e Bersntol",
+                "place": "locality"
+            }
+        },
+        {
+            "type": "node",
+            "id": 650575354,
+            "lat": 45.9690179,
+            "lon": 10.9375511,
+            "tags": {
+                "addr:street": "Via Ferrata Rio Sallagoni",
+                "name": "Fine Ferrata Rio Sallagoni",
+                "name:de": "Ende Ferrata Rio Sallagoni",
+                "name:en": "End Ferrata Rio Sallagoni",
+                "name:it": "Fine Ferrata Rio Sallagoni",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 676853528,
+            "lat": 45.937794,
+            "lon": 10.9146701,
+            "tags": {
+                "geological": "palaeontological_site",
+                "historic": "archaeological_site",
+                "name": "Incisioni rupestri di Pianaura"
+            }
+        },
+        {
+            "type": "node",
+            "id": 715252280,
+            "lat": 45.9092015,
+            "lon": 11.0650255,
+            "tags": {
+                "historic": "monument",
+                "name": "Capitello"
+            }
+        },
+        {
+            "type": "node",
+            "id": 720537749,
+            "lat": 45.8797071,
+            "lon": 10.8852714,
+            "tags": {
+                "name": "Marmitte dei Giganti",
+                "tourism": "attraction",
+                "wheelchair": "no",
+                "wikidata": "Q69301889",
+                "wikimedia_commons": "File:Marmite_dei_Giganti_near_Nago.jpg",
+                "wikipedia": "it:Marmitte dei giganti (Nago-Torbole)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 721098590,
+            "lat": 46.0009878,
+            "lon": 10.6940124,
+            "tags": {
+                "historic": "monument",
+                "name": "Cimitero militare monumentale austroungarico"
+            }
+        },
+        {
+            "type": "node",
+            "id": 734201591,
+            "lat": 45.8716624,
+            "lon": 10.7586612,
+            "tags": {
+                "archaeological_site": "kiln",
+                "historic": "archaeological_site",
+                "site_type": "kiln"
+            }
+        },
+        {
+            "type": "node",
+            "id": 745910513,
+            "lat": 45.916602,
+            "lon": 10.8187883,
+            "tags": {
+                "access": "yes",
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "ancient_roman",
+                "name": "Area Archeologica San Martino",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 765601125,
+            "lat": 46.0479971,
+            "lon": 10.9406885,
+            "tags": {
+                "ele": "471",
+                "historic": "wayside_cross",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 765601131,
+            "lat": 46.0504072,
+            "lon": 10.8997846,
+            "tags": {
+                "historic": "monument",
+                "name": "Ponte Balandino"
+            }
+        },
+        {
+            "type": "node",
+            "id": 779096155,
+            "lat": 45.7347742,
+            "lon": 11.5150789,
+            "tags": {
+                "historic": "manor",
+                "name": "Villa Giusti",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 789964234,
+            "lat": 45.8889338,
+            "lon": 11.0357337,
+            "tags": {
+                "historic": "monument",
+                "source": "PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"
+            }
+        },
+        {
+            "type": "node",
+            "id": 794180830,
+            "lat": 45.8071678,
+            "lon": 10.884618,
+            "tags": {
+                "archaeological_site": "burial",
+                "historic": "archaeological_site",
+                "historic:civilization": "iron-age",
+                "name": "Busa Brodeghera;sepoltura della Seconda et\u00e0 del Ferro",
+                "natural": "cave_entrance",
+                "site_type": "burial"
+            }
+        },
+        {
+            "type": "node",
+            "id": 805334806,
+            "lat": 45.8678559,
+            "lon": 11.6348076,
+            "tags": {
+                "name": "Cal\u00e1 del Sasso",
+                "tourism": "attraction",
+                "wikidata": "Q1027876",
+                "wikipedia": "it:Cal\u00e0 del Sasso"
+            }
+        },
+        {
+            "type": "node",
+            "id": 808750635,
+            "lat": 45.8435538,
+            "lon": 11.6681485,
+            "tags": {
+                "name": "Grotte di Oliero",
+                "natural": "cave_entrance",
+                "tourism": "attraction",
+                "wikidata": "Q3777126",
+                "wikipedia": "it:Grotte di Oliero"
+            }
+        },
+        {
+            "type": "node",
+            "id": 822199030,
+            "lat": 46.0638713,
+            "lon": 11.123412,
+            "tags": {
+                "barrier": "sally_port",
+                "bicycle": "yes",
+                "foot": "yes",
+                "historic": "yes",
+                "motorcar": "no",
+                "name": "Arco dei Tre Portoni",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q29906031"
+            }
+        },
+        {
+            "type": "node",
+            "id": 824798538,
+            "lat": 45.8900043,
+            "lon": 11.4598554,
+            "tags": {
+                "addr:city": "Roana",
+                "addr:country": "IT",
+                "addr:postcode": "36010",
+                "addr:street": "Via Laghetto",
+                "name": "Acropark Laghetto Roana",
+                "note": "Adventure Park",
+                "phone": "+39 346 3991144",
+                "tourism": "attraction",
+                "website": "http://www.acropark.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 833877528,
+            "lat": 46.230623,
+            "lon": 11.292503,
+            "tags": {
+                "name": "Sega Veneziana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 851097491,
+            "lat": 45.8846144,
+            "lon": 11.0179589,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 871786057,
+            "lat": 45.8732213,
+            "lon": 10.9341225,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Ruderi di Castel Gresta",
+                "ruins": "Ruderi Castel Gresta",
+                "wikidata": "Q18923643",
+                "wikipedia": "it:Castel Gresta"
+            }
+        },
+        {
+            "type": "node",
+            "id": 928357843,
+            "lat": 46.2114387,
+            "lon": 11.0937177,
+            "tags": {
+                "amenity": "fountain",
+                "historic": "monument",
+                "name": "Pio XII"
+            }
+        },
+        {
+            "type": "node",
+            "id": 948751562,
+            "lat": 45.8647265,
+            "lon": 10.9175695,
+            "tags": {
+                "historic": "archaeological_site",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 973022397,
+            "lat": 46.2161285,
+            "lon": 11.0877354,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 974698929,
+            "lat": 45.9346702,
+            "lon": 10.9066705,
+            "tags": {
+                "access": "yes",
+                "alt_name": "Cave di Oolite",
+                "fee": "no",
+                "name": "Cave Alte",
+                "natural": "cave_entrance",
+                "note": "Nel XIX\u00b0 secolo le cave erano note anche col nome di \"Cave Meneguzzi\", dai nomi di colui che le prese in concessione.",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 975288676,
+            "lat": 46.0770972,
+            "lon": 11.11957,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1010809755,
+            "lat": 46.0630917,
+            "lon": 11.1239357,
+            "tags": {
+                "historic": "monument",
+                "name": "Martino Martini"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1024749083,
+            "lat": 45.8840144,
+            "lon": 10.8402329,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento al Marinaio",
+                "wikipedia": "it:Al Marinaio (Riva del Garda)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1037290924,
+            "lat": 46.0675519,
+            "lon": 11.1200759,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1100567221,
+            "lat": 46.410683,
+            "lon": 10.788413,
+            "tags": {
+                "loc_name": "Seghja di B\u00e8goi",
+                "name": "Segheria Veneziana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1106604484,
+            "lat": 46.0095554,
+            "lon": 10.9755049,
+            "tags": {
+                "access": "yes",
+                "archaeological_site": "tomb",
+                "historic": "archaeological_site",
+                "historic:civilization": "prehistoric",
+                "name": "La Cos\u00ecna",
+                "natural": "cave_entrance",
+                "opening_hours": "24/7",
+                "site_type": "tomb",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1122600616,
+            "lat": 46.1938328,
+            "lon": 11.1332573,
+            "tags": {
+                "historic": "monument",
+                "name": "Giovanni Nepomuceno"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1122600753,
+            "lat": 46.1949838,
+            "lon": 11.1329545,
+            "tags": {
+                "historic": "monument",
+                "name": "Giovanni Nepomuceno"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1126325611,
+            "lat": 45.9306089,
+            "lon": 11.0576106,
+            "tags": {
+                "access": "permissive",
+                "castle_type": "medieval",
+                "historic": "castle",
+                "historic:civilization": "medieval",
+                "historic:period": "medieval",
+                "name": "Castel Barco",
+                "ruins": "castle",
+                "wikidata": "Q18416876",
+                "wikipedia": "it:Castel Barco"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1153345955,
+            "lat": 45.835295,
+            "lon": 11.282088,
+            "tags": {
+                "name": "Calcara",
+                "old_name": "Busa del Presa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1156302943,
+            "lat": 46.0201403,
+            "lon": 11.1270586,
+            "tags": {
+                "aircraft:type": "military",
+                "historic": "aircraft",
+                "name": "F-104",
+                "tourism": "attraction",
+                "wikimedia_commons": "File:Aeroporto di Trento-Mattarello Gianni Caproni, F-104G monumentato.jpg"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1225983773,
+            "lat": 45.7789896,
+            "lon": 11.3870231,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1240275109,
+            "lat": 45.8658006,
+            "lon": 10.9169887,
+            "tags": {
+                "historic": "archaeological_site"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1240275129,
+            "lat": 45.8651261,
+            "lon": 10.9170688,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Sito archeologico dell'Isola di Sant'Andrea",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1244552901,
+            "lat": 46.0680623,
+            "lon": 11.1183836,
+            "tags": {
+                "archaeological_site": "roman_villa",
+                "historic": "archaeological_site",
+                "historic:civilization": "ancient_roman",
+                "location": "underground",
+                "name": "Villa Romana di Orfeo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1283973461,
+            "lat": 45.9909727,
+            "lon": 10.8316136,
+            "tags": {
+                "access": "yes",
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "prehistoric",
+                "name": "Zona palafitticola di Fiav\u00e9",
+                "site_type": "settlement",
+                "wikidata": "Q69502101",
+                "wikipedia": "it:Sito archeologico di Fiav\u00e9"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1300140587,
+            "lat": 45.9308233,
+            "lon": 11.0733962,
+            "tags": {
+                "castle_type": "medieval",
+                "heritage:website": "http://www.castellideltrentino.it/Siti/Castello-di-Nomi",
+                "historic": "castle",
+                "historic:civilization": "medieval",
+                "name": "Castello di Nomi",
+                "wikidata": "Q18785406",
+                "wikipedia": "it:Castello di Nomi"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1300463643,
+            "lat": 46.2372187,
+            "lon": 11.2142918,
+            "tags": {
+                "fixme": "Waterfall either only after rain or dried",
+                "name": "Cascata - Wasserfall",
+                "name:de": "Titschenbach - Wasserfall",
+                "name:it": "Cascata Rio Tigia",
+                "tourism": "attraction",
+                "waterway": "waterfall",
+                "wikimedia_commons": "File:Wasserfall Salurn.jpg"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1302589524,
+            "lat": 46.0720439,
+            "lon": 11.112492,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1351405865,
+            "lat": 46.1663884,
+            "lon": 11.1097989,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1356367528,
+            "lat": 45.9669427,
+            "lon": 11.4716516,
+            "tags": {
+                "historic": "monument",
+                "name": "Artur Edlen Von Mecenseffy"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1360646151,
+            "lat": 45.9135124,
+            "lon": 11.6766409,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1360646163,
+            "lat": 45.9190034,
+            "lon": 11.7299745,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1360646165,
+            "lat": 45.919087,
+            "lon": 11.7301859,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1360646168,
+            "lat": 45.9198663,
+            "lon": 11.7296575,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1360646633,
+            "lat": 45.9402299,
+            "lon": 11.7098854,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1370174003,
+            "lat": 45.8955812,
+            "lon": 11.6308107,
+            "tags": {
+                "fixme": "Dato importato CTR Veneto. Controllare se historic=memorial",
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1370504725,
+            "lat": 45.8545039,
+            "lon": 11.6650346,
+            "tags": {
+                "fixme": "Import CTR Veneto. Controllare se historic=memorial",
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1370504761,
+            "lat": 45.8545927,
+            "lon": 11.6618938,
+            "tags": {
+                "fixme": "Import CTR Veneto. Controllare se historic=memorial",
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1370508203,
+            "lat": 45.8582099,
+            "lon": 11.6620059,
+            "tags": {
+                "fixme": "Import CTR Veneto. Controllare se historic=memorial",
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1370512633,
+            "lat": 45.8606946,
+            "lon": 11.6566083,
+            "tags": {
+                "name": "Calieroni",
+                "operator": "Comune di Valbrenta",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1370516813,
+            "lat": 45.86338,
+            "lon": 11.6618422,
+            "tags": {
+                "fixme": "Import CTR Veneto. Controllare se historic=memorial",
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1371086634,
+            "lat": 45.8632986,
+            "lon": 11.6139594,
+            "tags": {
+                "fixme": "Import CTR Veneto. Controllare se historic=memorial",
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1371089183,
+            "lat": 45.8655546,
+            "lon": 11.5986155,
+            "tags": {
+                "fixme": "Import CTR Veneto. Controllare se historic=memorial",
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1371091199,
+            "lat": 45.8686759,
+            "lon": 11.6134585,
+            "tags": {
+                "fixme": "Import CTR Veneto. Controllare se historic=memorial",
+                "historic": "monument",
+                "name": "Roberto Sarfatti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1372174525,
+            "lat": 45.8758845,
+            "lon": 11.5966545,
+            "tags": {
+                "fixme": "Import CTR Veneto. Controllare se historic=memorial",
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1372179496,
+            "lat": 45.8787945,
+            "lon": 11.6131027,
+            "tags": {
+                "fixme": "Import CTR Veneto. Controllare se historic=memorial",
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1374623172,
+            "lat": 45.891967,
+            "lon": 11.5526864,
+            "tags": {
+                "fixme": "Import CTR Veneto. Controllare se historic=memorial",
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1381050980,
+            "lat": 46.2182198,
+            "lon": 11.0478546,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1392717973,
+            "lat": 45.8752142,
+            "lon": 11.4630115,
+            "tags": {
+                "fixme": "Dato importato CTR Veneto. Controllare se historic=memorial",
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1402134698,
+            "lat": 45.826456,
+            "lon": 11.4608516,
+            "tags": {
+                "fixme": "Dato importato CTR Veneto. Controllare se historic=memorial",
+                "historic": "monument",
+                "name": "Colonna Romana"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1402141792,
+            "lat": 45.8465175,
+            "lon": 11.4654554,
+            "tags": {
+                "fixme": "Dato importato CTR Veneto. Controllare se historic=memorial",
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1525471505,
+            "lat": 46.1641485,
+            "lon": 11.0028366,
+            "tags": {
+                "historic": "monument",
+                "name": "Ai Caduti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1537191379,
+            "lat": 45.9268339,
+            "lon": 11.2645697,
+            "tags": {
+                "description": "Cave",
+                "historic": "archaeological_site",
+                "name": "Covelo di Rio Malo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1550658815,
+            "lat": 46.2167633,
+            "lon": 11.1234077,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Domus Romana del Giontech"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1590167269,
+            "lat": 46.299271,
+            "lon": 11.0311567,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1600666084,
+            "lat": 45.7629688,
+            "lon": 11.4312891,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento ai caduti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1619079060,
+            "lat": 45.8859952,
+            "lon": 11.0402165,
+            "tags": {
+                "historic": "monument",
+                "name": "All'Alpino"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1639470029,
+            "lat": 45.8085388,
+            "lon": 11.232685,
+            "tags": {
+                "historic": "ruins",
+                "man_made": "kiln",
+                "name": "Calcara",
+                "product": "quicklime",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1703579496,
+            "lat": 46.1345118,
+            "lon": 11.7451166,
+            "tags": {
+                "layer": "-1",
+                "name": "Stoli del Monte Totoga",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1708664270,
+            "lat": 45.9335722,
+            "lon": 10.9061374,
+            "tags": {
+                "name": "Conformazione glaciale",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1793658811,
+            "lat": 46.0,
+            "lon": 10.6929597,
+            "tags": {
+                "name": "Linea del 46\u00b0 parallelo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1806369473,
+            "lat": 46.0720844,
+            "lon": 11.3862456,
+            "tags": {
+                "name": "Glockenthurm",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1816253199,
+            "lat": 45.879245,
+            "lon": 11.0145877,
+            "tags": {
+                "access": "yes",
+                "castle_type": "archaeological_site",
+                "historic": "castle",
+                "historic:civilization": "medieval",
+                "name": "Ruderi Castel Pradaglia",
+                "ruins": "castle",
+                "wikidata": "Q20009774",
+                "wikipedia": "it:Castel Pradaglia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1816634622,
+            "lat": 45.864932,
+            "lon": 10.8810677,
+            "tags": {
+                "name": "Busatte",
+                "place": "locality",
+                "sport": "bowls",
+                "tourism": "attraction",
+                "website": "https://it.wikiloc.com/percorsi-escursionismo/percorso-busatte-tempesta-torbole-lago-di-garda-15980417",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1833286930,
+            "lat": 45.8856353,
+            "lon": 11.0100244,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Villa Romana"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1870055067,
+            "lat": 46.2752225,
+            "lon": 11.0188891,
+            "tags": {
+                "historic": "castle",
+                "name": "Castel Corona",
+                "ruins": "yes",
+                "wikidata": "Q18416878"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1879111108,
+            "lat": 45.8729108,
+            "lon": 11.4712051,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Graffiti",
+                "site_type": "petroglyph",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1987683774,
+            "lat": 46.274279,
+            "lon": 11.0509012,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2028320546,
+            "lat": 45.9203677,
+            "lon": 10.6147059,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento ai Caduti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2028320549,
+            "lat": 45.9204493,
+            "lon": 10.6147159,
+            "tags": {
+                "name": "Parco delle Plazze",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2069757454,
+            "lat": 45.9648906,
+            "lon": 10.6542207,
+            "tags": {
+                "name": "Cascata di Rio Revegler",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2084546738,
+            "lat": 46.4013055,
+            "lon": 11.0507432,
+            "tags": {
+                "historic": "monument",
+                "name": "Madonina"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2129284931,
+            "lat": 45.753289,
+            "lon": 11.3196214,
+            "tags": {
+                "name": "Casa della Strega",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2129284944,
+            "lat": 45.7526225,
+            "lon": 11.3202415,
+            "tags": {
+                "name": "La Grande Roccia Incantata",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2196579289,
+            "lat": 45.9490431,
+            "lon": 11.7258081,
+            "tags": {
+                "castle_type": "fortress",
+                "contact:website": "http://www.cismon.it/Covolo_di_Butistone.html",
+                "historic": "castle",
+                "name": "Covolo di Butistone",
+                "tourism": "attraction",
+                "wikidata": "Q3696340",
+                "wikipedia": "it:Covolo di Butistone"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2226304419,
+            "lat": 46.068643,
+            "lon": 11.1237181,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "12",
+                "addr:postcode": "38122",
+                "addr:street": "Via del Simonino",
+                "building": "chapel",
+                "contact:website": "https://fondoambiente.it/luoghi/cappella-del-simonino",
+                "name": "Cappella del Simonino",
+                "operator": "Fondo Ambiente Italiano",
+                "tourism": "attraction",
+                "wikidata": "Q97581393"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2287289624,
+            "lat": 46.304195,
+            "lon": 11.0713527,
+            "tags": {
+                "historic": "monument",
+                "name": "Eusebio Chini",
+                "wikidata": "Q105516518"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2362852108,
+            "lat": 45.6496674,
+            "lon": 11.144209,
+            "tags": {
+                "denomination": "catholic",
+                "historic": "wayside_shrine",
+                "image": "https://commons.wikimedia.org/wiki/File:Statua_Madonna_della_Lobbia_1.jpg",
+                "name": "Madonna della Lobbia",
+                "religion": "christian",
+                "tourism": "attraction",
+                "wikidata": "Q72694905"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2371162456,
+            "lat": 45.9951297,
+            "lon": 11.6016642,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "name": "Riparo Dalmeri",
+                "natural": "cave_entrance",
+                "site_type": "settlement",
+                "wikidata": "Q20963301"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2371280671,
+            "lat": 46.0882116,
+            "lon": 11.130423,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2388706525,
+            "lat": 45.9315425,
+            "lon": 10.7607948,
+            "tags": {
+                "disused:amenity": "shelter",
+                "historic": "military",
+                "man_made": "cave_entrance",
+                "name": "Caverna Capitano Riccabona",
+                "shelter_type": "rock_shelter",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2403497008,
+            "lat": 46.3971725,
+            "lon": 11.2346516,
+            "tags": {
+                "contact:email": "info@abenteuerpark.it",
+                "contact:website": "http://www.abenteuerpark.it",
+                "name": "Hochseilgarten Kaltern - Parco Avventura Caldaro",
+                "name:de": "Hochseil-Abenteuerpark Kaltern",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2422691219,
+            "lat": 45.6614159,
+            "lon": 11.1913058,
+            "tags": {
+                "historic": "ruins",
+                "name": "Calcara",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2430078370,
+            "lat": 45.676102,
+            "lon": 10.8535828,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2476364774,
+            "lat": 45.9116235,
+            "lon": 10.8351932,
+            "tags": {
+                "addr:housenumber": "3",
+                "addr:postcode": "38060",
+                "addr:street": "Localit\u00e0 le Foci",
+                "email": "info@cascata-varone.com",
+                "name": "Cascata del Varone",
+                "note": "Wasserf\u00e4lle ca. 100m Sturzh\u00f6he.",
+                "phone": "+39 0464 521421",
+                "tourism": "attraction",
+                "website": "https://cascata-varone.com/it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2482496403,
+            "lat": 45.8910635,
+            "lon": 11.0432044,
+            "tags": {
+                "historic": "monument",
+                "memorial": "bust",
+                "name": "Busto di Riccardo Zandonai"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2484801874,
+            "lat": 46.0729515,
+            "lon": 11.4937739,
+            "tags": {
+                "amenity": "fountain",
+                "historic": "monument",
+                "name": "Fontana Vecchia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2487232607,
+            "lat": 45.7712681,
+            "lon": 10.7611448,
+            "tags": {
+                "name": "Scala Tonda",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2490633533,
+            "lat": 45.9131314,
+            "lon": 10.9028976,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2491888117,
+            "lat": 45.9122997,
+            "lon": 10.9022089,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2507737382,
+            "lat": 45.7245532,
+            "lon": 10.7996622,
+            "tags": {
+                "name": "Baloc taca via",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2515746742,
+            "lat": 46.0503849,
+            "lon": 10.8999923,
+            "tags": {
+                "name": "Canyon del Limaro",
+                "tourism": "attraction",
+                "wikidata": "Q16536381",
+                "wikipedia": "it:Canyon del Limar\u00f2"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2529967917,
+            "lat": 46.0010779,
+            "lon": 10.9733394,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Fonte Romana",
+                "opening_hours": "24/7",
+                "tourism": "attraction",
+                "wheelchair": "no",
+                "wikidata": "Q70331892"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2536387433,
+            "lat": 46.1687904,
+            "lon": 10.7144566,
+            "tags": {
+                "name": "Cascate Nardis",
+                "tourism": "attraction",
+                "wikidata": "Q3661552",
+                "wikipedia": "it:Cascate Nardis"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2626524901,
+            "lat": 46.4862567,
+            "lon": 11.3261925,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Maria in Auge - Maria Au",
+                "name:de": "ehem Kloster Maria Au",
+                "name:it": "ex monastero Maria in Auge"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2666300185,
+            "lat": 45.7468247,
+            "lon": 11.533883,
+            "tags": {
+                "historic": "manor",
+                "name": "Villa Piovene",
+                "tourism": "attraction",
+                "wikidata": "Q2506967",
+                "wikipedia": "it:Villa Piovene"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2800954901,
+            "lat": 46.0469106,
+            "lon": 11.7487009,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2805637302,
+            "lat": 45.7051737,
+            "lon": 11.3453147,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento ai caduti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2949115676,
+            "lat": 45.8591075,
+            "lon": 11.3468303,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2961512726,
+            "lat": 45.6614542,
+            "lon": 11.3606358,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento agli Alpini"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3016751013,
+            "lat": 45.7103212,
+            "lon": 11.3547216,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento a Giuseppe Garibaldi"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3030004719,
+            "lat": 45.886205,
+            "lon": 10.8419702,
+            "tags": {
+                "barrier": "sally_port",
+                "name": "Porta San Michele",
+                "start_date": "C13",
+                "tourism": "attraction",
+                "website": "https://www.comune.rivadelgarda.tn.it/La-citta/Riva-del-Garda/Monumenti/Porta-San-Michele",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3083364492,
+            "lat": 46.2821558,
+            "lon": 11.3537169,
+            "tags": {
+                "name": "Calcara",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3120466819,
+            "lat": 46.052568,
+            "lon": 11.1201624,
+            "tags": {
+                "fixme": "check the name",
+                "historic": "monument",
+                "name": "Trento Rocks"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3161368093,
+            "lat": 45.6578376,
+            "lon": 11.3679606,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento al ciclista"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3195757377,
+            "lat": 45.660563,
+            "lon": 11.361325,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento agli alpini"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3270519561,
+            "lat": 46.2395184,
+            "lon": 11.2237977,
+            "tags": {
+                "building": "yes",
+                "name": "Kalkofen - Calcara",
+                "name:de": "Kalkofen",
+                "name:it": "Calcara",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3309582310,
+            "lat": 45.9213722,
+            "lon": 11.0061893,
+            "tags": {
+                "historic": "castle",
+                "name": "Castello di Castellano",
+                "wikidata": "Q2240531",
+                "wikipedia": "it:Castello di Castellano"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3381607316,
+            "lat": 45.6825231,
+            "lon": 11.3385507,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento ai Caduti della I\u00b0 e II\u00b0 Guerra Mondiale"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3414873825,
+            "lat": 45.8626941,
+            "lon": 10.9491236,
+            "tags": {
+                "castle_type": "fortress",
+                "historic": "castle",
+                "name": "Osservatorio",
+                "start_date": "1915 - 18",
+                "website": "http://www.anamori.org/trinceenagiagrom/index.php?lng=it",
+                "wikidata": "Q67772130"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3435457858,
+            "lat": 45.884921,
+            "lon": 10.93829,
+            "tags": {
+                "archaeological_site": "lime_kiln",
+                "historic": "archaeological_site",
+                "site_type": "lime_kiln",
+                "wikidata": "Q59772",
+                "wikipedia": "it:Calcara (fornace)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3442901156,
+            "lat": 45.7445491,
+            "lon": 11.4586261,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento all'Arma dei Carabinieri"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3465506429,
+            "lat": 45.8027853,
+            "lon": 11.5990591,
+            "tags": {
+                "historic": "monument",
+                "name": "Lapide"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3491824077,
+            "lat": 46.5019733,
+            "lon": 11.2241508,
+            "tags": {
+                "historic": "wolf_pit",
+                "mapillary": "151851290206593",
+                "name": "Wolfsgrube",
+                "name:de": "Wolfsgrube",
+                "name:it": "Lovara",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3493253471,
+            "lat": 45.9963351,
+            "lon": 11.6030149,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Buso dei briganti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3546506131,
+            "lat": 46.421652,
+            "lon": 11.2523075,
+            "tags": {
+                "historic": "locomotive",
+                "name": "Locomotiva 835.322",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3556927856,
+            "lat": 45.8865443,
+            "lon": 10.8398249,
+            "tags": {
+                "barrier": "sally_port",
+                "name": "Porta San Marco",
+                "tourism": "attraction",
+                "website": "https://www.gardatrentino.it/it/Porta-San-Marco-riva-del-garda/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3610745303,
+            "lat": 45.6812966,
+            "lon": 11.3743577,
+            "tags": {
+                "historic": "monument",
+                "inscription": "San Vito di Leguzzano Ai caduti di tutte le guerre 1983",
+                "name": "Monumento ai Caduti",
+                "start_date": "1983"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3646765865,
+            "lat": 45.797854,
+            "lon": 11.1753731,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3677700344,
+            "lat": 45.9770548,
+            "lon": 11.5112449,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3679944405,
+            "lat": 46.4400209,
+            "lon": 11.1363509,
+            "tags": {
+                "amenity": "clock",
+                "display": "analog",
+                "name": "Orologio ad acqua",
+                "support": "ground",
+                "tourism": "attraction",
+                "wikidata": "Q108489703"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3704653919,
+            "lat": 45.7392618,
+            "lon": 11.0664551,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento ai Caduti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3737609760,
+            "lat": 46.4368385,
+            "lon": 11.1335914,
+            "tags": {
+                "name": "Canyon Rio Sass",
+                "tourism": "attraction",
+                "website": "http://www.canyonriosass.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3737609761,
+            "lat": 46.4389489,
+            "lon": 11.1377519,
+            "tags": {
+                "name": "Canyon Rio Sass",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3790737265,
+            "lat": 46.0488286,
+            "lon": 11.2760712,
+            "tags": {
+                "disused": "yes",
+                "historic": "monument",
+                "name": "Forno Maso Emer",
+                "tourism": "attraction",
+                "url": "http://www.filovignola.it/vignolavventura/il-forno-del-pane/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3795640533,
+            "lat": 45.8755338,
+            "lon": 11.5926084,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento al Capitano della Brigata Sassari Eugenio Niccolai (Medaglia d'Oro al Valor Militare)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3823187966,
+            "lat": 46.0501359,
+            "lon": 11.2661003,
+            "tags": {
+                "amenity": "drinking_water",
+                "historic": "monument",
+                "name": "Fontana storica"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3898557165,
+            "lat": 45.9419914,
+            "lon": 11.4598184,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3904227788,
+            "lat": 45.8542796,
+            "lon": 10.5909663,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3918195752,
+            "lat": 45.8839276,
+            "lon": 11.0702066,
+            "tags": {
+                "historic": "monument",
+                "name": "monumento ai caduti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3957329575,
+            "lat": 46.1209255,
+            "lon": 11.3786794,
+            "tags": {
+                "man_made": "adit",
+                "name": "Gruab va Hardimbl - Miniera dell'Erdemolo",
+                "name:it": "Miniera dell'Erdemolo",
+                "name:mhn": "Gruab va Hardimbl",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3976446437,
+            "lat": 45.7923737,
+            "lon": 11.6098586,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento all'Emigrante"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4054936848,
+            "lat": 45.890771,
+            "lon": 11.0439965,
+            "tags": {
+                "historic": "monument",
+                "image": "http://hotelrovereto.it/wp-content/uploads/2012/10/Rovereto-22.jpg",
+                "memorial": "bust",
+                "name": "Clementino Vannetti",
+                "sculptor": "Carlo Fait"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4142360377,
+            "lat": 46.4749982,
+            "lon": 11.3403555,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4147445528,
+            "lat": 46.0541905,
+            "lon": 11.4585231,
+            "tags": {
+                "historic": "yes",
+                "name": "Palazzo Armellini-Sette",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4239816964,
+            "lat": 45.9288209,
+            "lon": 11.0721352,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento ai caduti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4316268411,
+            "lat": 45.9298617,
+            "lon": 10.8259123,
+            "tags": {
+                "historic": "monument",
+                "name": "Giacomo Vittone"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4327010791,
+            "lat": 46.0948327,
+            "lon": 11.2165482,
+            "tags": {
+                "alt_name": "Castello di Roccabruna",
+                "historic": "castle",
+                "loc_name": "Cast\u00e8l de la R\u00f2ca",
+                "name": "Castello della Rocca",
+                "ruins": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4329876450,
+            "lat": 46.438411,
+            "lon": 11.2334531,
+            "tags": {
+                "historic": "monument",
+                "name": "Edith Stein",
+                "name:de": "Edith Stein",
+                "name:it": "Teresa Benedetta della Croce"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4361758843,
+            "lat": 46.1740483,
+            "lon": 11.5893364,
+            "tags": {
+                "historic": "monument",
+                "name": "Sass Spac\u00e0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4366632801,
+            "lat": 46.4818375,
+            "lon": 11.1370352,
+            "tags": {
+                "denotation": "natural_monument",
+                "leaf_cycle": "evergreen",
+                "leaf_type": "needleleaved",
+                "name": "Ginepro dei Pradaci",
+                "natural": "tree",
+                "sex": "female",
+                "species": "Juniperus communis",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4370182331,
+            "lat": 46.154681,
+            "lon": 10.7661357,
+            "tags": {
+                "historic": "monument",
+                "name": "Statua del Arrotino",
+                "name:it": "Statua del Arrotino"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4426962196,
+            "lat": 46.0636388,
+            "lon": 11.6126326,
+            "tags": {
+                "name": "Labirinto",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4427348517,
+            "lat": 45.643,
+            "lon": 11.3207194,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento ai caduti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4439781621,
+            "lat": 46.0430795,
+            "lon": 11.7435473,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Ponte Romano"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4441383666,
+            "lat": 45.7050812,
+            "lon": 11.2250793,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento ai caduti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4441451021,
+            "lat": 45.6685902,
+            "lon": 11.2341297,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento ai martiri dell'Eccidio di Borga"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4456204474,
+            "lat": 46.50151,
+            "lon": 11.2321968,
+            "tags": {
+                "name": "Kaltluftl\u00f6cher - Buchi di aria fredda",
+                "name:de": "Kaltluftl\u00f6cher",
+                "name:it": "Buchi di aria fredda",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4471893653,
+            "lat": 46.1817599,
+            "lon": 11.2694709,
+            "tags": {
+                "name": "Piramidi di Segonzano",
+                "natural": "rock",
+                "rock": "hoodoo",
+                "tourism": "attraction",
+                "wikidata": "Q3905576",
+                "wikipedia": "it:Piramidi di Segonzano"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4508665691,
+            "lat": 45.7860101,
+            "lon": 11.3179843,
+            "tags": {
+                "name": "Fortificazioni in caverna del Priafor\u00e0",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4512874018,
+            "lat": 46.4059131,
+            "lon": 10.7892188,
+            "tags": {
+                "ele": "1583",
+                "name": "Cascate Ragaiolo",
+                "tourism": "attraction",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4561903463,
+            "lat": 46.1515842,
+            "lon": 11.0966066,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4592490556,
+            "lat": 46.1736251,
+            "lon": 11.1453032,
+            "tags": {
+                "cutting": "yes",
+                "historic": "lime_kiln",
+                "product": "quicklime",
+                "surface": "gravel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4592490584,
+            "lat": 46.1768357,
+            "lon": 11.1520813,
+            "tags": {
+                "cutting": "yes",
+                "historic": "lime_kiln",
+                "product": "quicklime",
+                "surface": "gravel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4592617072,
+            "lat": 46.0969444,
+            "lon": 11.5243738,
+            "tags": {
+                "name": "Pria Lunella",
+                "natural": "rock",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4674375425,
+            "lat": 45.93026,
+            "lon": 11.1144859,
+            "tags": {
+                "amenity": "watering_place",
+                "drinking_water": "conditional",
+                "historic": "fountain",
+                "historic:civilization": "medieval",
+                "historic:period": "1532",
+                "name": "Fontana del Castel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4704863487,
+            "lat": 45.8745254,
+            "lon": 11.1064313,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4704863569,
+            "lat": 45.8760038,
+            "lon": 11.0881534,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4715779120,
+            "lat": 46.122044,
+            "lon": 11.1169018,
+            "tags": {
+                "castle_type": "manor",
+                "contact:facebook": "https://www.facebook.com/VillaSalvadoriZanatta/",
+                "contact:website": "http://fondazionesalvadorizanatta.it",
+                "historic": "castle",
+                "name": "Villa Salvadori Zanatta",
+                "operator": "Fondazione Salvadori-Zanatta"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4765154173,
+            "lat": 45.930732,
+            "lon": 11.0729663,
+            "tags": {
+                "historic": "monument",
+                "image": "File:Vallagarina_con_Madonna.jpg",
+                "name": "Madonna",
+                "wikimedia_commons": "File:Vallagarina con Madonna.jpg"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4823767052,
+            "lat": 46.0797269,
+            "lon": 11.5434326,
+            "tags": {
+                "historic": "yes",
+                "leaf_cycle": "semi_deciduous",
+                "leaf_type": "broadleaved",
+                "name": "Tiglio secolare",
+                "natural": "tree",
+                "species": "tilia",
+                "taxon": "tiliaceae",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4887259879,
+            "lat": 45.8567042,
+            "lon": 10.9192949,
+            "tags": {
+                "description": "Nomi alternativi: \"Ruderi di Castel Verde\"",
+                "historic": "archaeological_site",
+                "historic:civilization": "medieval",
+                "name": "Ruderi di Castel Vert"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4890327745,
+            "lat": 45.9176236,
+            "lon": 11.0313512,
+            "tags": {
+                "alt_name": "Trilite",
+                "historic": "monument",
+                "name": "Monumento della Pace"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4923554020,
+            "lat": 45.9417294,
+            "lon": 10.9261562,
+            "tags": {
+                "description": "Ruderi in stato d'abbandono. ",
+                "historic": "archaeological_site",
+                "historic:civilization": "medieval_christianity",
+                "name": "Ruderi antica chiesetta di Troiana"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4925770617,
+            "lat": 45.9087618,
+            "lon": 10.9407588,
+            "tags": {
+                "ele": "1275",
+                "historic": "archaeological_site",
+                "historic:civilization": "medieval",
+                "name": "Ruderi Torre Castil"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5009145344,
+            "lat": 46.4430137,
+            "lon": 11.1172494,
+            "tags": {
+                "archaeological_site": "fortification",
+                "historic": "archaeological_site",
+                "historic:civilization": "medieval",
+                "name": "Castel Vigna",
+                "ruins": "yes",
+                "site_type": "fortification",
+                "wikidata": "Q67772188"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5015305986,
+            "lat": 46.4293535,
+            "lon": 10.9157056,
+            "tags": {
+                "denotation": "natural_monument",
+                "leaf_cycle": "deciduous",
+                "leaf_type": "needleleaved",
+                "name": "Larice di Bresimo",
+                "natural": "tree",
+                "species": "Larix decidua",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5018800069,
+            "lat": 46.4994216,
+            "lon": 11.103479,
+            "tags": {
+                "denotation": "natural_monument",
+                "leaf_cycle": "deciduous",
+                "leaf_type": "needleleaved",
+                "name": "L\u00e4rche beim Urban - Larice di Urban",
+                "name:de": "L\u00e4rche beim Urban",
+                "name:it": "Larice di Urban",
+                "natural": "tree",
+                "species": "Larix decidua",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5021534689,
+            "lat": 45.8939342,
+            "lon": 10.8314928,
+            "tags": {
+                "historic": "archaeological_site",
+                "historic:civilization": "medieval",
+                "name": "Eremo di San Brizio",
+                "wikidata": "Q104370053"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5023487244,
+            "lat": 45.9195747,
+            "lon": 10.8296394,
+            "tags": {
+                "description": "Natural prehistoric shelter. ",
+                "historic": "archaeological_site",
+                "historic:civilization": "prehistoric",
+                "name": "Sottoroccia Doss de le Strie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5032926579,
+            "lat": 46.0642625,
+            "lon": 11.6104436,
+            "tags": {
+                "name": "Roccolo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5044392943,
+            "lat": 45.8672948,
+            "lon": 11.4774553,
+            "tags": {
+                "fixme": "Verificare il nome della locomotiva",
+                "historic": "locomotive",
+                "locomotive:type": "steam",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5133728956,
+            "lat": 46.0809183,
+            "lon": 11.7672141,
+            "tags": {
+                "castle_type": "defensive",
+                "historic": "castle",
+                "historic:civilization": "modern",
+                "name": "Castel Schen\u00e8r",
+                "ruins": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5140956124,
+            "lat": 46.4245884,
+            "lon": 11.3636591,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Insediamento dell'et\u00e0 della pietra - Steinzeitsiedlung",
+                "name:de": "Steinzeitsiedlung",
+                "name:it": "Insediamento dell'et\u00e0 della pietra"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5145424181,
+            "lat": 46.0592803,
+            "lon": 11.2492931,
+            "tags": {
+                "historic": "castle",
+                "name": "Castello di Pergine",
+                "place": "locality",
+                "tourism": "attraction",
+                "wikidata": "Q1048609",
+                "wikipedia": "it:Castel Pergine"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5244016154,
+            "lat": 46.018325,
+            "lon": 10.8112658,
+            "tags": {
+                "name": "La Bifora",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5266511326,
+            "lat": 45.8811294,
+            "lon": 11.036181,
+            "tags": {
+                "historic": "monument",
+                "inscription": "Monumento ai piloti di montagna che hanno combattuto durante la seconda guerra mondiale",
+                "name": "Monumento ai \"Piloti di Montagna\""
+            }
+        },
+        {
+            "type": "node",
+            "id": 5271597193,
+            "lat": 45.8554307,
+            "lon": 11.0600442,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento ai caduti della I\u00b0 guerra mondiale"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5294632390,
+            "lat": 45.7718542,
+            "lon": 11.4269587,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Viadotto Astico ex Ferrovia Rochette-Asiago"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5375949317,
+            "lat": 45.7583139,
+            "lon": 11.0085745,
+            "tags": {
+                "historic": "monument",
+                "name": "Cannone Alpino"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5389468391,
+            "lat": 45.7589351,
+            "lon": 10.9967911,
+            "tags": {
+                "description": "Dedicato ai caduti di guerra ",
+                "historic": "monument",
+                "name": "Pietra Miliare"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5389482524,
+            "lat": 45.7565445,
+            "lon": 11.0007999,
+            "tags": {
+                "historic": "monument",
+                "name": "Statua di Papa Giovanni XXIII"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5391147330,
+            "lat": 45.77051,
+            "lon": 11.0027339,
+            "tags": {
+                "historic": "monument",
+                "name": "Capitello Antico"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5393716171,
+            "lat": 46.0632038,
+            "lon": 11.24169,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5401488516,
+            "lat": 46.0844761,
+            "lon": 10.9191661,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5579996072,
+            "lat": 46.0101443,
+            "lon": 11.6380511,
+            "tags": {
+                "historic": "archaeological_site",
+                "historic:civilization": "modern",
+                "inscription": "Trincerone di Grigno",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5602471270,
+            "lat": 45.9154683,
+            "lon": 10.8847481,
+            "tags": {
+                "historic": "monument",
+                "inscription": "Gianni Caproni Pioniere dell'Aeronautica",
+                "name": "Monumento Gianni Caproni"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5611479214,
+            "lat": 46.4300079,
+            "lon": 11.3416216,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "name": "Capanna retica",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5647579029,
+            "lat": 46.0673236,
+            "lon": 11.2455496,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5649181087,
+            "lat": 46.0667083,
+            "lon": 11.1604544,
+            "tags": {
+                "circumference": "6.17",
+                "height": "30",
+                "historic": "monument",
+                "natural": "tree"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5680205931,
+            "lat": 46.0736524,
+            "lon": 11.1509504,
+            "tags": {
+                "check_date:opening_hours": "2021-08-19",
+                "name": "Cascata dell'Orrido",
+                "opening_hours": "Sa-Su 10:00-18:00",
+                "operator": "Ecomuseo dell'Argentario",
+                "tourism": "attraction",
+                "website": "http://ecoargentario.it/orridopontealto"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5712248627,
+            "lat": 45.8505554,
+            "lon": 10.9709771,
+            "tags": {
+                "access": "yes",
+                "archaeological_site": "settlement",
+                "description": "insediamento dell'et\u00e0 del Bronzo",
+                "historic": "archaeological_site",
+                "historic:civilization": "medieval;bronze_age",
+                "name": "Ruderi Castel Corno",
+                "ruins": "castle",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5747778029,
+            "lat": 46.1120109,
+            "lon": 11.238182,
+            "tags": {
+                "historic": "castle",
+                "loc_name": "Cast\u00e8l de la M\u00f3t",
+                "name": "Castel Belvedere",
+                "ruins": "yes",
+                "wikidata": "Q17992210",
+                "wikipedia": "it:Castel Belvedere"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5751060674,
+            "lat": 45.9217859,
+            "lon": 11.0060628,
+            "tags": {
+                "description": "Trebbiatrice storica",
+                "name": "Machina da bater",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5761760124,
+            "lat": 46.3888943,
+            "lon": 11.0369226,
+            "tags": {
+                "castle_type": "defensive",
+                "historic": "castle",
+                "name": "Castel Cagn\u00f2",
+                "ruins": "yes",
+                "wikidata": "Q59197313"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5773716759,
+            "lat": 45.98814,
+            "lon": 10.8302528,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "prehistoric",
+                "name": "Insediamenti neolitici e dell'et\u00e0 del bronzo",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5784706837,
+            "lat": 45.909773,
+            "lon": 10.9140484,
+            "tags": {
+                "archaeological_site": "fortification",
+                "historic": "archaeological_site",
+                "historic:civilization": "medieval",
+                "name": "Ruderi Castel Saiano",
+                "site_type": "fortification"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5812752537,
+            "lat": 45.9933548,
+            "lon": 10.9007299,
+            "tags": {
+                "historic": "monument",
+                "name": "Regole per i Jumper"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5865319476,
+            "lat": 46.0877376,
+            "lon": 11.295532,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5896523673,
+            "lat": 46.3082961,
+            "lon": 11.5827045,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "description": "antiche scritte dei pastori di Fiemme, da met\u00e0 '600 al '900",
+                "historic": "archaeological_site",
+                "name": "Scritte Pastori",
+                "site_type": "petroglyph"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5907768586,
+            "lat": 46.0562492,
+            "lon": 11.5288081,
+            "tags": {
+                "castle_type": "palace",
+                "historic": "castle",
+                "name": "Castel Ivano - Palazzo di L\u00e0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5907768588,
+            "lat": 46.0559163,
+            "lon": 11.5291125,
+            "tags": {
+                "castle_type": "palace",
+                "historic": "castle",
+                "name": "Castel Ivano - Palazzo di Qua"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5907768590,
+            "lat": 46.0557152,
+            "lon": 11.5293032,
+            "tags": {
+                "castle_type": "palace",
+                "historic": "castle",
+                "name": "Castel Ivano - Cappella",
+                "wikidata": "Q100576209"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5939018682,
+            "lat": 45.7667898,
+            "lon": 11.5145023,
+            "tags": {
+                "historic": "monument",
+                "inscription": "In memoria del nostro amico Missaggia Fortunato (1949-2017). Il Gruppo Alpini Calvene.",
+                "name": "Agli Alpini"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6021774388,
+            "lat": 46.3939367,
+            "lon": 11.0141545,
+            "tags": {
+                "castle_type": "defensive",
+                "historic": "castle",
+                "name": "Castello di Mostizzolo",
+                "ruins": "yes",
+                "wikidata": "Q18397486",
+                "wikipedia": "it:Castello di Mostizzolo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6090239908,
+            "lat": 46.2164418,
+            "lon": 11.1180186,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6105527131,
+            "lat": 46.2369393,
+            "lon": 10.5812434,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento ai Caduti della Prima Guerra Mondiale"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6106678877,
+            "lat": 46.0512365,
+            "lon": 11.5303107,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento ai caduti di Agnedo",
+                "wikidata": "Q102359236"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6124676295,
+            "lat": 46.0439904,
+            "lon": 11.5506206,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento ai caduti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6184192633,
+            "lat": 46.375437,
+            "lon": 11.0760534,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6239423185,
+            "lat": 46.0062084,
+            "lon": 11.1281356,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6239423186,
+            "lat": 46.0062452,
+            "lon": 11.1281564,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6239423190,
+            "lat": 46.0064671,
+            "lon": 11.1277695,
+            "tags": {
+                "historic": "monument",
+                "name": "Don Dario Trentini"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6373763705,
+            "lat": 46.0112477,
+            "lon": 10.7017028,
+            "tags": {
+                "historic": "archaeological_site"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6534778447,
+            "lat": 46.0168492,
+            "lon": 10.7000903,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Rovine della Rocca di Breguzzo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6534808101,
+            "lat": 45.8800633,
+            "lon": 10.8852769,
+            "tags": {
+                "fee": "no",
+                "name": "Marmitta dei Giganti",
+                "natural": "cave_entrance",
+                "tourism": "attraction",
+                "website": "https://www.gardatrentino.it/it/marmitte-dei-giganti-nago-torbole/",
+                "wheelchair": "yes",
+                "wikidata": "Q97940454",
+                "wikipedia": "it:Marmitte dei giganti (Nago-Torbole)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6574545607,
+            "lat": 46.3628801,
+            "lon": 11.4116996,
+            "tags": {
+                "name": "Bletterbach-Schlucht - Gola del Bletterbach",
+                "name:en": "Bletterbach gorge",
+                "name:it": "Gola del Bletterbach",
+                "place": "locality",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6588140006,
+            "lat": 45.8615592,
+            "lon": 11.03024,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "prehistoric",
+                "name": "Busa dell'Adamo",
+                "site_type": "settlement",
+                "wikidata": "Q98202657"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6590472117,
+            "lat": 46.0154751,
+            "lon": 10.9716199,
+            "tags": {
+                "access": "yes",
+                "archaeological_site": "settlement",
+                "description": "Nome alternativo: \"Covelo del Castelliere di Fabian\"",
+                "historic": "archaeological_site",
+                "historic:civilization": "bronze-age",
+                "name": "Riparo del Santuario (sottoroccia dell'et\u00e0 del bronzo)",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6603192389,
+            "lat": 45.8778167,
+            "lon": 10.8383646,
+            "tags": {
+                "name": "Strada del Ponale",
+                "tourism": "attraction",
+                "wikipedia": "it:Strada del Ponale"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6603192390,
+            "lat": 45.8741342,
+            "lon": 10.8374419,
+            "tags": {
+                "name": "Strada del Ponale",
+                "tourism": "attraction",
+                "wikipedia": "it:Strada del Ponale"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6604430824,
+            "lat": 45.9270165,
+            "lon": 10.8914006,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6609461526,
+            "lat": 46.4104735,
+            "lon": 11.4364849,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6612680082,
+            "lat": 45.6448541,
+            "lon": 11.3001652,
+            "tags": {
+                "castle_type": "palace",
+                "historic": "castle",
+                "name": "Palazzo Festari"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6621278543,
+            "lat": 45.929952,
+            "lon": 10.904598,
+            "tags": {
+                "access": "yes",
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "historic:civilization": "neolithic",
+                "name": "Ventiquattro coppelle",
+                "site_type": "petroglyph"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6622711404,
+            "lat": 45.643676,
+            "lon": 11.3004395,
+            "tags": {
+                "castle_type": "palace",
+                "historic": "castle",
+                "name": "Villa Zanuso ora Fontanari"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6635710393,
+            "lat": 45.8036732,
+            "lon": 11.3501475,
+            "tags": {
+                "access": "yes",
+                "historic": "monument",
+                "name": "Monumento ai Caduti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6738014493,
+            "lat": 45.8740886,
+            "lon": 10.8860791,
+            "tags": {
+                "access": "no",
+                "historic": "castle",
+                "name": "Castel Penede",
+                "wikidata": "Q18397551",
+                "wikimedia_commons": "File:Castel_Penede_003.jpg",
+                "wikipedia": "it:Castel Penede"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6751934834,
+            "lat": 45.7943952,
+            "lon": 11.1843284,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6751979044,
+            "lat": 45.7955799,
+            "lon": 11.1757536,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6751987676,
+            "lat": 45.7940249,
+            "lon": 11.1767313,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6774850960,
+            "lat": 45.8856609,
+            "lon": 11.0091832,
+            "tags": {
+                "historic": "monument",
+                "memorial": "bust",
+                "name": "Busto di Clementino Vannetti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6854160701,
+            "lat": 46.0074336,
+            "lon": 11.1294769,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6946085515,
+            "lat": 45.7910922,
+            "lon": 11.6133314,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento Scoppio della Polveriera 15-18"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7054906823,
+            "lat": 45.6487747,
+            "lon": 11.3027417,
+            "tags": {
+                "historic": "monument",
+                "name": "Citt\u00e0 sociale Valdagno"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7097934910,
+            "lat": 46.0544318,
+            "lon": 11.4590321,
+            "tags": {
+                "historic": "yes",
+                "name": "Palazzo Bertondello Hippoliti",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7097945055,
+            "lat": 46.054,
+            "lon": 11.4576736,
+            "tags": {
+                "addr:housenumber": "29",
+                "addr:street": "Corso Ausugum",
+                "historic": "yes",
+                "name": "Antica casa della Magnifica Comunit\u00e0 del Borgo",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7097945057,
+            "lat": 46.0544529,
+            "lon": 11.4554713,
+            "tags": {
+                "historic": "yes",
+                "name": "Palazzo Zanelli",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7346447220,
+            "lat": 46.4129224,
+            "lon": 11.2433628,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7347505004,
+            "lat": 45.8911953,
+            "lon": 11.0349027,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7347567490,
+            "lat": 45.8910695,
+            "lon": 11.0351779,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7395589160,
+            "lat": 46.4145822,
+            "lon": 11.2814513,
+            "tags": {
+                "historic": "archaeological_site"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7558361933,
+            "lat": 46.2267387,
+            "lon": 11.2962659,
+            "tags": {
+                "name": "Molino Nones",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7644727580,
+            "lat": 45.8699882,
+            "lon": 11.0733351,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento ai caduti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7647312589,
+            "lat": 46.0931453,
+            "lon": 11.124325,
+            "tags": {
+                "access": "permit",
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "prehistoric",
+                "name": "Riparo Gaban",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7669722067,
+            "lat": 46.2853509,
+            "lon": 11.0375288,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7684407385,
+            "lat": 45.6550493,
+            "lon": 11.0825086,
+            "tags": {
+                "historic": "monument",
+                "name": "Stele di commemorazione",
+                "name:en": "Grave"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7710065442,
+            "lat": 45.9697307,
+            "lon": 10.9392533,
+            "tags": {
+                "access": "yes",
+                "historic": "castle",
+                "name": "Castel Drena",
+                "wikidata": "Q17993094",
+                "wikimedia_commons": "File:Castello_di_Drena_01.jpg",
+                "wikipedia": "it:Castello di Drena"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7713459189,
+            "lat": 45.8300817,
+            "lon": 11.2124745,
+            "tags": {
+                "historic": "ruins",
+                "name": "Autocarro storico FIAT 666N7",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7734007009,
+            "lat": 45.7366975,
+            "lon": 11.3567972,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento a Don Pio Penzo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7819933485,
+            "lat": 45.970101,
+            "lon": 10.9340989,
+            "tags": {
+                "name": "Inizio Ferrata Rio Sallagoni",
+                "name:en": "Start Ferrata Rio Sallagoni",
+                "name:fr": "D\u00e9but Ferrata Rio Sallagoni",
+                "name:it": "Inizio Ferrata Rio Sallagoni",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7823199524,
+            "lat": 46.4041072,
+            "lon": 11.0109374,
+            "tags": {
+                "castle_type": "defensive",
+                "historic": "castle",
+                "name": "Castel Zoccolo",
+                "ruins": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7871689685,
+            "lat": 46.2893546,
+            "lon": 10.696014,
+            "tags": {
+                "name": "Madonnina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7872907986,
+            "lat": 46.2746602,
+            "lon": 10.7065281,
+            "tags": {
+                "name": "Ponte",
+                "name:en": "Bridge",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7880742885,
+            "lat": 46.4061413,
+            "lon": 10.7892811,
+            "tags": {
+                "name": "Ponte sospeso",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7883972295,
+            "lat": 45.8861613,
+            "lon": 10.8435268,
+            "tags": {
+                "historic": "archaeological_site",
+                "historic:civilization": "ancient_roman",
+                "name": "Sepoltura romana"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7930996418,
+            "lat": 45.8973599,
+            "lon": 10.852296,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7934901174,
+            "lat": 45.8847473,
+            "lon": 10.8918575,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Incisioni rupestri Castagneto"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7986243372,
+            "lat": 45.9113172,
+            "lon": 10.8125873,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8010529588,
+            "lat": 45.9205886,
+            "lon": 10.8896875,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8072204335,
+            "lat": 45.9140149,
+            "lon": 10.8456403,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8168856642,
+            "lat": 46.0557041,
+            "lon": 11.5216709,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento ai caduti di Villa",
+                "wikidata": "Q102358851"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8198560949,
+            "lat": 45.7736011,
+            "lon": 11.306192,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8209822187,
+            "lat": 45.9733488,
+            "lon": 11.7170182,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8209822203,
+            "lat": 45.973147,
+            "lon": 11.7169847,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8222791098,
+            "lat": 45.8348273,
+            "lon": 11.4485304,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8223801117,
+            "lat": 46.2187711,
+            "lon": 11.395751,
+            "tags": {
+                "name": "zirmo dai zochi alti Abete monumentiate",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8228931617,
+            "lat": 46.2737741,
+            "lon": 11.4506681,
+            "tags": {
+                "name": "El pezo de Gazolin",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8231895105,
+            "lat": 45.9709159,
+            "lon": 10.9436231,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8242438417,
+            "lat": 46.3194928,
+            "lon": 11.4398261,
+            "tags": {
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8244648738,
+            "lat": 46.2832802,
+            "lon": 11.3937191,
+            "tags": {
+                "name": "Larice di confine",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8299409995,
+            "lat": 45.705356,
+            "lon": 11.2274942,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8358184222,
+            "lat": 45.7660576,
+            "lon": 10.8086894,
+            "tags": {
+                "name": "Affresco medioevale",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8358184318,
+            "lat": 45.766133,
+            "lon": 10.808793,
+            "tags": {
+                "name": "Antico ingresso principale",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8358184319,
+            "lat": 45.7661009,
+            "lon": 10.8089623,
+            "tags": {
+                "name": "Ingresso da Via Castello",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8358184320,
+            "lat": 45.7662124,
+            "lon": 10.8089344,
+            "tags": {
+                "name": "Rivellino di epoca austriaca",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8358186820,
+            "lat": 45.7659668,
+            "lon": 10.8085816,
+            "tags": {
+                "name": "Rivellino fortificacione avanzata",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8447541917,
+            "lat": 45.8847874,
+            "lon": 11.0178617,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8497863787,
+            "lat": 46.0744856,
+            "lon": 11.1092322,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Forte napoleonico"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8500637107,
+            "lat": 46.2077623,
+            "lon": 11.0912172,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8584485809,
+            "lat": 46.2475043,
+            "lon": 11.0262555,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8669878778,
+            "lat": 46.2568613,
+            "lon": 11.0372311,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8669878779,
+            "lat": 46.2495928,
+            "lon": 11.0473913,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8674266905,
+            "lat": 45.784219,
+            "lon": 11.5790547,
+            "tags": {
+                "access": "yes",
+                "historic": "monument",
+                "name": "Monumento ai Caduti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8712274647,
+            "lat": 46.236962,
+            "lon": 11.0330562,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8733760706,
+            "lat": 46.0022158,
+            "lon": 11.223773,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8740712310,
+            "lat": 46.0064135,
+            "lon": 11.198931,
+            "tags": {
+                "historic": "memorial",
+                "name": "Casa natale Santa Paolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8750410660,
+            "lat": 46.0052187,
+            "lon": 11.1953024,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8758969463,
+            "lat": 46.0744947,
+            "lon": 11.1204538,
+            "tags": {
+                "historic": "locomotive",
+                "name": "Locomotiva 625.011",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8759011226,
+            "lat": 46.1017242,
+            "lon": 11.0956799,
+            "tags": {
+                "historic": "railway_car",
+                "name": "Rimorchiata CP 2 della ferrovia Trento-Mal\u00e8",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8759011229,
+            "lat": 46.1018144,
+            "lon": 11.0957315,
+            "tags": {
+                "historic": "locomotive",
+                "name": "Elettrotreno della ferrovia Trento-Mal\u00e8",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8797621041,
+            "lat": 45.8189523,
+            "lon": 10.9403917,
+            "tags": {
+                "name": "Casa nel bosco",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8797621053,
+            "lat": 45.8169011,
+            "lon": 10.9452879,
+            "tags": {
+                "name": "Casa del Bersaglio",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8806228526,
+            "lat": 45.8855112,
+            "lon": 10.8418535,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8810714475,
+            "lat": 46.2303264,
+            "lon": 11.0889085,
+            "tags": {
+                "access": "yes",
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "prehistoric",
+                "name": "Dos de la forca",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8841258257,
+            "lat": 45.8965654,
+            "lon": 10.7196536,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8841958362,
+            "lat": 45.8928622,
+            "lon": 10.7241795,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8871589423,
+            "lat": 45.8768319,
+            "lon": 10.858928,
+            "tags": {
+                "archaeological_site": "fortification",
+                "historic": "archaeological_site",
+                "historic:civilization": "modern",
+                "name": "Sudbatterie",
+                "site_type": "fortification"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8895690457,
+            "lat": 45.81598,
+            "lon": 11.10215,
+            "tags": {
+                "archaeological_site": "lime_kiln",
+                "historic": "archaeological_site",
+                "name": "Calchera",
+                "site_type": "lime_kiln"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8930588661,
+            "lat": 45.9211791,
+            "lon": 11.5864319,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8951098828,
+            "lat": 45.6497725,
+            "lon": 11.3007943,
+            "tags": {
+                "historic": "locomotive",
+                "name": "Elettromotrice FTV 01",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8976347881,
+            "lat": 45.9418047,
+            "lon": 10.8853646,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8995598307,
+            "lat": 45.8526738,
+            "lon": 11.3289022,
+            "tags": {
+                "name": "La Spada nella Roccia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9019710264,
+            "lat": 45.9352121,
+            "lon": 10.970542,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9051431212,
+            "lat": 46.1067761,
+            "lon": 11.3007899,
+            "tags": {
+                "name": "Ponte del Diaol",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9065748210,
+            "lat": 45.9570377,
+            "lon": 10.9045782,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9073982458,
+            "lat": 45.8849687,
+            "lon": 10.86283,
+            "tags": {
+                "access": "permit",
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "prehistoric",
+                "name": "Sito neolitico della cultura dei vasi a bocca quadrata",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9078565409,
+            "lat": 45.9510971,
+            "lon": 10.900975,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9090357461,
+            "lat": 45.9351503,
+            "lon": 10.9067375,
+            "tags": {
+                "access": "yes",
+                "alt_name": "Cave di Oolite",
+                "fee": "no",
+                "name": "Cave Alte",
+                "natural": "cave_entrance",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9091051113,
+            "lat": 46.3923724,
+            "lon": 11.1368501,
+            "tags": {
+                "historic": "monument",
+                "name": "monumento ai caduti"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9125622460,
+            "lat": 45.8677531,
+            "lon": 10.8772512,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9253579647,
+            "lat": 46.0842135,
+            "lon": 11.7646998,
+            "tags": {
+                "archaeological_site": "rock_shelter",
+                "historic": "archaeological_site",
+                "historic:civilization": "prehistoric,paleolithic",
+                "name": "Ripari Villabruna",
+                "site_type": "rock_shelter",
+                "wikipedia": "it:Cacciatore della Val Rosna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9336999142,
+            "lat": 45.8553016,
+            "lon": 11.5681931,
+            "tags": {
+                "description:it": "all'interno mostra di uccellini imbalsamati",
+                "opening_hours": "Sa-Su 00:00-24:00",
+                "reservation": "no",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9460735350,
+            "lat": 45.9137009,
+            "lon": 11.1877146,
+            "tags": {
+                "historic": "monument",
+                "name": "Colonna della Madonnina"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466196704,
+            "lat": 45.9460725,
+            "lon": 10.9029744,
+            "tags": {
+                "historic": "monument",
+                "name": "Capitello di S. Rocco o \"delle guardie\""
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535501985,
+            "lat": 46.0532321,
+            "lon": 11.4938356,
+            "tags": {
+                "access": "yes",
+                "historic": "monument",
+                "name": "monumento ai caduti",
+                "wikidata": "Q111017263"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9623611542,
+            "lat": 45.8762399,
+            "lon": 10.9303908,
+            "tags": {
+                "historic": "monument",
+                "name": "madonnina"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9646961423,
+            "lat": 45.8899968,
+            "lon": 11.045499,
+            "tags": {
+                "addr:city": "Rovereto",
+                "addr:postcode": "38068",
+                "addr:street": "Piazzetta Maccal\u00e8",
+                "name": "Il presepe meccanico degli scout",
+                "operator": "CNGEI Rovereto",
+                "phone": "+39 464424047",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9739777683,
+            "lat": 45.9926556,
+            "lon": 10.9263345,
+            "tags": {
+                "name": "Punto atterraggio base jumper",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9838929285,
+            "lat": 45.8619909,
+            "lon": 10.8274585,
+            "tags": {
+                "access": "yes",
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "historic:civilization": "neolithic",
+                "name": "Coppelle",
+                "site_type": "petroglyph"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9838941264,
+            "lat": 46.1019963,
+            "lon": 11.058595,
+            "tags": {
+                "access": "yes",
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "prehistoric",
+                "name": "Capanna del Paleolitico Superiore e Mesolitico Antico",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9838957230,
+            "lat": 46.0668919,
+            "lon": 10.9955857,
+            "tags": {
+                "access": "yes",
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "neolithic",
+                "name": "Insediamento di et\u00e0 neolitica",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9838959004,
+            "lat": 45.8735665,
+            "lon": 10.897958,
+            "tags": {
+                "access": "unknown",
+                "archaeological_site": "necropolis",
+                "historic": "archaeological_site",
+                "historic:civilization": "prehistoric",
+                "name": "Necropoli dell'et\u00e0 eneolitica",
+                "site_type": "necropolis"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9838962945,
+            "lat": 46.0746954,
+            "lon": 11.0812342,
+            "tags": {
+                "historic": "archaeological_site",
+                "historic:civilization": "bronze-age",
+                "name": "Luogo di culto dell'et\u00e0 del Bronzo e del Ferro"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9838967662,
+            "lat": 45.8854888,
+            "lon": 10.863936,
+            "tags": {
+                "archaeological_site": "necropolis",
+                "historic": "archaeological_site",
+                "historic:civilization": "ancient_roman",
+                "name": "Necropoli di epoca romana e altomedievale",
+                "site_type": "necropolis"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9838974378,
+            "lat": 46.0607372,
+            "lon": 11.1034553,
+            "tags": {
+                "historic": "archaeological_site",
+                "historic:civilization": "bronze-age",
+                "name": "Luogo di culto dall'et\u00e0 del Bronzo all'epoca romana"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9839001234,
+            "lat": 45.9350991,
+            "lon": 10.9037061,
+            "tags": {
+                "access": "yes",
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "prehistoric",
+                "name": "Insediamento dell'et\u00e0 mesolitica finale - eneolitica",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9839007994,
+            "lat": 45.8850483,
+            "lon": 10.860792,
+            "tags": {
+                "archaeological_site": "necropolis",
+                "historic": "archaeological_site",
+                "historic:civilization": "ancient_roman",
+                "name": "Necropoli ed edifici di epoca romana",
+                "site_type": "necropolis"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9839013304,
+            "lat": 45.8861346,
+            "lon": 10.8608841,
+            "tags": {
+                "archaeological_site": "necropolis",
+                "historic": "archaeological_site",
+                "historic:civilization": "ancient_roman",
+                "name": "Necropoli di epoca romana",
+                "site_type": "necropolis"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9839059847,
+            "lat": 45.8839986,
+            "lon": 10.8577214,
+            "tags": {
+                "archaeological_site": "necropolis",
+                "historic": "archaeological_site",
+                "historic:civilization": "ancient_roman",
+                "name": "Necropoli di epoca romana",
+                "site_type": "necropolis"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9839109306,
+            "lat": 45.8778483,
+            "lon": 10.8672813,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "neolithic",
+                "name": "Stazione del Neolitico Finale",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9855961563,
+            "lat": 45.9283257,
+            "lon": 10.8865802,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "prehistoric",
+                "name": "riparo frequentato dal periodo mesolitico all'eneolitico",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9855964314,
+            "lat": 45.9007514,
+            "lon": 10.8709197,
+            "tags": {
+                "archaeological_site": "necropolis",
+                "historic": "archaeological_site",
+                "historic:civilization": "ancient_roman",
+                "name": "necropoli di epoca romana",
+                "site_type": "necropolis"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9855971180,
+            "lat": 45.9264403,
+            "lon": 10.8985445,
+            "tags": {
+                "archaeological_site": "necropolis",
+                "historic": "archaeological_site",
+                "historic:civilization": "ancient_roman",
+                "name": "necropoli di epoca romana",
+                "site_type": "necropolis"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9855978411,
+            "lat": 45.9476117,
+            "lon": 10.8926466,
+            "tags": {
+                "archaeological_site": "necropolis",
+                "historic": "archaeological_site",
+                "historic:civilization": "medieval",
+                "name": "necropoli di epoca altomedievale",
+                "site_type": "necropolis"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9855979764,
+            "lat": 45.930195,
+            "lon": 10.8892651,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "neolithic",
+                "name": "insediamento del Neolitico e mat. sporadico di epoca romana",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9855983489,
+            "lat": 45.9454782,
+            "lon": 10.9005089,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "bronze-age",
+                "name": "stazione dell'et\u00e0 del Bronzo",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9855984996,
+            "lat": 45.9199769,
+            "lon": 10.8901586,
+            "tags": {
+                "archaeological_site": "necropolis",
+                "historic": "archaeological_site",
+                "historic:civilization": "ancient_roman",
+                "name": "necropoli di epoca romana",
+                "site_type": "necropolis"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9855988177,
+            "lat": 45.8392602,
+            "lon": 10.9766434,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "bronze-age",
+                "name": "Insediamento del Bronzo Recente-Finale",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9855995078,
+            "lat": 45.918037,
+            "lon": 10.8934522,
+            "tags": {
+                "archaeological_site": "necropolis",
+                "historic": "archaeological_site",
+                "historic:civilization": "ancient_roman",
+                "name": "necropoli di epoca romana",
+                "site_type": "necropolis"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9855999758,
+            "lat": 45.8966328,
+            "lon": 10.8792239,
+            "tags": {
+                "archaeological_site": "industrial",
+                "historic": "archaeological_site",
+                "historic:civilization": "ancient_roman",
+                "name": "fornace di epoca romana",
+                "site_type": "industrial"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856003923,
+            "lat": 45.8981697,
+            "lon": 10.8671379,
+            "tags": {
+                "archaeological_site": "necropolis",
+                "historic": "archaeological_site",
+                "historic:civilization": "ancient_roman",
+                "name": "necropoli di epoca romana",
+                "site_type": "necropolis"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856003924,
+            "lat": 45.8969041,
+            "lon": 10.865373,
+            "tags": {
+                "archaeological_site": "necropolis",
+                "historic": "archaeological_site",
+                "historic:civilization": "ancient_roman",
+                "name": "necropoli di epoca romana",
+                "site_type": "necropolis"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856003925,
+            "lat": 45.8909528,
+            "lon": 10.8596626,
+            "tags": {
+                "archaeological_site": "necropolis",
+                "historic": "archaeological_site",
+                "historic:civilization": "ancient_roman",
+                "name": "necropoli di epoca romana",
+                "site_type": "necropolis"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856005264,
+            "lat": 45.814795,
+            "lon": 10.9130503,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "bronze-age",
+                "name": "materiale di et\u00e0 mesolitica e stazione del Bronzo e Ferro",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856030551,
+            "lat": 45.8472327,
+            "lon": 10.9511448,
+            "tags": {
+                "archaeological_site": "necropolis",
+                "historic": "archaeological_site",
+                "historic:civilization": "ancient_roman",
+                "name": "necropoli romana e altomedievale",
+                "site_type": "necropolis"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856057125,
+            "lat": 45.8475874,
+            "lon": 10.9697267,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "prehistoric",
+                "name": "insediamento dell'et\u00e0 eneolitica e del Bronzo",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856060254,
+            "lat": 45.8757075,
+            "lon": 10.9274922,
+            "tags": {
+                "historic": "archaeological_site",
+                "historic:civilization": "bronze-age",
+                "name": "Materiale sporadico dell'et\u00e0 del Bronzo e romano"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856064234,
+            "lat": 45.8910715,
+            "lon": 10.9414836,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "prehistoric",
+                "name": "Stazione del Paleolitico Superiore-Mesolitico",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856066426,
+            "lat": 45.8966299,
+            "lon": 10.8353152,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "iron-age",
+                "name": "Insediamento dell'et\u00e0 del Ferro e necropoli romana",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856071386,
+            "lat": 45.8765087,
+            "lon": 10.7675422,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "medieval",
+                "note": "Insediamento con strutture abitative in legno di et\u00e0 altomedievale",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856071387,
+            "lat": 45.876946,
+            "lon": 10.7661263,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "bronze-age",
+                "name": "Stazione del Bronzo Antico",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856071388,
+            "lat": 45.8726975,
+            "lon": 10.7583322,
+            "tags": {
+                "archaeological_site": "ruins",
+                "historic": "archaeological_site",
+                "historic:civilization": "bronze-age",
+                "name": "Strutture ed edifici dell'et\u00e0 del Bronzo e altomedievale",
+                "site_type": "ruins"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856071389,
+            "lat": 45.8827914,
+            "lon": 10.7502472,
+            "tags": {
+                "archaeological_site": "necropolis",
+                "historic": "archaeological_site",
+                "historic:civilization": "medieval",
+                "name": "Edificio e necropoli altomedievale",
+                "site_type": "necropolis"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856071390,
+            "lat": 45.8860775,
+            "lon": 10.7386279,
+            "tags": {
+                "archaeological_site": "necropolis",
+                "historic": "archaeological_site",
+                "historic:civilization": "medieval",
+                "name": "Necropoli altomedievale",
+                "site_type": "necropolis"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856076376,
+            "lat": 46.1154974,
+            "lon": 11.03453,
+            "tags": {
+                "archaeological_site": "ruins",
+                "historic": "archaeological_site",
+                "historic:civilization": "bronze-age",
+                "name": "Strutture dall'et\u00e0 del Bronzo al periodo medievale",
+                "site_type": "ruins"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856076377,
+            "lat": 46.1127873,
+            "lon": 11.0820815,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "prehistoric",
+                "name": "Sottoroccia del periodo Mesolitico e Neolitico Antico",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856080527,
+            "lat": 45.9946476,
+            "lon": 10.8748227,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "bronze-age",
+                "name": "Stazione et\u00e0 del Bronzo-Ferro",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856084668,
+            "lat": 46.0121888,
+            "lon": 11.1058597,
+            "tags": {
+                "archaeological_site": "industrial",
+                "historic": "archaeological_site",
+                "historic:civilization": "bronze-age",
+                "name": "Attivit\u00e0 fusoria dell'et\u00e0 del Bronzo",
+                "site_type": "industrial"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856089217,
+            "lat": 46.0932728,
+            "lon": 11.0343144,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "prehistoric",
+                "name": "Stazione dall'Eneolitico alla Seconda Et\u00e0 del Ferro",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856089218,
+            "lat": 46.0906017,
+            "lon": 11.0358808,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "bronze-age",
+                "name": "Stazione del Bronzo Antico",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856089219,
+            "lat": 46.0849818,
+            "lon": 11.0308088,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "bronze-age",
+                "name": "Stazione dell'et\u00e0 del Bronzo",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856089564,
+            "lat": 45.9992244,
+            "lon": 11.0926951,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "neolithic",
+                "name": "Capanna del Neolitico",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856089565,
+            "lat": 46.0079829,
+            "lon": 11.1050521,
+            "tags": {
+                "archaeological_site": "settlement",
+                "historic": "archaeological_site",
+                "historic:civilization": "prehistoric",
+                "name": "Sito preistorico pluristratigrafico Romagnano Loc",
+                "site_type": "settlement"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856089566,
+            "lat": 46.0078436,
+            "lon": 11.106588,
+            "tags": {
+                "historic": "archaeological_site",
+                "historic:civilization": "neolithic",
+                "name": "Materiale sporadico di et\u00e0 neolitica e dell'et\u00e0 del Ferro"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9973454127,
+            "lat": 46.0,
+            "lon": 11.25436,
+            "tags": {
+                "name": "46\u00b0 Parallelo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9974467256,
+            "lat": 45.8671046,
+            "lon": 10.8976656,
+            "tags": {
+                "historic": "archaeological_site",
+                "historic:civilization": "medieval",
+                "name": "Grotta con incisioni rupestri di epoca medievale"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9976477324,
+            "lat": 45.6836434,
+            "lon": 10.9784505,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9982530994,
+            "lat": 46.3938263,
+            "lon": 11.1464058,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9983348719,
+            "lat": 45.8666104,
+            "lon": 10.7879299,
+            "tags": {
+                "access": "yes",
+                "historic": "monument",
+                "inscription": "El Ciuarol\nMaestro di lavoro e di vita",
+                "name": "El Ciuarol"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10039714153,
+            "lat": 46.2883078,
+            "lon": 11.210128,
+            "tags": {
+                "historic": "monument",
+                "name": "Rebstock aus 1601"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10129865186,
+            "lat": 45.7757624,
+            "lon": 10.7619666,
+            "tags": {
+                "name": "Forra del Brasa",
+                "name:de": "Brasa-Schlucht",
+                "name:en": "Brasa gorge",
+                "natural": "gorge",
+                "tourism": "attraction",
+                "wikipedia": "it:Strada provinciale 38 della Forra"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10268577721,
+            "lat": 46.0489526,
+            "lon": 10.8739427,
+            "tags": {
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10557017111,
+            "lat": 45.7213127,
+            "lon": 11.1709043,
+            "tags": {
+                "historic": "stone",
+                "name": "Le Mole",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10561669462,
+            "lat": 45.912064,
+            "lon": 11.230753,
+            "tags": {
+                "access": "yes",
+                "historic": "monument"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10669097723,
+            "lat": 45.7254505,
+            "lon": 11.3572482,
+            "tags": {
+                "access": "yes",
+                "historic": "monument",
+                "name:it": "Dinamico 2005",
+                "wikidata": "Q56258412"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10669102232,
+            "lat": 45.7245879,
+            "lon": 11.3663775,
+            "tags": {
+                "access": "yes",
+                "historic": "monument",
+                "name": "Monumento agli Alpini"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10669114382,
+            "lat": 45.7170456,
+            "lon": 11.3597634,
+            "tags": {
+                "access": "yes",
+                "historic": "monument",
+                "wikidata": "Q27990989"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10671728894,
+            "lat": 45.709876,
+            "lon": 11.3620523,
+            "tags": {
+                "historic": "monument",
+                "name:en": "Cone of Light",
+                "name:it": "Cono di Luce",
+                "wikidata": "Q56258391"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10694782481,
+            "lat": 45.8210474,
+            "lon": 10.9787648,
+            "tags": {
+                "historic": "monument",
+                "name": "150\u00b0 C. Alpini"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10822291943,
+            "lat": 46.4444601,
+            "lon": 11.2456882,
+            "tags": {
+                "name": "Buche di Ghiaccio",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10852501906,
+            "lat": 46.3411376,
+            "lon": 11.2374512,
+            "tags": {
+                "name:de": "Gew\u00fcrztraminerweg",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10856174076,
+            "lat": 45.7538771,
+            "lon": 11.3208492,
+            "tags": {
+                "name": "Albero Sacro",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10856174085,
+            "lat": 45.7542496,
+            "lon": 11.322142,
+            "tags": {
+                "name": "Alba",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10856174086,
+            "lat": 45.7541522,
+            "lon": 11.3222815,
+            "tags": {
+                "name": "Altura dei Tronchi Gemelli",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10856174087,
+            "lat": 45.7539766,
+            "lon": 11.322298,
+            "tags": {
+                "name": "Strega Grigia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10856174088,
+            "lat": 45.7538164,
+            "lon": 11.3224367,
+            "tags": {
+                "name": "Fata Propizia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10856174095,
+            "lat": 45.7534467,
+            "lon": 11.3227107,
+            "tags": {
+                "name": "Villaggio degli Esseri Favolosi",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10856174098,
+            "lat": 45.7531584,
+            "lon": 11.3224457,
+            "tags": {
+                "name": "Festa delle Stagioni",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10907415087,
+            "lat": 46.0677746,
+            "lon": 11.1226668,
+            "tags": {
+                "access": "no",
+                "archaeological_site": "roman_villa",
+                "contact:website": "https://www.cultura.trentino.it/Luoghi/Tutti-i-luoghi-della-cultura/Aree-archeologiche/Tridentum.-Area-archeologica-di-Palazzo-Lodron",
+                "fixme": "position",
+                "historic": "archaeological_site",
+                "name": "Area archeologica di Palazzo Lodron"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10913130289,
+            "lat": 45.7505526,
+            "lon": 11.4640901,
+            "tags": {
+                "historic": "monument",
+                "name": "Monumento a Papa Giovanni"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10923519016,
+            "lat": 46.0707051,
+            "lon": 11.1274905,
+            "tags": {
+                "historic": "prison",
+                "name": "Celle dei Martiri",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

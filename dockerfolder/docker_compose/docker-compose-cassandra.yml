@@ -1,0 +1,21 @@
+version: '2' #not sure
+services:
+  cassandra:  
+    image: cassandra:latest  
+    environment: 
+      - CASSANDRA_LISTEN_ADDRESS #to implement
+      - CASSANDRA_BROADCAST_ADDRESS #to implement
+      - CASSANDRA_RPC_ADDRESS #to implement
+      - CASSANDRA_START_RPC #to implement
+      - CASSANDRA_SEEDS #to implement
+      - CASSANDRA_CLUSTER_NAME=Test_cluster #to implement
+      - CASSANDRA_NUM_TOKENS     #to implement
+      - CASSANDRA_DC     #to implement
+      - CASSANDRA_RACK    #to implement
+      - CASSANDRA_ENDPOINT_SNITCH  #to implement
+      ports:     
+      - '9042:9042'
+
+volumes:
+  cassandra:
+    driver: local

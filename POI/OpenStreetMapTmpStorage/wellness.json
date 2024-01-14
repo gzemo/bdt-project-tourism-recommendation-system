@@ -1,0 +1,3009 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.60.6 e2dc3e5b",
+    "osm3s": {
+        "timestamp_osm_base": "2023-06-14T18:41:16Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+        {
+            "type": "node",
+            "id": 364122955,
+            "lat": 45.7408534,
+            "lon": 11.2606693,
+            "tags": {
+                "beauty": "nails",
+                "name": "Ddream",
+                "operator": "Sbabo Daniela",
+                "phone": "+390445590002",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 550687814,
+            "lat": 46.0542905,
+            "lon": 11.1330226,
+            "tags": {
+                "leisure": "fitness_centre",
+                "name": "Palestra Trim"
+            }
+        },
+        {
+            "type": "node",
+            "id": 623490865,
+            "lat": 46.4494646,
+            "lon": 11.2500222,
+            "tags": {
+                "leisure": "sauna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 794884635,
+            "lat": 46.0707635,
+            "lon": 11.1394163,
+            "tags": {
+                "name": "Centro Estetico Corpo Divino",
+                "opening_hours": "Mo-Fr 10:00-19:00; Sa 11:00-15:00",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 799244243,
+            "lat": 46.0106047,
+            "lon": 11.3032087,
+            "tags": {
+                "note": "profumeria",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 806752666,
+            "lat": 45.8874856,
+            "lon": 11.0411857,
+            "tags": {
+                "addr:city": "Rovereto",
+                "addr:country": "IT",
+                "addr:housenumber": "31",
+                "addr:postcode": "38068",
+                "addr:province": "TN",
+                "addr:state": "Trentino Alto Adige",
+                "addr:street": "Via Luigi Negrelli",
+                "name": "Salone Elena",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 853801236,
+            "lat": 46.065984,
+            "lon": 11.131204,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "104",
+                "addr:postcode": "38122",
+                "addr:street": "Via Giuseppe Grazioli",
+                "beauty": "hair,_cosmerics",
+                "currency:XBT": "yes",
+                "description": "Parrucchiere e Studio Estetico",
+                "name": "Bellezza Studio",
+                "opening_hours": "08:00-19:00",
+                "payment:bitcoin:operator": "inbitcoin.it",
+                "shop": "beauty",
+                "website": "https://www.bellezzastudio.eu/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 853802490,
+            "lat": 46.0658703,
+            "lon": 11.1319097,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "73",
+                "addr:postcode": "38122",
+                "addr:street": "Via Giuseppe Grazioli",
+                "leisure": "fitness_centre",
+                "name": "Centro Relife"
+            }
+        },
+        {
+            "type": "node",
+            "id": 858394232,
+            "lat": 46.0677131,
+            "lon": 11.1256533,
+            "tags": {
+                "contact:phone": "+39 0461 230797",
+                "contact:website": "http://www.benesserejuta.it/",
+                "leisure": "fitness_centre",
+                "name": "Juta Wellness Center",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 892578824,
+            "lat": 46.0660627,
+            "lon": 11.1239236,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "17",
+                "addr:postcode": "38122",
+                "addr:street": "Piazza Giovanni Battista Garzetti",
+                "name": "Estetica Pi\u00f9",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 943811100,
+            "lat": 46.3661444,
+            "lon": 11.0339681,
+            "tags": {
+                "addr:city": "Cles",
+                "addr:country": "IT",
+                "addr:housenumber": "5",
+                "addr:postcode": "38023",
+                "addr:street": "Piazzetta Carlo de Bertolini",
+                "name": "IperSoap",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 945430394,
+            "lat": 46.3651105,
+            "lon": 11.0339495,
+            "tags": {
+                "addr:city": "Cles",
+                "addr:country": "IT",
+                "addr:housenumber": "11",
+                "addr:postcode": "38023",
+                "name": "Linea Donna",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 945438817,
+            "lat": 46.3626278,
+            "lon": 11.0364075,
+            "tags": {
+                "name": "La Perla",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 945680552,
+            "lat": 46.3650061,
+            "lon": 11.0320325,
+            "tags": {
+                "name": "Estetica Micaela",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 945988815,
+            "lat": 46.3629221,
+            "lon": 11.031152,
+            "tags": {
+                "name": "Luna Crescente",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 946228720,
+            "lat": 46.3629474,
+            "lon": 11.0264172,
+            "tags": {
+                "name": "Palestra Centro Benessere Fit Point",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 946228723,
+            "lat": 46.3587414,
+            "lon": 11.0300646,
+            "tags": {
+                "beauty": "nails",
+                "name": "Pioggia di Bellezza",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 946228748,
+            "lat": 46.3572361,
+            "lon": 11.0291487,
+            "tags": {
+                "addr:city": "Cles",
+                "addr:housenumber": "106",
+                "addr:postcode": "38023",
+                "addr:street": "Viale Alcide de Gasperi",
+                "name": "Caddy's",
+                "opening_hours": "Mo-Sa 08:30-12:30,15:00-19:00",
+                "phone": "+39 0463 969046",
+                "shop": "beauty",
+                "website": "https://www.caddys.it/negozi/trento/cles-viale-de-gaspari"
+            }
+        },
+        {
+            "type": "node",
+            "id": 950814197,
+            "lat": 46.0677506,
+            "lon": 11.1216309,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "3",
+                "addr:postcode": "38122",
+                "addr:street": "Piazza del Duomo",
+                "beauty": "cosmetics",
+                "brand": "Yves Rocher",
+                "brand:wikidata": "Q28496595",
+                "contact:phone": "+39 0461 235871",
+                "contact:website": "http://www.yves-rocher.com/",
+                "name": "Yves Rocher",
+                "opening_hours": "Mo 14:00-19:00;Tu-Sa 09:00-19:00",
+                "operator": "Italia YRAM Srl a Socio Unico",
+                "ref:vatin": "IT07646640156",
+                "shop": "beauty",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 951498106,
+            "lat": 46.0903427,
+            "lon": 11.1133001,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housename": "Condominio Unterveger",
+                "addr:housenumber": "24",
+                "addr:postcode": "38122",
+                "addr:street": "Via Giambattista Unterveger",
+                "contact:phone": "+39 347 9114781",
+                "name": "FA.MA.",
+                "opening_hours": "Mo 10:00-19:00; Tu,We,Fr 09:00-19:00; Th 12:00-19:00; Sa 09:00-13:00",
+                "operator": "Saraluna Estetica",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 975288624,
+            "lat": 46.0796731,
+            "lon": 11.1169073,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:housenumber": "1",
+                "addr:postcode": "38121",
+                "addr:street": "Via Umberto Moggioli",
+                "addr:unit": "a",
+                "beauty": "nails",
+                "currency:others": "yes",
+                "email": "dimensionesoleTN@gmail.com",
+                "name": "Dimensionesole - Centro estetica e abbronzatura",
+                "opening_hours": "Mo-Fr 10:00-18:00, We 13:00-20:00",
+                "operator": "Dimensionesole",
+                "payment:cash": "yes",
+                "payment:coins": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+39 0461 825333",
+                "shop": "beauty",
+                "start_date": "1994",
+                "website": "https://dimensionesole.it",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 990461672,
+            "lat": 46.0683043,
+            "lon": 11.1236552,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "39",
+                "addr:postcode": "38122",
+                "addr:street": "Via Oriola",
+                "contact:phone": "+39 0461 261183",
+                "name": "Beauty Star",
+                "operator": "Ge.Com. SRL",
+                "ref:vatin": "IT01903660221",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1111843242,
+            "lat": 46.0679354,
+            "lon": 11.2236842,
+            "tags": {
+                "addr:city": "Pergine Valsugana",
+                "addr:country": "IT",
+                "addr:housename": "Shop Center",
+                "addr:postcode": "38057",
+                "addr:street": "Via Tamarisi",
+                "level": "1",
+                "name": "Beauty Star",
+                "opening_hours": "Mo 14:30-20:00; Tu-Su 09:00-20:00",
+                "shop": "beauty",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1112759392,
+            "lat": 46.0678536,
+            "lon": 11.2230337,
+            "tags": {
+                "addr:city": "Pergine Valsugana",
+                "addr:country": "IT",
+                "addr:housename": "Shop Center",
+                "addr:postcode": "38057",
+                "addr:street": "Via Tamarisi",
+                "level": "2",
+                "name": "Vanity abbronzatura estetica",
+                "opening_hours": "Mo 14:30-20:00; Tu-Su 09:00-20:00",
+                "shop": "beauty",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1112898188,
+            "lat": 46.0907412,
+            "lon": 11.1171447,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housename": "Top Center",
+                "addr:housenumber": "320",
+                "addr:postcode": "38121",
+                "addr:street": "Via del Brennero",
+                "contact:phone": "+39 0461 826656",
+                "layer": "0",
+                "name": "Coiffeur Service Show",
+                "opening_hours": "Mo 15:00-19:00; Tu-Sa 09:00-12:00,15:00-19:00",
+                "operator": "Coiffeur Service Show Srl Unipersonale",
+                "ref:vatin": "IT01123660225",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1131515419,
+            "lat": 46.0617001,
+            "lon": 11.1244367,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "17",
+                "addr:postcode": "38122",
+                "addr:street": "Corso III Novembre",
+                "leisure": "tanning_salon",
+                "name": "Centri Abbronzatura Impero del Sole"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1145605148,
+            "lat": 46.0530096,
+            "lon": 11.1296489,
+            "tags": {
+                "name": "Dafne",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1204226114,
+            "lat": 46.073065,
+            "lon": 11.1187788,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "16",
+                "addr:postcode": "38122",
+                "addr:street": "Via Gian Battista Lampi",
+                "contact:phone": "+39 0461 239146",
+                "name": "Esteticamica",
+                "operator": "Cadonna Isabella",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1289106717,
+            "lat": 46.4862294,
+            "lon": 11.3190363,
+            "tags": {
+                "addr:city": "Bolzano - Bozen",
+                "addr:postcode": "39100",
+                "addr:street": "Via Resia - Reschenstra\u00dfe",
+                "leisure": "fitness_centre",
+                "name": "Energym",
+                "opening_hours": "Mo,We,Fr 08:30-21:30; Tu,Th 10:00-21:30; Sa 09:30-12:30,14:00-18:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1297341406,
+            "lat": 46.4849105,
+            "lon": 11.3476816,
+            "tags": {
+                "leisure": "fitness_centre"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1308870015,
+            "lat": 46.1517354,
+            "lon": 11.0963287,
+            "tags": {
+                "addr:city": "Terre d'Adige",
+                "addr:country": "IT",
+                "addr:hamlet": "Zambana",
+                "addr:housenumber": "4/A",
+                "addr:postcode": "38097",
+                "addr:street": "Piazza Santi Filippo e Giacomo",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1312818570,
+            "lat": 46.0637987,
+            "lon": 11.1234244,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housename": "Residenza Santa Croce",
+                "addr:housenumber": "52",
+                "addr:postcode": "38122",
+                "addr:street": "Via Santa Croce",
+                "beauty": "nails",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1362787080,
+            "lat": 46.2093935,
+            "lon": 11.0946698,
+            "tags": {
+                "name": "Centro di Bioestetica",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1366801147,
+            "lat": 46.069377,
+            "lon": 11.1256588,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "14",
+                "addr:postcode": "38122",
+                "addr:street": "Vicolo San Marco",
+                "name": "Tabatha Estetica",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1369533396,
+            "lat": 46.0696277,
+            "lon": 11.1190028,
+            "tags": {
+                "name": "Impero del Sole",
+                "shop": "beauty",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1457732372,
+            "lat": 46.2398885,
+            "lon": 11.2120962,
+            "tags": {
+                "addr:city": "Salorno - Salurn",
+                "addr:city:de": "Salurn",
+                "addr:city:it": "Salorno",
+                "addr:country": "IT",
+                "addr:housenumber": "5",
+                "addr:postcode": "39040",
+                "addr:street": "Via Asilo - Kindergartenstra\u00dfe",
+                "addr:street:de": "Kindergartenstra\u00dfe",
+                "addr:street:it": "Via Asilo",
+                "name": "Il Tempio",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1462754750,
+            "lat": 46.0688867,
+            "lon": 11.1287601,
+            "tags": {
+                "addr:housenumber": "41/1",
+                "addr:street": "Piazza Venezia",
+                "leisure": "fitness_centre",
+                "name": "FitPark",
+                "opening_hours": "Mo-Fr 09:00-21:00",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1478211851,
+            "lat": 46.2121037,
+            "lon": 11.0923189,
+            "tags": {
+                "addr:city": "Mezzolombardo",
+                "addr:country": "IT",
+                "addr:housenumber": "43",
+                "addr:postcode": "38017",
+                "addr:street": "Via Alcide De Gasperi",
+                "name": "Body & Beauty",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1478211852,
+            "lat": 46.2127484,
+            "lon": 11.0915633,
+            "tags": {
+                "addr:city": "Mezzolombardo",
+                "addr:country": "IT",
+                "addr:housenumber": "25",
+                "addr:postcode": "38017",
+                "addr:street": "Via Alcide De Gasperi",
+                "contact:phone": "+39 0461 601937",
+                "name": "Oltre lo Specchio",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1478989835,
+            "lat": 46.0637147,
+            "lon": 11.1225553,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "54",
+                "addr:postcode": "38122",
+                "addr:street": "Via cardinale Cristoforo Madruzzo",
+                "name": "Bella",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1478989838,
+            "lat": 46.0637194,
+            "lon": 11.122707,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "60",
+                "addr:postcode": "38122",
+                "addr:street": "Via cardinale Cristoforo Madruzzo",
+                "beauty": "nails",
+                "name": "Alla Pedchenko Nail Studio & Permanent Makeup",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1509796018,
+            "lat": 46.070736,
+            "lon": 11.1127964,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "15",
+                "addr:postcode": "38122",
+                "addr:street": "Via Brescia",
+                "contact:phone": "+39 0461 263019",
+                "name": "Healty Center",
+                "operator": "Vivolo Damiano",
+                "ref:vatin": "IT01625860224",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1529388444,
+            "lat": 46.0568629,
+            "lon": 11.4552715,
+            "tags": {
+                "leisure": "fitness_centre",
+                "name": "Gym Tonik"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1551200248,
+            "lat": 46.21094,
+            "lon": 11.0936675,
+            "tags": {
+                "addr:city": "Mezzolombardo",
+                "addr:country": "IT",
+                "addr:housenumber": "71",
+                "addr:postcode": "38017",
+                "addr:street": "Via Alcide De Gasperi",
+                "name": "Laura Centro Estetica",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1580874345,
+            "lat": 46.086464,
+            "lon": 11.1189472,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "5",
+                "addr:postcode": "38121",
+                "addr:street": "Piazza del \"Tridente\"",
+                "level": "0",
+                "name": "Non ti scordar di te",
+                "opening_hours": "Mo,We,Fr 09:00-18:00; Tu,Th 13:00-19:00; PH closed",
+                "shop": "beauty",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1612484521,
+            "lat": 46.1385477,
+            "lon": 11.1093885,
+            "tags": {
+                "addr:city": "Lavis",
+                "addr:country": "IT",
+                "addr:housenumber": "54",
+                "addr:postcode": "38015",
+                "addr:street": "Via Nazionale",
+                "contact:phone": "+39 0461 240562",
+                "layer": "1",
+                "name": "Istituto di Estetica",
+                "ref:vatin": "IT00844440222",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1614105352,
+            "lat": 46.0940797,
+            "lon": 11.1156677,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housename": "Bren Center",
+                "addr:housenumber": "16",
+                "addr:postcode": "38121",
+                "addr:street": "Via Giovanni Battista Trener",
+                "contact:phone": "+39 0461 420569",
+                "level": "0",
+                "name": "Beauty Star",
+                "operator": "D.M.O. SPA",
+                "ref:vatin": "IT02621450283",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1616878359,
+            "lat": 46.0944237,
+            "lon": 11.1099442,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "104",
+                "addr:postcode": "38121",
+                "addr:street": "Via Giambattista Unterveger",
+                "layer": "1",
+                "leisure": "fitness_centre",
+                "name": "Star Club",
+                "opening_hours": "Tu-Fr 09:30-22:00;Sa 09:00-12:00",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1633007271,
+            "lat": 46.0707632,
+            "lon": 11.1238349,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "28",
+                "addr:postcode": "38122",
+                "addr:street": "Vicolo del V\u00f2",
+                "name": "Derma Studio Estetica Ivana",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1660839167,
+            "lat": 46.085746,
+            "lon": 11.2135503,
+            "tags": {
+                "name": "Estetica Norma",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1687770919,
+            "lat": 46.0679671,
+            "lon": 11.1188845,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "17",
+                "addr:postcode": "38122",
+                "addr:street": "Via Antonio Rosmini",
+                "name": "Hair & Beauty",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1739200595,
+            "lat": 46.063973,
+            "lon": 11.1298444,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "14/1",
+                "addr:postcode": "38122",
+                "addr:street": "Via San Bernardino",
+                "contact:email": "info@esteticaloloa.it",
+                "contact:fax": "+39 0461 220064",
+                "contact:phone": "+39 0461 220064",
+                "contact:website": "http://www.esteticaloloa.it/",
+                "name": "Loloa",
+                "opening_hours": "Mo-Fr 09:00-18:00",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1740376141,
+            "lat": 46.0707093,
+            "lon": 11.1237634,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "52",
+                "addr:postcode": "38122",
+                "addr:street": "Vicolo del V\u00f2",
+                "layer": "1",
+                "name": "Estetica Maria Antonietta",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1775942788,
+            "lat": 46.0982463,
+            "lon": 11.1112281,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "3",
+                "addr:postcode": "38121",
+                "addr:street": "Via della Canova",
+                "contact:email": "officina.estetica@yahoo.it",
+                "contact:phone": "+39 0461 950194",
+                "name": "Officina Estetica",
+                "opening_hours": "Mo,Fr 09:00-19:00;Tu,Th 09:00-17:00;We 12:00-21:00",
+                "operator": "Mariapia Pietramale",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1784628831,
+            "lat": 46.0902344,
+            "lon": 11.1175625,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housename": "Top Center",
+                "addr:housenumber": "320",
+                "addr:postcode": "38121",
+                "addr:street": "Via del Brennero",
+                "layer": "1",
+                "name": "Beauty Star",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1984527670,
+            "lat": 46.0113117,
+            "lon": 11.2978442,
+            "tags": {
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1987683739,
+            "lat": 46.2748598,
+            "lon": 11.0492588,
+            "tags": {
+                "name": "Estetica Ilaria",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2029707331,
+            "lat": 45.8854199,
+            "lon": 10.595513,
+            "tags": {
+                "name": "Estetica La Perla",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2146389739,
+            "lat": 46.0498239,
+            "lon": 11.131332,
+            "tags": {
+                "name": "Bio Studio Natura",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2170989194,
+            "lat": 45.890793,
+            "lon": 11.0359581,
+            "tags": {
+                "addr:city": "Rovereto",
+                "addr:housenumber": "92",
+                "addr:postcode": "38068",
+                "addr:street": "Corso Antonio Rosmini",
+                "currency:XBT": "yes",
+                "description": "Parrucchiere e Studio Estetico",
+                "name": "Bellezza Studio",
+                "opening_hours": "Mo-Sa 08:00-19:00",
+                "payment:bitcoin:operator": "inbitcoin.it",
+                "shop": "beauty",
+                "website": "https://www.bellezzastudio.eu/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2187474163,
+            "lat": 46.0826102,
+            "lon": 11.1209176,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "190",
+                "addr:postcode": "38121",
+                "addr:street": "Via del Brennero",
+                "contact:phone": "+39 0461 983416",
+                "level": "1",
+                "name": "Femme Chic",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2308529940,
+            "lat": 46.138546,
+            "lon": 11.1130433,
+            "tags": {
+                "addr:city": "Lavis",
+                "addr:country": "IT",
+                "addr:housenumber": "18",
+                "addr:postcode": "38015",
+                "addr:street": "Via Fabio Filzi",
+                "leisure": "fitness_centre",
+                "name": "Centro DOMS",
+                "ref:vatin": "IT02398530226"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2311431858,
+            "lat": 46.1036253,
+            "lon": 11.1085125,
+            "tags": {
+                "name": "Grotta di Sale",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2339407943,
+            "lat": 46.0624212,
+            "lon": 11.130664,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "120/A",
+                "addr:postcode": "38122",
+                "addr:street": "Via Milano",
+                "name": "Doppia Immagine",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2404915505,
+            "lat": 45.639557,
+            "lon": 11.0011592,
+            "tags": {
+                "addr:city": "Erbezzo",
+                "addr:country": "IT",
+                "addr:housenumber": "19",
+                "addr:postcode": "37020",
+                "addr:street": "Via Roma",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2540969155,
+            "lat": 46.0932396,
+            "lon": 11.1178172,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:housenumber": "21",
+                "addr:postcode": "38121",
+                "addr:street": "Via Romano Guardini",
+                "leisure": "fitness_centre",
+                "name": "Max Village Wellness Club"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2562276626,
+            "lat": 46.0597894,
+            "lon": 11.1157196,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "2",
+                "addr:postcode": "38122",
+                "addr:street": "Via Adalberto Libera",
+                "contact:email": "info@defantsclub.it",
+                "contact:fax": "+39 0461 039068",
+                "contact:phone": "+39 0461 039068",
+                "contact:website": "http://www.defantsclub.it/",
+                "leisure": "fitness_centre",
+                "name": "Palestra Defant's Club",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2673313351,
+            "lat": 46.0713852,
+            "lon": 11.1248555,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "38",
+                "addr:postcode": "38122",
+                "addr:street": "Via del Suffragio",
+                "name": "Becos",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2749588777,
+            "lat": 46.4846451,
+            "lon": 11.3318711,
+            "tags": {
+                "addr:city": "Bolzano - Bozen",
+                "addr:city:de": "Bozen",
+                "addr:city:it": "Bolzano",
+                "addr:housenumber": "4A",
+                "addr:postcode": "39100",
+                "addr:street": "Via Antonio Pacinotti - Antonio-Pacinotti-Stra\u00dfe",
+                "addr:street:de": "Antonio-Pacinotti-Stra\u00dfe",
+                "addr:street:it": "Via Antonio Pacinotti",
+                "leisure": "fitness_centre",
+                "name": "Centro Fitness 2Fit",
+                "opening_hours": "Mo-Fr 06:00-23:00; Sa 07:00-20:00; Su 09:00-20:00",
+                "phone": "+39 0471 508750",
+                "website": "http://www.2fitsrl.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3101791456,
+            "lat": 46.1070337,
+            "lon": 11.1130538,
+            "tags": {
+                "beauty": "nails",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3103384029,
+            "lat": 45.9081458,
+            "lon": 10.8677307,
+            "tags": {
+                "name": "GARDASUN Solarium ed Estetica",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3153832766,
+            "lat": 46.0619836,
+            "lon": 11.1271906,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:housenumber": "11",
+                "addr:postcode": "38122",
+                "addr:street": "Via Malta",
+                "contact:email": "nuovaestetica.genus.tn@gmail.com",
+                "contact:facebook": "https://www.facebook.com/pg/nuovaesteticagenus/",
+                "contact:mobile": "+39 349 7587993",
+                "contact:phone": "+39 0461 1915549",
+                "name": "Genus",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3253606465,
+            "lat": 45.8900539,
+            "lon": 11.0407834,
+            "tags": {
+                "addr:city": "Rovereto",
+                "addr:country": "IT",
+                "addr:housenumber": "57",
+                "addr:postcode": "38068",
+                "addr:province": "TN",
+                "addr:state": "Trentino Alto Adige",
+                "addr:street": "Via Giuseppe Garibaldi",
+                "name": "BV",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3253606466,
+            "lat": 45.8903039,
+            "lon": 11.0416034,
+            "tags": {
+                "addr:city": "Rovereto",
+                "addr:country": "IT",
+                "addr:housenumber": "13",
+                "addr:postcode": "38068",
+                "addr:province": "TN",
+                "addr:state": "Trentino Alto Adige",
+                "addr:street": "Via Giuseppe Garibaldi",
+                "name": "Beauty Star",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3264933601,
+            "lat": 45.8895125,
+            "lon": 11.040613,
+            "tags": {
+                "addr:city": "Rovereto",
+                "addr:country": "IT",
+                "addr:housenumber": "10A",
+                "addr:postcode": "38068",
+                "addr:province": "TN",
+                "addr:state": "Trentino Alto Adige",
+                "addr:street": "Via Dante Alighieri",
+                "name": "Prima o Poi",
+                "opening_hours": "Tu-Fr 09:00-12:00; Mo 15:15-18:30; Sa 09:00-12:00,15:30-18:30",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3288303865,
+            "lat": 45.8876495,
+            "lon": 11.0413183,
+            "tags": {
+                "addr:city": "Rovereto",
+                "addr:country": "IT",
+                "addr:housenumber": "8",
+                "addr:postcode": "38068",
+                "addr:province": "TN",
+                "addr:state": "Trentino Alto Adige",
+                "addr:street": "Via Luigi Negrelli",
+                "leisure": "tanning_salon",
+                "name": "Sun STudio"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3802698833,
+            "lat": 45.7139882,
+            "lon": 11.3576065,
+            "tags": {
+                "addr:city": "Schio",
+                "addr:housenumber": "22",
+                "addr:postcode": "36015",
+                "addr:street": "Via Giuseppe Garibaldi",
+                "beauty": "cosmetics",
+                "name": "Kiko Make Up",
+                "opening_hours": "Mo-Sa 09:00-19:30; Su 15:00-19:00",
+                "phone": "+39 0445 523030",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3867879077,
+            "lat": 45.9030734,
+            "lon": 11.0426996,
+            "tags": {
+                "access": "customers",
+                "email": "info@area39.it",
+                "leisure": "sauna",
+                "name": "Area 39",
+                "opening_hours": "Th-Fr 15:00-20:30; Sa 12:00-18:00",
+                "operator": "IM.SA. s.r.l.",
+                "phone": "+39 0464 490 627",
+                "website": "http://www.area39.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4065814136,
+            "lat": 45.8859976,
+            "lon": 11.0283573,
+            "tags": {
+                "addr:street": "Viale della Vittoria",
+                "name": "Infinity",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4088906430,
+            "lat": 45.8884778,
+            "lon": 11.0349834,
+            "tags": {
+                "name": "Oasis",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4175487176,
+            "lat": 45.9275594,
+            "lon": 10.8902673,
+            "tags": {
+                "leisure": "fitness_station",
+                "name": "Situp",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4185984949,
+            "lat": 46.0508296,
+            "lon": 11.4107399,
+            "tags": {
+                "addr:city": "Roncegno Terme",
+                "addr:country": "IT",
+                "addr:housenumber": "22",
+                "addr:postcode": "38050",
+                "addr:province": "TN",
+                "addr:street": "Via Enrico Capraro",
+                "name": "Centro estetico Charme",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4214487436,
+            "lat": 46.0556709,
+            "lon": 11.472202,
+            "tags": {
+                "level": "-1",
+                "name": "Sole & hamman",
+                "shop": "beauty",
+                "website": "www.soleehammam.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4232530589,
+            "lat": 46.2081867,
+            "lon": 11.0954772,
+            "tags": {
+                "leisure": "fitness_centre",
+                "name": "Rotaliana Fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4316154167,
+            "lat": 46.0684018,
+            "lon": 11.1198324,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "23",
+                "addr:postcode": "38122",
+                "addr:street": "Piazza Santa Maria Maggiore",
+                "level": "1",
+                "name": "Estetica Diva",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4456452994,
+            "lat": 46.0692353,
+            "lon": 11.2389819,
+            "tags": {
+                "addr:city": "Pergine Valsugana",
+                "addr:housenumber": "102",
+                "addr:street": "Via Regensburger",
+                "name": "Estetica l'essenza del benessere",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4557760193,
+            "lat": 46.2143529,
+            "lon": 11.0899687,
+            "tags": {
+                "name": "Centro Benessere",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4558584143,
+            "lat": 46.0636158,
+            "lon": 11.5240415,
+            "tags": {
+                "addr:city": "Castel Ivano",
+                "addr:country": "IT",
+                "addr:district": "Strigno",
+                "addr:housenumber": "29",
+                "addr:postcode": "38059",
+                "addr:province": "TN",
+                "addr:street": "Via Roma",
+                "name": "Estetica Sorriso",
+                "phone": "+39 0461 763552",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4594319771,
+            "lat": 45.7621076,
+            "lon": 11.4338556,
+            "tags": {
+                "addr:city": "Piovene Rocchette",
+                "addr:postcode": "36013",
+                "addr:street": "Viale Giacomo Matteotti",
+                "description": "Palestra centro fitness",
+                "leisure": "fitness_centre",
+                "name": "New Body Fitness",
+                "phone": "+39 0445 550306",
+                "sport": "fitness",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4598765048,
+            "lat": 46.0666245,
+            "lon": 11.521983,
+            "tags": {
+                "addr:city": "Castel Ivano",
+                "addr:country": "IT",
+                "addr:district": "Strigno",
+                "addr:housenumber": "5",
+                "addr:postcode": "38059",
+                "addr:province": "TN",
+                "addr:street": "Via Marconi",
+                "name": "Bell'essere",
+                "operator": "Bodo Francesca",
+                "phone": "+39 349 338 8234",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4604868704,
+            "lat": 46.067432,
+            "lon": 11.5223053,
+            "tags": {
+                "addr:city": "Castel Ivano",
+                "addr:district": "Strigno",
+                "addr:housenumber": "25",
+                "addr:postcode": "38059",
+                "addr:street": "Via Ventiquattro Maggio",
+                "name": "Bijou",
+                "operator": "Marchi Silvana",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4637900091,
+            "lat": 45.7034716,
+            "lon": 11.4639729,
+            "tags": {
+                "leisure": "fitness_centre",
+                "name": "Sala Boulder Area 57 JM",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4663505575,
+            "lat": 46.0530156,
+            "lon": 11.4526871,
+            "tags": {
+                "addr:city": "Borgo Valsugana",
+                "addr:country": "IT",
+                "addr:housenumber": "6/a",
+                "addr:postcode": "38051",
+                "addr:province": "TN",
+                "addr:street": "Via Roma",
+                "email": "info@beautyplanet.tn.it",
+                "name": "Beauty Planet",
+                "phone": "+39 0461 753590",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4830529778,
+            "lat": 46.3472183,
+            "lon": 10.9265737,
+            "tags": {
+                "leisure": "fitness_station",
+                "sport": "climbing"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4875536174,
+            "lat": 45.9006595,
+            "lon": 11.0412795,
+            "tags": {
+                "leisure": "fitness_centre",
+                "name": "Palestra \"Liberty Dance\""
+            }
+        },
+        {
+            "type": "node",
+            "id": 4952166590,
+            "lat": 46.0630241,
+            "lon": 11.1235674,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "92",
+                "addr:postcode": "38122",
+                "addr:street": "Via Santa Croce",
+                "name": "Estetica La Goccia",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5071900759,
+            "lat": 46.0895602,
+            "lon": 11.1196694,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housename": "Mesa Verde",
+                "addr:housenumber": "43",
+                "addr:postcode": "38121",
+                "addr:street": "Via Antonio Pranzelores",
+                "name": "Centro Tuina",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5117211223,
+            "lat": 45.927613,
+            "lon": 10.8909519,
+            "tags": {
+                "leisure": "fitness_station",
+                "name": "Situp",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5118075569,
+            "lat": 46.1891238,
+            "lon": 11.128542,
+            "tags": {
+                "name": "Centro Tuina",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5172747782,
+            "lat": 45.9349765,
+            "lon": 11.0943668,
+            "tags": {
+                "addr:city": "Calliano",
+                "addr:housenumber": "24",
+                "addr:postcode": "38060",
+                "addr:street": "Via Arminio Valentini",
+                "beauty": "nails",
+                "name": "EDERA",
+                "phone": "+39 0464 017503",
+                "shop": "beauty",
+                "website": "https://it-it.facebook.com/edera.istitutodiestetica/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5305250369,
+            "lat": 46.0515255,
+            "lon": 11.4571022,
+            "tags": {
+                "name": "Centro Tuina",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5347641402,
+            "lat": 46.4442484,
+            "lon": 11.3393229,
+            "tags": {
+                "addr:city": "Laives - Leifers",
+                "addr:housenumber": "24",
+                "addr:postcode": "39055",
+                "email": "asdlbodyplanet@gmail.com",
+                "emergency": "defibrillator",
+                "leisure": "fitness_centre",
+                "name": "Body Planet A.S.D.",
+                "phone": "+39 0471 955679",
+                "website": "https://www.bodyplanetasd.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5373733578,
+            "lat": 45.87828,
+            "lon": 10.7656153,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Molina di Ledro",
+                "addr:housenumber": "127",
+                "addr:postcode": "38067",
+                "addr:street": "Via Maffei",
+                "check_date": "2023-05-01",
+                "fee": "yes",
+                "leisure": "sauna",
+                "name": "Chiva Som",
+                "opening_hours": "Tu-We off or Mo-Su 14:00-22:00",
+                "operator": "Cristina Mieli",
+                "payment:cash": "yes",
+                "phone": "+39 0464 508 782",
+                "website": "https://www.campingalsole.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5375594310,
+            "lat": 46.0361671,
+            "lon": 10.8728949,
+            "tags": {
+                "beauty": "nails",
+                "name": "Estetica Gio",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5435661967,
+            "lat": 45.8990441,
+            "lon": 11.0371149,
+            "tags": {
+                "addr:city": "Rovereto",
+                "addr:postcode": "38068",
+                "addr:street": "Via Pasqui",
+                "beauty": "nails;hairdresser",
+                "name": "Salone Marianna",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5471741735,
+            "lat": 45.936835,
+            "lon": 11.2745977,
+            "tags": {
+                "access": "yes",
+                "leisure": "sauna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5565135850,
+            "lat": 45.7188959,
+            "lon": 11.4020159,
+            "tags": {
+                "addr:city": "Schio",
+                "addr:housenumber": "5",
+                "addr:postcode": "36015",
+                "addr:street": "Via Lago di Lugano",
+                "contact:facebook": "https://www.facebook.com/webeatvi/",
+                "contact:instagram": "https://www.instagram.com/we_beat/",
+                "email": "schio@we-beat.com",
+                "leisure": "fitness_centre",
+                "name": "We_Beat Schio",
+                "opening_hours": "Mo-Fr 06:00-23:00; Sa 08:00-18:00; Su 08:00-14:00; Jan 1 off; Jan 6 09:00-17:00; Dec 24 08:00-16:00; Dec 25 off; Dec 26 09:00-17:00; Dec 31 08:00-16:00",
+                "phone": "+39 0445 576615",
+                "ref:vatin": "IT03821680240",
+                "sport": "fitness;gymnastics;exercise;spinning",
+                "website": "https://www.we-beat.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5595169721,
+            "lat": 46.0678588,
+            "lon": 11.1267558,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "5",
+                "addr:postcode": "38122",
+                "addr:street": "Via Venezia",
+                "name": "Easy",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5613579424,
+            "lat": 46.4250847,
+            "lon": 11.3349402,
+            "tags": {
+                "name": "Infinity",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5779082147,
+            "lat": 46.4394861,
+            "lon": 11.1363164,
+            "tags": {
+                "name": "Salone Marisa e Carmen",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5827437438,
+            "lat": 46.4185671,
+            "lon": 11.3383493,
+            "tags": {
+                "leisure": "fitness_station"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5864127323,
+            "lat": 45.8675105,
+            "lon": 11.0122452,
+            "tags": {
+                "addr:city": "Rovereto",
+                "addr:housenumber": "44bis",
+                "addr:postcode": "38068",
+                "addr:street": "Via del Garda",
+                "email": "info@madtortugacrossfit.com",
+                "facebook": "https://www.facebook.com/madtortugacrossfit",
+                "leisure": "fitness_centre",
+                "name": "Mad Tortuga Crossfit Rovereto",
+                "phone": "+39 377 479 9703",
+                "website": "https://www.madtortugacrossfit.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5864127324,
+            "lat": 45.8842898,
+            "lon": 11.0334033,
+            "tags": {
+                "leisure": "fitness_centre",
+                "name": "Perfect Gym"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5867499685,
+            "lat": 46.3997924,
+            "lon": 10.844185,
+            "tags": {
+                "leisure": "fitness_centre",
+                "name": "Percorso Kneipp Rabbi",
+                "name:en": "Kneipp Path Val di Rabbi",
+                "website": "https://www.valdirabbi.com/it/percorso-kneipp"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5998800152,
+            "lat": 46.076364,
+            "lon": 11.1193094,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "6/1",
+                "addr:postcode": "38122",
+                "addr:street": "Corso Michelangelo Buonarroti",
+                "brand": "Mrs. Sporty",
+                "brand:wikidata": "Q100718953",
+                "contact:phone": "+39 0461 1910330",
+                "contact:website": "https://www.mrssporty.it/club/trento-buonarroti/",
+                "leisure": "fitness_centre",
+                "name": "Mrs. Sporty",
+                "opening_hours": "Mo-Fr 07:00-21:00; Sa 07:00-18:00",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6016447930,
+            "lat": 46.4692769,
+            "lon": 11.3291118,
+            "tags": {
+                "addr:city": "Bolzano - Bozen",
+                "addr:housenumber": "40/C",
+                "addr:postcode": "39100",
+                "addr:street": "Via Luigi Galvani - Luigi-Galvani-Stra\u00dfe",
+                "leisure": "fitness_centre",
+                "name": "Body\u00b4s Best Form",
+                "opening_hours": "Mo-Su 07:00-21:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6128876011,
+            "lat": 46.1688864,
+            "lon": 11.0046298,
+            "tags": {
+                "access": "customers",
+                "fee": "yes",
+                "leisure": "sauna",
+                "name": "ACQUAin",
+                "nudism": "obligatory",
+                "opening_hours": "Mo-Fr 14:00-22:00; Sa-Su 10:00-22:00",
+                "website": "https://www.andalo.life/it/acquain-una-spa-in-perfetto-stile-nordico"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6139494125,
+            "lat": 46.0731971,
+            "lon": 11.126733,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "25",
+                "addr:postcode": "38122",
+                "addr:street": "Via Torre D'Augusto",
+                "bath:type": "thermal",
+                "leisure": "fitness_centre",
+                "name": "Salus",
+                "opening_hours": "Mo-Su 09:00-22:00",
+                "phone": "+39 345 529 3378",
+                "website": "http://www.salustrento.it/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6140729486,
+            "lat": 46.3517443,
+            "lon": 11.0896056,
+            "tags": {
+                "access": "customers",
+                "addr:housenumber": "4",
+                "addr:postcode": "38012",
+                "addr:street": "Via Guido Moncher",
+                "fee": "yes",
+                "leisure": "sauna",
+                "name": "Blue Island Spa",
+                "opening_hours": "Tu-Sa 16:30-22:00, Su,PH 15:00-22:00",
+                "operator": "Hotel Miraval"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6240212652,
+            "lat": 46.0149179,
+            "lon": 11.1325814,
+            "tags": {
+                "leisure": "fitness_centre",
+                "name": "Centro benessere Greta"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6249105653,
+            "lat": 45.6833501,
+            "lon": 11.3748488,
+            "tags": {
+                "addr:street": "Vicolo della Filanda",
+                "check_date:opening_hours": "2021-05-02",
+                "name": "Elite - estetica",
+                "opening_hours": "Tu-Sa 09:00-19:30",
+                "phone": "+390445511536",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6266396860,
+            "lat": 45.6859771,
+            "lon": 11.3745404,
+            "tags": {
+                "addr:housenumber": "21",
+                "addr:street": "Via Schio",
+                "name": "Anna",
+                "opening_hours": "Mo-Sa 07:00-12:30, Mo,Tu,Th-Sa 15:30-19:30, Su 07:30-12:30",
+                "phone": "+390445673968",
+                "shop": "beauty",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6341429108,
+            "lat": 46.3160256,
+            "lon": 10.7991689,
+            "tags": {
+                "name": "Daiana",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6342878355,
+            "lat": 46.0949783,
+            "lon": 11.1101302,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:housenumber": "42",
+                "addr:postcode": "38121",
+                "addr:street": "Via Bassa",
+                "leisure": "fitness_centre",
+                "name": "FitUp",
+                "opening_hours": "Mo-Su 00:00-23:59",
+                "website": "https://fitup.it/trento/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6434106048,
+            "lat": 46.4131472,
+            "lon": 11.4346169,
+            "tags": {
+                "addr:city": "Deutschnofen - Nova Ponente",
+                "addr:housenumber": "1",
+                "addr:postcode": "39050",
+                "addr:street": "Forastra\u00dfe - Via Fora",
+                "addr:unit": "2",
+                "leisure": "fitness_centre",
+                "name": "Fit For Me - Sportstudio"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6512818471,
+            "lat": 46.0722883,
+            "lon": 11.4778956,
+            "tags": {
+                "addr:city": "Telve",
+                "addr:housenumber": "2",
+                "addr:postcode": "38050",
+                "addr:street": "Piazzetta San Giovanni",
+                "beauty": "nails",
+                "contact:facebook": "https://www.facebook.com/people/Qnails_telve/100076347811324",
+                "entrance": "yes",
+                "mobile": "+39 379 138 1622",
+                "name": "Qnails",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6537371292,
+            "lat": 46.1340051,
+            "lon": 11.2570856,
+            "tags": {
+                "leisure": "fitness_centre",
+                "name": "Lake Fit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6791933531,
+            "lat": 45.8935312,
+            "lon": 11.0271699,
+            "tags": {
+                "addr:housenumber": "68/b",
+                "addr:street": "Via Unione",
+                "leisure": "fitness_station",
+                "name": "Centro Ween Rovereto"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6837121065,
+            "lat": 46.3051973,
+            "lon": 11.4472157,
+            "tags": {
+                "fitness_station": "rings",
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6837121072,
+            "lat": 46.3064525,
+            "lon": 11.4480805,
+            "tags": {
+                "fitness_station": "balance_beam",
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6837121075,
+            "lat": 46.3062944,
+            "lon": 11.4464317,
+            "tags": {
+                "fitness_station": "horizontal_bar",
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6847940403,
+            "lat": 45.88661,
+            "lon": 11.0349246,
+            "tags": {
+                "beauty": "skin_care",
+                "name": "L'esthetique",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6867227781,
+            "lat": 45.8871718,
+            "lon": 11.0309441,
+            "tags": {
+                "leisure": "fitness_centre",
+                "name": "Dance Village"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6886317058,
+            "lat": 46.0967834,
+            "lon": 11.1171456,
+            "tags": {
+                "leisure": "fitness_station",
+                "lit": "yes",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6898198296,
+            "lat": 46.4236047,
+            "lon": 11.3344067,
+            "tags": {
+                "access": "yes",
+                "addr:housenumber": "233",
+                "addr:street": "Via Kennedy - Kennedystra\u00dfe",
+                "charge": "24 EUR",
+                "email": "info@hotelidealpark.it",
+                "fee": "yes",
+                "leisure": "sauna",
+                "name": "City Event Sauna",
+                "opening_hours": "Mo-Th 14:00-22:30; Fr 14:00-24:00; Sa-Su 10:00-22:30",
+                "operator": "Hotel Ideal Park",
+                "payment:cash": "yes",
+                "phone": "+39 0471 590 600"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6946050300,
+            "lat": 46.0674196,
+            "lon": 11.1498019,
+            "tags": {
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7040359592,
+            "lat": 45.8875742,
+            "lon": 11.0245977,
+            "tags": {
+                "beauty": "skin_care",
+                "name": "Sinergie",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7052735677,
+            "lat": 45.6502566,
+            "lon": 11.3050138,
+            "tags": {
+                "fitness_station": "yes",
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7129247662,
+            "lat": 46.3970938,
+            "lon": 11.2381882,
+            "tags": {
+                "blind": "yes",
+                "fitness_station": "yes",
+                "leisure": "fitness_station",
+                "sport": "fitness",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7129257648,
+            "lat": 46.3967764,
+            "lon": 11.2363172,
+            "tags": {
+                "leisure": "fitness_station",
+                "ref": "1"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7129273792,
+            "lat": 46.3967916,
+            "lon": 11.2373147,
+            "tags": {
+                "leisure": "fitness_station"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7129361885,
+            "lat": 46.3973804,
+            "lon": 11.2379166,
+            "tags": {
+                "leisure": "fitness_station",
+                "ref": "4",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7158740871,
+            "lat": 46.3964606,
+            "lon": 11.2412321,
+            "tags": {
+                "leisure": "fitness_station"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7158766426,
+            "lat": 46.3971416,
+            "lon": 11.2414501,
+            "tags": {
+                "leisure": "fitness_station"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7158776334,
+            "lat": 46.3958267,
+            "lon": 11.2403915,
+            "tags": {
+                "leisure": "fitness_station"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7158780421,
+            "lat": 46.3962514,
+            "lon": 11.240945,
+            "tags": {
+                "leisure": "fitness_station"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7158793164,
+            "lat": 46.3966681,
+            "lon": 11.2414832,
+            "tags": {
+                "leisure": "fitness_station"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7158798107,
+            "lat": 46.3960387,
+            "lon": 11.2405471,
+            "tags": {
+                "leisure": "fitness_station"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7289135535,
+            "lat": 46.3976947,
+            "lon": 11.2378325,
+            "tags": {
+                "leisure": "fitness_station",
+                "ref": "5"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7289150011,
+            "lat": 46.397991,
+            "lon": 11.2377869,
+            "tags": {
+                "leisure": "fitness_station",
+                "ref": "6"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7289152868,
+            "lat": 46.3979463,
+            "lon": 11.2398946,
+            "tags": {
+                "leisure": "fitness_station",
+                "ref": "8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7289181362,
+            "lat": 46.3974734,
+            "lon": 11.2378594,
+            "tags": {
+                "leisure": "fitness_station",
+                "ref": "4"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7289194114,
+            "lat": 46.3979091,
+            "lon": 11.2389883,
+            "tags": {
+                "leisure": "fitness_station",
+                "ref": "7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7306711860,
+            "lat": 46.3979612,
+            "lon": 11.2407436,
+            "tags": {
+                "leisure": "fitness_station",
+                "ref": "9"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7306721710,
+            "lat": 46.3958268,
+            "lon": 11.2399772,
+            "tags": {
+                "leisure": "fitness_station",
+                "ref": "15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7325020298,
+            "lat": 46.3971503,
+            "lon": 11.2375369,
+            "tags": {
+                "leisure": "fitness_station",
+                "ref": "3"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7464452465,
+            "lat": 46.0491258,
+            "lon": 11.1457563,
+            "tags": {
+                "addr:city": "Villazzano",
+                "addr:street": "Piazza Monsignor Giuseppe Placido Nicolini",
+                "air_conditioning": "yes",
+                "beauty": "nails;skin_care;waxing;hair_removal;foot",
+                "name": "Estetica Artemis",
+                "opening_hours": "9:00-16:00",
+                "shop": "beauty",
+                "website": "http://www.esteticaartemis.it",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7562784628,
+            "lat": 45.6224608,
+            "lon": 11.0303056,
+            "tags": {
+                "name": "Roberta",
+                "opening_hours": "Mo-Fr 09:00-12:30,15:00-19:00; Tu off; Sa 09:00-17:00",
+                "shop": "beauty",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7656952876,
+            "lat": 46.0068744,
+            "lon": 11.1279892,
+            "tags": {
+                "addr:city": "Mattarello",
+                "addr:housenumber": "9",
+                "addr:postcode": "38123",
+                "addr:street": "Piazza Quintilio Perini",
+                "beauty": "nails",
+                "name": "Estetica Desiderio",
+                "phone": "+39 0461 945822",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7714018489,
+            "lat": 46.3979109,
+            "lon": 11.2407646,
+            "tags": {
+                "fitness_station": "push-up",
+                "leisure": "fitness_station",
+                "ref": "9"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7839553036,
+            "lat": 46.3524291,
+            "lon": 11.0449788,
+            "tags": {
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7856502160,
+            "lat": 46.3644106,
+            "lon": 11.0371435,
+            "tags": {
+                "beauty": "nails",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7920675179,
+            "lat": 46.0390037,
+            "lon": 11.1285725,
+            "tags": {
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7950243546,
+            "lat": 46.0387063,
+            "lon": 11.1290564,
+            "tags": {
+                "fitness_station": "wall_bars",
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7950243547,
+            "lat": 46.0383035,
+            "lon": 11.1289909,
+            "tags": {
+                "fitness_station": "horizontal_bar",
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8074976524,
+            "lat": 46.088596,
+            "lon": 11.1820556,
+            "tags": {
+                "beauty": "nails",
+                "name": "L'Angolo del Benessere",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8407650143,
+            "lat": 46.0531787,
+            "lon": 11.4101984,
+            "tags": {
+                "beauty": "nails",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8633118902,
+            "lat": 46.4167522,
+            "lon": 11.3328776,
+            "tags": {
+                "leisure": "fitness_station"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8633118909,
+            "lat": 46.4171843,
+            "lon": 11.3338866,
+            "tags": {
+                "leisure": "fitness_station"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8851371749,
+            "lat": 45.8962468,
+            "lon": 10.7195975,
+            "tags": {
+                "addr:city": "Bezzecca",
+                "addr:housenumber": "10",
+                "addr:street": "Piazza Obbedisco",
+                "beauty": "nails",
+                "name": "Tiffany",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8946783728,
+            "lat": 46.0072677,
+            "lon": 11.130934,
+            "tags": {
+                "fitness_station": "yes",
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9127137005,
+            "lat": 45.6959683,
+            "lon": 10.7593308,
+            "tags": {
+                "fitness_station": "horizontal_bar",
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9312129983,
+            "lat": 45.8855668,
+            "lon": 11.0176041,
+            "tags": {
+                "addr:housenumber": "22",
+                "addr:street": "Via Libert\u00e0",
+                "beauty": "skin_care",
+                "name": "Lotus",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9379379442,
+            "lat": 45.6958736,
+            "lon": 10.7616194,
+            "tags": {
+                "fitness_station": "balance_beam",
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9379379447,
+            "lat": 45.695177,
+            "lon": 10.76079,
+            "tags": {
+                "fitness_station": "horizontal_bar",
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9379379448,
+            "lat": 45.6999064,
+            "lon": 10.7643292,
+            "tags": {
+                "fitness_station": "sign",
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9438362507,
+            "lat": 46.0530227,
+            "lon": 11.1116557,
+            "tags": {
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466247803,
+            "lat": 45.9596863,
+            "lon": 10.9131049,
+            "tags": {
+                "addr:city": "Dro",
+                "addr:housenumber": "5/A",
+                "addr:postcode": "38074",
+                "addr:street": "SS45bis",
+                "leisure": "fitness_centre",
+                "name": "Drofitness Club"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466407532,
+            "lat": 45.9611378,
+            "lon": 10.9140728,
+            "tags": {
+                "addr:city": "Dro",
+                "addr:housenumber": "18",
+                "addr:postcode": "38074",
+                "addr:street": "Via Giuseppe Mazzini",
+                "beauty": "nails",
+                "name": "Estetica La Perla",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9489868294,
+            "lat": 45.8790625,
+            "lon": 10.8731781,
+            "tags": {
+                "addr:city": "Arco",
+                "addr:housenumber": "52",
+                "addr:postcode": "38062",
+                "addr:street": "Via Linfano",
+                "leisure": "sauna",
+                "name": "Garda Thermae - Wellness, Beauty, Medical Spa",
+                "phone": "+39 0464 548012",
+                "website": "https://www.gardathermae.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9547389726,
+            "lat": 45.7010968,
+            "lon": 10.7635756,
+            "tags": {
+                "fitness_station": "sign",
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9672240719,
+            "lat": 46.0564092,
+            "lon": 11.1373606,
+            "tags": {
+                "fitness_station": "horizontal_ladder",
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9689278807,
+            "lat": 46.0614145,
+            "lon": 11.1144869,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "24",
+                "addr:postcode": "38122",
+                "addr:street": "Viale della Costituzione",
+                "contact:website": "http://www.skinmedic.it/",
+                "name": "SkinMedic",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9690559971,
+            "lat": 46.0554073,
+            "lon": 11.1261707,
+            "tags": {
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9691333510,
+            "lat": 46.1402406,
+            "lon": 11.1060136,
+            "tags": {
+                "fitness_station": "multi",
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9776888160,
+            "lat": 46.1001207,
+            "lon": 11.1025301,
+            "tags": {
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9824932883,
+            "lat": 45.9109083,
+            "lon": 10.8719363,
+            "tags": {
+                "addr:city": "Arco",
+                "addr:housenumber": "74/D",
+                "addr:postcode": "38062",
+                "addr:street": "Via Santa Caterina",
+                "brand": "TechFitness",
+                "email": "arcoditrento@techfitness.it",
+                "leisure": "fitness_centre",
+                "name": "TechFitness",
+                "phone": "+39 349 439 8031",
+                "website": "https://www.techfitness.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9830768193,
+            "lat": 45.9126585,
+            "lon": 10.8765297,
+            "tags": {
+                "addr:city": "Arco",
+                "addr:housenumber": "10",
+                "addr:postcode": "38062",
+                "addr:street": "Via Narzelle",
+                "email": "info@crossfitarco.it",
+                "leisure": "fitness_centre",
+                "name": "Box Crossfit Arco",
+                "phone": "+39 380 6882316",
+                "website": "https://www.crossfitarco.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9847941763,
+            "lat": 46.3785954,
+            "lon": 11.1061871,
+            "tags": {
+                "beauty": "nails",
+                "name": "Loto Centro Estetico",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9888482304,
+            "lat": 45.9001412,
+            "lon": 10.8554853,
+            "tags": {
+                "addr:city": "Riva del Gardahttps://simonrogers.carto.com/tables/meteoritessize/embed_map?",
+                "addr:housenumber": "83/B",
+                "addr:postcode": "38066",
+                "addr:street": "Via San Nazzaro",
+                "beauty": "nails",
+                "name": "Estetica Perle de Beaute' di Setti Valentina",
+                "phone": "+39 0464 553976",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9918579763,
+            "lat": 45.9019687,
+            "lon": 10.8590179,
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "11",
+                "addr:postcode": "38066",
+                "addr:street": "Via San Tomaso",
+                "beauty": "nails",
+                "email": "vilmaparisi@libero.it",
+                "name": "Obiettivo Benessere",
+                "phone": "+39  328 3723281",
+                "shop": "beauty",
+                "website": "https://www.obiettivobenesseretn.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9926872392,
+            "lat": 45.8926326,
+            "lon": 10.8506298,
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "17/A",
+                "addr:postcode": "38066",
+                "addr:street": "Via Zara",
+                "beauty": "nails",
+                "name": "Sun Center Centro Estetica",
+                "phone": "+39 0464 552569",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9928859181,
+            "lat": 45.8962456,
+            "lon": 10.851874,
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "2/D",
+                "addr:postcode": "38066",
+                "addr:street": "Via San Nazzaro",
+                "leisure": "fitness_centre",
+                "name": "Performance Fitness Center",
+                "phone": "+39 0464 551392",
+                "website": "http://www.performance-fitness-center.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9928859182,
+            "lat": 45.8965621,
+            "lon": 10.8525342,
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "7",
+                "addr:postcode": "38066",
+                "addr:street": "Via Edoardo Modl",
+                "leisure": "fitness_centre",
+                "name": "Non Solo Fitness",
+                "phone": "+39 0464 557739",
+                "website": "https://www.non-solofitness.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933332002,
+            "lat": 45.8974927,
+            "lon": 10.8485153,
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "11",
+                "addr:postcode": "38066",
+                "addr:street": "Galleria Mimosa",
+                "beauty": "nails",
+                "name": "Estetica Silvia",
+                "shop": "beauty",
+                "website": "https://esteticasilvia-beautysalon.business.site/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9945343684,
+            "lat": 45.8818415,
+            "lon": 10.8484141,
+            "tags": {
+                "leisure": "fitness_station",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9963209197,
+            "lat": 46.3002587,
+            "lon": 10.8672487,
+            "tags": {
+                "beauty": "nails",
+                "name": "Wellness Center Le Ninfe",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9991627564,
+            "lat": 45.9085492,
+            "lon": 10.8402048,
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "12",
+                "addr:postcode": "38066",
+                "addr:street": "Via Cartiere",
+                "beauty": "nails",
+                "name": "Estetica 3/4",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9991627565,
+            "lat": 45.9073003,
+            "lon": 10.8415746,
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "6",
+                "addr:postcode": "38066",
+                "addr:street": "Via della Sega",
+                "beauty": "nails",
+                "name": "Esthetique Gianna",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9993341017,
+            "lat": 45.9030304,
+            "lon": 11.0427039,
+            "tags": {
+                "leisure": "fitness_station"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9998996361,
+            "lat": 45.8971413,
+            "lon": 10.838587,
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "4",
+                "addr:postcode": "38066",
+                "addr:street": "Via Marone",
+                "email": "teamatlantide@outlook.it",
+                "image": "https://scontent.fbzo1-2.fna.fbcdn.net/v/t31.18172-8/13937922_1048101181892945_5612077272926786494_o.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ntiebRX7sO8AX9XeDUs&_nc_ht=scontent.fbzo1-2.fna&oh=00_AT_tk1i6Jos-ozfxyXGxELBq8NiXt0n9LHisqviWXQFuzw&oe=633",
+                "leisure": "fitness_centre",
+                "name": "Palestra A.S.D. Team Atlantide",
+                "phone": "+39 349 4280717",
+                "sport": "fitness;pilates;nordic_walking;powerlifting;kettlebell;bodybuilding;weightlifting;indoor_cycling",
+                "website": "www.teamatlantide.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10003514210,
+            "lat": 45.8969269,
+            "lon": 10.8412309,
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "89",
+                "addr:postcode": "38066",
+                "addr:street": "Via Monte Misone",
+                "email": "info@fitfun.it",
+                "leisure": "fitness_centre",
+                "name": "Palestra Fit & Fun",
+                "phone": "+39 349 1848203",
+                "website": "http://www.fitfun.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10031584318,
+            "lat": 46.2151366,
+            "lon": 11.116017,
+            "tags": {
+                "contact:email": "info@biocentro.life",
+                "contact:phone": "+39 0461 600204",
+                "contact:website": "https://www.biocentro.life/",
+                "name": "Biocentro da Martina",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10043028882,
+            "lat": 46.2203135,
+            "lon": 11.2938555,
+            "tags": {
+                "contact:website": "https://www.cembrafitnessclub.com",
+                "leisure": "fitness_centre",
+                "name": "Grumes Fitness Club",
+                "opening_hours": "PH,Mo-Su 07:00-21:00",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10095255162,
+            "lat": 46.1285277,
+            "lon": 11.1197144,
+            "tags": {
+                "leisure": "fitness_station"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10154129189,
+            "lat": 46.110911,
+            "lon": 11.1093878,
+            "tags": {
+                "addr:housenumber": "57/1",
+                "addr:postcode": "38121",
+                "addr:street": "Via Sant'Anna",
+                "beauty": "nails",
+                "name": "Il girasole",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10537726423,
+            "lat": 45.6448074,
+            "lon": 11.3017563,
+            "tags": {
+                "beauty": "nails;tanning;skin_care;hair_removal",
+                "floor": "1",
+                "name": "Estetica Ivana",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10559922256,
+            "lat": 46.0881314,
+            "lon": 11.1338785,
+            "tags": {
+                "leisure": "fitness_station"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10597135737,
+            "lat": 46.3548515,
+            "lon": 11.1082157,
+            "tags": {
+                "leisure": "fitness_station"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10692803777,
+            "lat": 46.0938926,
+            "lon": 11.1195646,
+            "tags": {
+                "addr:housenumber": "9",
+                "addr:postcode": "38121",
+                "addr:street": "Via Padre Emilio Chiocchetti",
+                "beauty": "massage;eyebrow;skin_care",
+                "contact:facebook": "https://www.facebook.com/laquinta.essenza.75",
+                "email": "info@laquintaessenzatrento.it",
+                "name": "La Quinta Essenza",
+                "phone": "+39 0461 159 5806",
+                "ref:vatin": "IT02523420228",
+                "shop": "beauty",
+                "website": "http://www.laquintaessenzatrento.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10697022658,
+            "lat": 46.2406044,
+            "lon": 11.2100606,
+            "tags": {
+                "addr:city": "Salorno",
+                "addr:country": "IT",
+                "addr:housenumber": "10",
+                "addr:postcode": "39040",
+                "addr:street": "Via Roma - Romstra\u00dfe",
+                "addr:street:de": "Romstra\u00dfe",
+                "addr:street:it": "Via Roma",
+                "name": "Angela Russu Nails Studio & Academy",
+                "shop": "beauty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10700388379,
+            "lat": 46.0308146,
+            "lon": 10.7231405,
+            "tags": {
+                "leisure": "fitness_centre"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10743382717,
+            "lat": 45.8642259,
+            "lon": 11.0280904,
+            "tags": {
+                "addr:city": "rovereto",
+                "addr:housenumber": "18",
+                "addr:postcode": "38068",
+                "addr:street": "viale del lavoro",
+                "leisure": "sauna",
+                "name": "Sala del Sale centro olistico",
+                "phone": "+393515066344"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10760990682,
+            "lat": 46.0384991,
+            "lon": 11.1288086,
+            "tags": {
+                "fitness_station": "yes",
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10760990683,
+            "lat": 46.0386926,
+            "lon": 11.1286423,
+            "tags": {
+                "fitness_station": "hurdling",
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10760990684,
+            "lat": 46.0390336,
+            "lon": 11.1291339,
+            "tags": {
+                "fitness_station": "yes",
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10773025072,
+            "lat": 45.8775101,
+            "lon": 10.7679453,
+            "tags": {
+                "leisure": "fitness_centre"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10846408603,
+            "lat": 46.0431719,
+            "lon": 11.1106533,
+            "tags": {
+                "leisure": "fitness_station"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10861840356,
+            "lat": 46.1394197,
+            "lon": 11.2548964,
+            "tags": {
+                "leisure": "fitness_station"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10923746290,
+            "lat": 45.6944179,
+            "lon": 11.4350807,
+            "tags": {
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10923746291,
+            "lat": 45.6941109,
+            "lon": 11.4354691,
+            "tags": {
+                "leisure": "fitness_station",
+                "sport": "fitness"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10942160603,
+            "lat": 46.1387682,
+            "lon": 11.1060877,
+            "tags": {
+                "addr:city": "Lavis",
+                "addr:postcode": "38015",
+                "addr:street": "Via dei Felti",
+                "email": "esserecentroathome@gmail.com",
+                "leisure": "fitness_centre",
+                "name": "Essere Centro",
+                "ref:vatin": "IT02345070227",
+                "sport": "yoga;pilates;pole_dance",
+                "website": "https://esserecentroathome.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10942160604,
+            "lat": 46.1395063,
+            "lon": 11.1088253,
+            "tags": {
+                "leisure": "fitness_centre",
+                "sport": "weightlifting"
+            }
+        }
+    ]
+}

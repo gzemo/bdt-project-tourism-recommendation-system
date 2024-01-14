@@ -1,0 +1,197 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.60.6 e2dc3e5b",
+    "osm3s": {
+        "timestamp_osm_base": "2023-06-14T18:41:16Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+        {
+            "type": "node",
+            "id": 622616259,
+            "lat": 46.3580505,
+            "lon": 10.6685605,
+            "tags": {
+                "name": "Area faunistica Parco Nazionale dello Stelvio",
+                "tourism": "zoo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1734593255,
+            "lat": 46.2038802,
+            "lon": 11.3311115,
+            "tags": {
+                "leisure": "bird_hide"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1734673722,
+            "lat": 46.1888872,
+            "lon": 11.3596507,
+            "tags": {
+                "leisure": "bird_hide"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2415717076,
+            "lat": 45.6414869,
+            "lon": 11.0051849,
+            "tags": {
+                "leisure": "bird_hide"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2415717123,
+            "lat": 45.6506447,
+            "lon": 11.0014243,
+            "tags": {
+                "leisure": "bird_hide"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4918129043,
+            "lat": 46.1132186,
+            "lon": 11.2250769,
+            "tags": {
+                "leisure": "wildlife_hide"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5500316080,
+            "lat": 46.0792208,
+            "lon": 11.2199141,
+            "tags": {
+                "leisure": "bird_hide"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5504879028,
+            "lat": 46.0143558,
+            "lon": 11.6068496,
+            "tags": {
+                "leisure": "bird_hide"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5820344952,
+            "lat": 46.4787397,
+            "lon": 11.0422488,
+            "tags": {
+                "leisure": "bird_hide"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6009752370,
+            "lat": 46.0129578,
+            "lon": 11.6095347,
+            "tags": {
+                "leisure": "bird_hide"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7383076644,
+            "lat": 45.8995776,
+            "lon": 10.9812873,
+            "tags": {
+                "leisure": "bird_hide"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8572760745,
+            "lat": 45.8599089,
+            "lon": 10.9314614,
+            "tags": {
+                "leisure": "bird_hide"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8602677694,
+            "lat": 46.0800792,
+            "lon": 10.9273655,
+            "tags": {
+                "name": "ATHABASKA fattoria didattica",
+                "tourism": "zoo",
+                "zoo": "petting_zoo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8760570246,
+            "lat": 46.0855865,
+            "lon": 11.1777444,
+            "tags": {
+                "leisure": "bird_hide"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9108607169,
+            "lat": 45.9084753,
+            "lon": 10.9595366,
+            "tags": {
+                "leisure": "bird_hide"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9228488136,
+            "lat": 45.8847999,
+            "lon": 10.9273924,
+            "tags": {
+                "leisure": "bird_hide"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9973436092,
+            "lat": 46.1885016,
+            "lon": 11.6883077,
+            "tags": {
+                "name": "Area Cervi",
+                "tourism": "zoo",
+                "zoo": "wildlife_park"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10172458582,
+            "lat": 45.7788918,
+            "lon": 11.5038931,
+            "tags": {
+                "name": "Le Lazerele",
+                "tourism": "zoo",
+                "zoo": "petting_zoo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10300205843,
+            "lat": 45.883773,
+            "lon": 10.8912574,
+            "tags": {
+                "leisure": "bird_hide"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10301113165,
+            "lat": 45.8836429,
+            "lon": 10.9135876,
+            "tags": {
+                "leisure": "bird_hide"
+            }
+        }
+    ]
+}

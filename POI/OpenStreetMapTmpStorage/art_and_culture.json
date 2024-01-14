@@ -1,0 +1,1460 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.60.6 e2dc3e5b",
+    "osm3s": {
+        "timestamp_osm_base": "2023-06-14T18:41:16Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+        {
+            "type": "node",
+            "id": 267234391,
+            "lat": 46.0674841,
+            "lon": 11.1218796,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:housenumber": "18",
+                "addr:postcode": "38122",
+                "addr:street": "Piazza del Duomo",
+                "contact:instagram": "museo_diocesano_tridentino",
+                "fee": "yes",
+                "name": "Museo Diocesano Tridentino",
+                "opening_hours": "Summer (1 June to 30 September) We-Mo 10:00-13:00 and 14:00-18:00; Winter (1 October to 31 May) Mo, We, Th, Fr, Sa 9:30-12:30 and 14:00-17:30, Su 10:00-13:00 and 14:00-18:00",
+                "phone": "+39 0461234419",
+                "tourism": "museum",
+                "website": "https://www.museodiocesanotridentino.it/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 269184847,
+            "lat": 46.0694569,
+            "lon": 11.123645,
+            "tags": {
+                "fee": "yes",
+                "historic:civilization": "ancient_roman",
+                "layer": "-1",
+                "location": "underground",
+                "museum": "archaeological",
+                "name": "Spazio Archeologico Sotterraneo del Sas",
+                "phone": "+39 0461 230171",
+                "short_name": "SASS",
+                "subject": "history",
+                "tourism": "museum",
+                "website": "https://www.cultura.trentino.it/Luoghi/Tutti-i-luoghi-della-cultura/Musei-e-collezioni/Spazio-Archeologico-Sotterraneo-del-Sas",
+                "wheelchair": "yes",
+                "wikidata": "Q3998737",
+                "wikipedia": "it:Tridentum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 279294217,
+            "lat": 46.4806545,
+            "lon": 11.3049582,
+            "tags": {
+                "addr:city": "Bolzano - Bozen",
+                "addr:country": "IT",
+                "addr:housename": "Castel Firmiano - Schloss Sigmundskron",
+                "addr:housename:de": "Schloss Sigmundskron",
+                "addr:housename:en": "Sigmundskron Castle",
+                "addr:housename:it": "Castel Firmiano",
+                "addr:housenumber": "53",
+                "addr:postcode": "39100",
+                "addr:street": "Via Castel Firmiano - Sigmundskroner Stra\u00dfe",
+                "email": "info@messner-mountain-museum.it",
+                "fax": "+39 0471 633884",
+                "fee": "yes",
+                "name": "Messner Mountain Museum Firmian",
+                "operator": "MMM",
+                "phone": "+39 0471 631264",
+                "tourism": "museum",
+                "website": "http://www.messner-mountain-museum.it/",
+                "wheelchair": "no",
+                "wikidata": "Q1637348",
+                "wikipedia": "de:Messner Mountain Museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 304731090,
+            "lat": 45.740631,
+            "lon": 11.2602217,
+            "tags": {
+                "name": "Museo antichi mestieri",
+                "tourism": "museum",
+                "wikidata": "Q71825929"
+            }
+        },
+        {
+            "type": "node",
+            "id": 335605379,
+            "lat": 46.2281723,
+            "lon": 10.8278422,
+            "tags": {
+                "fee": "no",
+                "name": "Museo delle guide",
+                "opening_hours": "We-Mo 15:00-19:00+",
+                "tourism": "museum",
+                "wikidata": "Q67644601"
+            }
+        },
+        {
+            "type": "node",
+            "id": 418331276,
+            "lat": 46.0776379,
+            "lon": 11.277623,
+            "tags": {
+                "is_in": "Trento, Trentino-Alto Adige, Italy",
+                "name": "Museo degli Attrezzi Agricoli",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 420308411,
+            "lat": 45.6809272,
+            "lon": 11.377502,
+            "tags": {
+                "email": "museodellegno@libero.it",
+                "fee": "no",
+                "name": "Museo etnografico del legno",
+                "opening_hours": "Su 15:30-18:30",
+                "phone": "+390445519735",
+                "tourism": "museum",
+                "website": "http://www.museodellegno.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 443398413,
+            "lat": 46.3683671,
+            "lon": 11.3540017,
+            "tags": {
+                "name": "Dorfmuseum Aldein - Museo civico Aldino",
+                "name:de": "Dorfmuseum Aldein",
+                "name:it": "Museo civico Aldino",
+                "tourism": "museum",
+                "wikidata": "Q67636649"
+            }
+        },
+        {
+            "type": "node",
+            "id": 446773163,
+            "lat": 46.0717599,
+            "lon": 11.113531,
+            "tags": {
+                "check_date": "2023-06-04",
+                "fee": "no",
+                "name": "Le Gallerie - Museo Storico del Trentino",
+                "official_name": "Le Gallerie di Piedicastello",
+                "opening_hours": "Tu-Su 09:00-18:00",
+                "start_date": "2008",
+                "tourism": "museum",
+                "website": "http://www.museostorico.it",
+                "wheelchair": "yes",
+                "wikidata": "Q27031421",
+                "wikipedia": "it:Gallerie di Piedicastello"
+            }
+        },
+        {
+            "type": "node",
+            "id": 456820499,
+            "lat": 46.0789237,
+            "lon": 11.2787077,
+            "tags": {
+                "is_in": "Trento, Trentino-Alto Adige, Italy",
+                "name": "Museo del Paracarro",
+                "tourism": "museum",
+                "wikidata": "Q68315448"
+            }
+        },
+        {
+            "type": "node",
+            "id": 560013174,
+            "lat": 46.3137488,
+            "lon": 11.2241512,
+            "tags": {
+                "addr:city": "Kurtatsch an der Weinstra\u00dfe - Cortaccia sulla Strada del Vino",
+                "addr:housenumber": "2",
+                "addr:postcode": "39040",
+                "addr:street": "Botengasse",
+                "description": "Il museo pu\u00f2 essere visitato solo con una guida.",
+                "email": "info@museumzeitreisemensch.it",
+                "museum": "ethnography",
+                "name": "Zeitreise Mensch - Museo Uomo nel Tempo",
+                "name:de": "Zeitreise Mensch",
+                "name:it": "Museo Uomo nel Tempo",
+                "opening_hours": "Mo-Su 08:00-20:00 \"by appointment\"",
+                "phone": "+39 0471 880267",
+                "toilets:wheelchair": "no",
+                "tourism": "museum",
+                "website": "https://www.museumzeitreisemensch.it/it/",
+                "wheelchair": "limited",
+                "wikidata": "Q55351927"
+            }
+        },
+        {
+            "type": "node",
+            "id": 570733717,
+            "lat": 46.1208268,
+            "lon": 11.3785605,
+            "tags": {
+                "access": "customers",
+                "historic": "mine",
+                "historic:civilization": "medieval",
+                "image": "File:Gruab_va_Hardimbl.jpg",
+                "mineral": "iron",
+                "name": "Gruab va Hardimbl - Miniera dell'Erdemolo",
+                "name:it": "Miniera dell'Erdemolo",
+                "name:mhn": "Gruab va Hardimbl",
+                "note": "Parco Minerario Alta Valsugana e Bersntol",
+                "tourism": "museum",
+                "website": "http://www.umpalai.it/miniera-dellerdemolo/",
+                "wikidata": "Q55802135",
+                "wikimedia_commons": "Category:Gruab va Hardimbl"
+            }
+        },
+        {
+            "type": "node",
+            "id": 599751168,
+            "lat": 45.9298304,
+            "lon": 10.825762,
+            "tags": {
+                "name": "Casa degli Artisti",
+                "tourism": "museum",
+                "website": "http://www.casartisti.it/",
+                "wikidata": "Q194136",
+                "wikipedia": "it:Riva del Garda"
+            }
+        },
+        {
+            "type": "node",
+            "id": 614841361,
+            "lat": 46.3542676,
+            "lon": 10.9139807,
+            "tags": {
+                "name": "Museo della Civilt\u00e0 Solandra",
+                "tourism": "museum",
+                "wikidata": "Q3868087"
+            }
+        },
+        {
+            "type": "node",
+            "id": 644626990,
+            "lat": 46.1197134,
+            "lon": 11.3365274,
+            "tags": {
+                "addr:city": "Fierozzo - Vlarotz",
+                "addr:city:it": "Fierozzo",
+                "addr:city:mhn": "Vlarotz",
+                "addr:postcode": "38050",
+                "addr:street": "Maso Vilzer",
+                "name": "Filzerhof",
+                "tourism": "museum",
+                "wikidata": "Q55352938"
+            }
+        },
+        {
+            "type": "node",
+            "id": 725562669,
+            "lat": 46.4230555,
+            "lon": 11.1469654,
+            "tags": {
+                "name": "Musei di Ronzone",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 750680709,
+            "lat": 45.9452762,
+            "lon": 10.6320893,
+            "tags": {
+                "name": "museo della Grande Guerra",
+                "tourism": "museum",
+                "wikidata": "Q55352826"
+            }
+        },
+        {
+            "type": "node",
+            "id": 805334457,
+            "lat": 45.8625203,
+            "lon": 11.6137828,
+            "tags": {
+                "name": "Museo della Grande Guerra 15 - 18 di Sasso",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 833326803,
+            "lat": 45.7346446,
+            "lon": 10.7891555,
+            "tags": {
+                "fee": "no",
+                "name": "Museo del Lago",
+                "tourism": "museum",
+                "website": "https://www.visitmalcesine.com/it/museo-del-lago-di-cassone",
+                "wikidata": "Q68297596"
+            }
+        },
+        {
+            "type": "node",
+            "id": 975288310,
+            "lat": 46.0684631,
+            "lon": 11.1212198,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "44",
+                "addr:postcode": "38122",
+                "addr:street": "Via Rodolfo Belenzani",
+                "contact:website": "https://www.mart.tn.it/visita-galleria-civica",
+                "name": "Galleria Civica",
+                "tourism": "museum",
+                "wikidata": "Q17631147",
+                "wikipedia": "it:Galleria civica di Trento"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1102264763,
+            "lat": 46.0979727,
+            "lon": 11.2948637,
+            "tags": {
+                "name": "Pietra viva",
+                "note": "Parco Minerario Alta Valsugana e Bersntol",
+                "operator": "Comune Sant'Orsola",
+                "tourism": "museum",
+                "website": "http://www.museopietraviva.it/home.php",
+                "wikidata": "Q55677149"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1206175090,
+            "lat": 45.7534578,
+            "lon": 10.7359939,
+            "tags": {
+                "addr:postcode": "25080",
+                "name": "Museo del Parco Alto Garda Bresciano",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1282899743,
+            "lat": 45.9225527,
+            "lon": 11.286764,
+            "tags": {
+                "contact:website": "http://www.fortebelvedere.org/",
+                "name": "Forte Belvedere - Werk Gschwendt",
+                "name:de": "Werk Gschwent",
+                "name:it": "Forte Belvedere Gschwent",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1301681384,
+            "lat": 45.8845157,
+            "lon": 10.8422391,
+            "tags": {
+                "fee": "yes",
+                "name": "MAG Museo Alto Garda",
+                "name:de": "Stadtmuseum",
+                "name:it": "MAG Museo Alto Garda",
+                "tourism": "museum",
+                "wheelchair": "limited",
+                "wikidata": "Q21236652",
+                "wikipedia": "it:MAG Museo Alto Garda"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1397259492,
+            "lat": 45.8388304,
+            "lon": 11.4995448,
+            "tags": {
+                "addr:street": "Via Casa del Pastore",
+                "museum": "water",
+                "name": "Museo dell'acqua",
+                "opening_hours:covid19": "off",
+                "tourism": "museum",
+                "website": "http://www.museodellacqua7comuni.it/",
+                "wikidata": "Q66058034"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1474261044,
+            "lat": 46.3663055,
+            "lon": 11.4070465,
+            "tags": {
+                "addr:city": "Aldein - Aldino",
+                "addr:housenumber": "40",
+                "addr:postcode": "39040",
+                "addr:street": "Lerch",
+                "ele": "1535",
+                "email": "info@bletterbach.info",
+                "fee": "yes",
+                "name": "GEOPARC Bletterbach - Visitor Center",
+                "opening_hours": "May-Oct: 09:30-18:00",
+                "operator": "GEOPARC Bletterbach",
+                "phone": "+39 0471 886946",
+                "tourism": "museum",
+                "website": "https://www.bletterbach.info",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1474883163,
+            "lat": 46.3467407,
+            "lon": 11.3966393,
+            "tags": {
+                "name": "GEOMuseum Radein - Museo GEOlogico Redagno",
+                "name:de": "GEOMuseum Radein",
+                "name:it": "Museo GEOlogico Redagno",
+                "source": "https://www.bletterbach.info/it/info-e-service/infopoints/",
+                "tourism": "museum",
+                "wikidata": "Q73002900"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1496706635,
+            "lat": 46.1943254,
+            "lon": 11.1341768,
+            "tags": {
+                "addr:country": "IT",
+                "addr:housenumber": "2",
+                "addr:street": "Via Edmund Mach",
+                "fee": "yes",
+                "name": "Museo degli usi e costumi della gente trentina",
+                "tourism": "museum",
+                "wikidata": "Q3867893",
+                "wikipedia": "it:Museo degli usi e costumi della gente trentina"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1677520588,
+            "lat": 46.4817987,
+            "lon": 11.3178385,
+            "tags": {
+                "amenity": "library",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1857649832,
+            "lat": 46.2196464,
+            "lon": 11.0488742,
+            "tags": {
+                "name": "Corte Franca",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1885120329,
+            "lat": 46.4561685,
+            "lon": 11.2592058,
+            "tags": {
+                "addr:housenumber": "24",
+                "addr:street": "Johann-Georg-Plazer-Strasse",
+                "amenity": "community_centre",
+                "email": "wirtschaft.kultur@eppan.eu",
+                "name": "Lanserhaus",
+                "name:de": "Lanserhaus",
+                "name:it": "Lanserhaus",
+                "opening_hours": "Tu-Fr 15:00-18:00; Sa, Su 10:00-12:00, 15:00-18:00",
+                "phone": "+390471667566",
+                "tourism": "museum",
+                "website": "https://www.eppan.eu/de/Lanserhaus",
+                "wikidata": "Q107149279"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1923688326,
+            "lat": 45.7374342,
+            "lon": 11.3897101,
+            "tags": {
+                "addr:city": "Santorso",
+                "addr:housenumber": "27",
+                "addr:postcode": "36014",
+                "addr:street": "Piazza A. Moro",
+                "name": "Museo Archeologico dell'Alto vicentino",
+                "tourism": "museum",
+                "wikipedia": "it:Museo Archeologico dell'Alto Vicentino"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1962320594,
+            "lat": 45.9163855,
+            "lon": 11.0300477,
+            "tags": {
+                "addr:city": "Villa Lagarina",
+                "addr:housenumber": "12",
+                "addr:postcode": "38060",
+                "addr:street": "Via Garibaldi",
+                "name": "Museo Diocesano \"Palazzo Libera\"",
+                "tourism": "museum",
+                "wikidata": "Q4012187"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1992954489,
+            "lat": 45.8869604,
+            "lon": 11.0451702,
+            "tags": {
+                "addr:city": "Rovereto",
+                "addr:country": "IT",
+                "addr:housenumber": "38",
+                "addr:postcode": "38068",
+                "addr:street": "Via Portici",
+                "culture": "futurism",
+                "email": "info@mart.tn.it",
+                "name": "Casa d'Arte Futurista Depero",
+                "opening_hours": "Tu-Su 10:00-18:00",
+                "operator": "Mart",
+                "phone": "+39 0465 670820",
+                "tourism": "museum",
+                "website": "https://www.mart.tn.it/visita/visita-la-casa-d-arte-futurista-depero-123036",
+                "wikidata": "Q3867591",
+                "wikipedia": "it:Casa d'arte futurista Depero"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2318067270,
+            "lat": 45.6253941,
+            "lon": 11.091665,
+            "tags": {
+                "addr:city": "Velo Veronese",
+                "addr:housenumber": "1",
+                "addr:postcode": "37030",
+                "addr:street": "Via Covolo",
+                "name": "Museo Geopantologico di Camposilvano",
+                "operator": "Comunit\u00e0 Montana della Lessinia",
+                "phone": "+39 456516005",
+                "tourism": "museum",
+                "website": "http://www.camposilvano.it/museo.htm",
+                "wikidata": "Q55359461"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2390590492,
+            "lat": 45.863704,
+            "lon": 11.3997781,
+            "tags": {
+                "name": "Museo storico Grande Guerra 15-18",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2487104590,
+            "lat": 45.8848015,
+            "lon": 10.841329,
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "2",
+                "addr:postcode": "38066",
+                "addr:street": "Piazza Giuseppe Garibaldi",
+                "check_date": "2023-05-29",
+                "fee": "yes",
+                "name": "Reptiland",
+                "operator": "BIN S.n.c.",
+                "ref:vatin": "IT00676430226",
+                "tourism": "museum",
+                "website": "http://www.reptiland.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2534708276,
+            "lat": 45.8853531,
+            "lon": 11.0081919,
+            "tags": {
+                "addr:city": "Isera",
+                "addr:housenumber": "10",
+                "addr:postcode": "38060",
+                "addr:street": "Via Galvagni",
+                "name": "Museo della Cartolina \"Salvatore Nuvoli\"",
+                "opening_hours": "Mo-Fr 09:00-12:00, 14:30-17:30",
+                "phone": "+39 0464 420840",
+                "tourism": "museum",
+                "website": "http://www.museodellacartolina.it/",
+                "wikidata": "Q3868063"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2666301250,
+            "lat": 45.745162,
+            "lon": 11.5349678,
+            "tags": {
+                "addr:city": "Lugo di Vicenza",
+                "addr:housename": "Museo dei Fossili \"Pierluigi Malinverni\"",
+                "addr:housenumber": "44",
+                "addr:postcode": "36030",
+                "addr:street": "Via Palladio",
+                "name": "Museo dei Fossili di Lonedo",
+                "phone": "+39 0445 860561",
+                "tourism": "museum",
+                "wikidata": "Q67010946"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2691241081,
+            "lat": 45.8151967,
+            "lon": 10.7930789,
+            "tags": {
+                "name": "Museo del Turismo",
+                "tourism": "museum",
+                "wikidata": "Q73006053"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2692401714,
+            "lat": 45.8107297,
+            "lon": 10.7915155,
+            "tags": {
+                "name": "Museo della Pesca",
+                "tourism": "museum",
+                "wikidata": "Q66057974"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2694587218,
+            "lat": 45.8151842,
+            "lon": 10.7917242,
+            "tags": {
+                "name": "Museo Civico Giuseppe Segalla",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2749566764,
+            "lat": 46.4736524,
+            "lon": 11.3221623,
+            "tags": {
+                "addr:city": "Bolzano - Bozen",
+                "addr:city:de": "Bozen",
+                "addr:city:it": "Bolzano",
+                "addr:housenumber": "13",
+                "addr:postcode": "39100",
+                "addr:street": "Via Giotto - Giottostra\u00dfe",
+                "addr:street:de": "Giottostra\u00dfe",
+                "addr:street:it": "Via Giotto",
+                "email:de": "abteilung.hochbau@provinz.bz.it",
+                "email:it": "ripartizione.edilizia@provincia.bz.it",
+                "fee": "no",
+                "name": "Archimod",
+                "phone": "+39 0471 412 330",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2784214825,
+            "lat": 46.0530064,
+            "lon": 11.4564462,
+            "tags": {
+                "addr:city": "Borgo Valsugana",
+                "addr:country": "IT",
+                "addr:postcode": "38051",
+                "addr:province": "TN",
+                "name": "Spazio Klien",
+                "payment:coins": "yes",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3002405384,
+            "lat": 45.8166736,
+            "lon": 10.9540877,
+            "tags": {
+                "fee": "no",
+                "name": "Palazzo Eccheli Baisi",
+                "tourism": "museum",
+                "wikidata": "Q66058158"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3053299167,
+            "lat": 45.918999,
+            "lon": 11.7302167,
+            "tags": {
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3081910206,
+            "lat": 46.3862999,
+            "lon": 10.6806941,
+            "tags": {
+                "name": "Il Bosco degli Urogalli",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3273893215,
+            "lat": 45.9293901,
+            "lon": 10.8265617,
+            "tags": {
+                "fee": "no",
+                "name": "Museo degli Attrezzi Agricoli",
+                "tourism": "museum",
+                "wikidata": "Q71830490"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3281938438,
+            "lat": 45.7139643,
+            "lon": 11.3549979,
+            "tags": {
+                "name": "Spazio espositivo Lanificio Conte",
+                "tourism": "museum",
+                "website": "http://www.museialtovicentino.it/musei/patrimonio-industriale/283-spazio-espositivo-lanificio-conte.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3312642477,
+            "lat": 45.8863169,
+            "lon": 11.0463122,
+            "tags": {
+                "fee": "yes",
+                "name": "Museo Storico Italiano della Guerra",
+                "tourism": "museum",
+                "wikidata": "Q1491563",
+                "wikipedia": "it:Museo storico italiano della guerra"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3334278990,
+            "lat": 45.8892906,
+            "lon": 11.0419513,
+            "tags": {
+                "addr:city": "Rovereto",
+                "addr:country": "IT",
+                "addr:housenumber": "42",
+                "addr:postcode": "38068",
+                "addr:province": "TN",
+                "addr:state": "Trentino Alto Adige",
+                "addr:street": "Via Giosu\u00e8 Carducci",
+                "name": "Tonolli",
+                "shop": "art",
+                "tourism": "gallery"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3634529334,
+            "lat": 46.0687571,
+            "lon": 11.3041927,
+            "tags": {
+                "name": "La Mil",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3659273553,
+            "lat": 45.9889325,
+            "lon": 11.3013479,
+            "tags": {
+                "name": "Bike Museum",
+                "tourism": "museum",
+                "wikidata": "Q73016189"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3683994896,
+            "lat": 45.8889668,
+            "lon": 10.7325506,
+            "tags": {
+                "addr:city": "Ledro",
+                "addr:housenumber": "11",
+                "addr:postcode": "38067",
+                "addr:street": "Via Vittoria",
+                "name": "Museo del Laboratorio Farmaceutico Foletto",
+                "tourism": "museum",
+                "wikidata": "Q55353352"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3734579884,
+            "lat": 46.0439856,
+            "lon": 11.2787413,
+            "tags": {
+                "name": "Museo delle Miniere",
+                "note": "Parco Minerario Alta Valsugana e Bersntol",
+                "operator": "Associazione Fil\u00f2",
+                "tourism": "museum",
+                "url": "http://www.filovignola.it/museominierevignola"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3814452454,
+            "lat": 45.7619364,
+            "lon": 11.4607836,
+            "tags": {
+                "addr:city": "Chiuppano",
+                "addr:street": "Piazza Serragli",
+                "name": "Museo della Grande Guerra",
+                "source": "Associazione Fanti",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q72681813"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3822370213,
+            "lat": 46.4125273,
+            "lon": 11.2465359,
+            "tags": {
+                "addr:housenumber": "1",
+                "addr:street": "Goldgasse",
+                "description": "open 1st of April till mid of November\nclosed on public holidays",
+                "email": "weinmuseum@landesmuseen.it",
+                "name": "Weinmuseum - Museo provinciale del vino",
+                "name:de": "Weinmuseum",
+                "name:it": "Museo provinciale del vino",
+                "opening_hours": "Tu-Sa 10:00-17:00",
+                "phone": "+390471963168",
+                "tourism": "museum",
+                "website": "https://www.museo-del-vino.it",
+                "wikidata": "Q55351863"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3956877238,
+            "lat": 46.0038399,
+            "lon": 11.242609,
+            "tags": {
+                "name": "Museo Minerario Calceranica",
+                "note": "Parco Minerario Alta Valsugana",
+                "operator": "Comune Calceranica",
+                "tourism": "museum",
+                "website": "http://www.minieracalceranica.it/",
+                "wikidata": "Q69323579"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3956887007,
+            "lat": 46.0016949,
+            "lon": 11.2390668,
+            "tags": {
+                "historic": "yes",
+                "man_made": "adit",
+                "name": "Miniera Leyla",
+                "note": "Parco Minerario Alta Valsugana e Bersntol",
+                "operator": "Comune Calceranica",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4040337618,
+            "lat": 46.1294601,
+            "lon": 11.3531896,
+            "tags": {
+                "name": "Sperkmandlhaus",
+                "name:it": "Museo Minerario Pal\u00f9",
+                "note": "Parco Minerario Alta Valsugana e Bersntol",
+                "tourism": "museum",
+                "website": "http://www.valledeimocheni.it/sperkmandlhaus",
+                "wikidata": "Q55802151"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4067216267,
+            "lat": 46.05429,
+            "lon": 11.5264674,
+            "tags": {
+                "fixme": "Edificio da stabilire",
+                "name": "Antica fusina Zanghellini",
+                "old:craft": "blacksmith",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4072423932,
+            "lat": 46.0729304,
+            "lon": 11.4730263,
+            "tags": {
+                "description:it": "Museo della Memoria storica e culturale di Telve di Sopra",
+                "name": "Museo Etnografico Collezione Tarcisio Trentin",
+                "tourism": "museum",
+                "website": "https://www.ecomuseolagorai.eu/cms/collezione-tarcisio-trentin.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4147445526,
+            "lat": 46.0543777,
+            "lon": 11.4587901,
+            "tags": {
+                "addr:city": "Borgo Valsugana",
+                "addr:country": "IT",
+                "addr:housenumber": "57",
+                "addr:postcode": "38051",
+                "addr:province": "TN",
+                "addr:street": "Corso Ausugum",
+                "alt_name": "Mario Rossi",
+                "contact:website": "http://www.artesella.it/percorsi_spazi.html",
+                "description:it": "Gli Spazi LivioRossi sono un centro espositivo permanente curato da Arte Sella.",
+                "name": "Spazi Livio Rossi",
+                "operator": "Associazione Arte Sella",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4219149239,
+            "lat": 46.0987072,
+            "lon": 11.2360522,
+            "tags": {
+                "addr:housenumber": "2",
+                "addr:place": "Montagnaga",
+                "addr:street": "Viale Sant'Anna",
+                "contact:website": "https://www.cultura.trentino.it/Luoghi/Tutti-i-luoghi-della-cultura/Case/Albergo-alla-corona-Museo-del-turismo-trentino",
+                "name": "Museo del turismo trentino",
+                "operator": "Comune di Baselga di Pin\u00e9",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4221721673,
+            "lat": 46.0513674,
+            "lon": 11.4098244,
+            "tags": {
+                "name": "Sala Tre castelli",
+                "tourism": "gallery"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4251202608,
+            "lat": 46.3150354,
+            "lon": 11.0481268,
+            "tags": {
+                "name": "Museo Etnografico",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4340805004,
+            "lat": 45.9203265,
+            "lon": 10.8888588,
+            "tags": {
+                "addr:city": "Arco",
+                "addr:housenumber": "9",
+                "addr:postcode": "38062",
+                "addr:street": "Via Giovanni Segantini",
+                "name": "Galleria Civica Giovanni Segantini",
+                "operator": "MAG",
+                "phone": "+39 0464 583653",
+                "tourism": "gallery"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4510169735,
+            "lat": 45.8961118,
+            "lon": 11.6306992,
+            "tags": {
+                "addr:city": "Foza",
+                "addr:housenumber": "2",
+                "addr:postcode": "61010",
+                "addr:street": "Via Roma",
+                "name": "Museo di Foza",
+                "phone": "+39 0424 443641",
+                "tourism": "museum",
+                "website": "http://www.museodifoza.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4512507356,
+            "lat": 46.0689701,
+            "lon": 11.6072466,
+            "tags": {
+                "name": "Museo per Via",
+                "tourism": "museum",
+                "website": "http://www.museopervia.it/",
+                "wikidata": "Q33834061"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4555224995,
+            "lat": 46.0886282,
+            "lon": 11.181844,
+            "tags": {
+                "contact:website": "http://ecoargentario.it/",
+                "name": "Ecomuseo Argentario",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4596537848,
+            "lat": 45.757353,
+            "lon": 11.0033166,
+            "tags": {
+                "name": "Museo del pianoforte antico",
+                "tourism": "museum",
+                "wikidata": "Q55352796"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4646776085,
+            "lat": 45.9219621,
+            "lon": 11.3232196,
+            "tags": {
+                "addr:city": "Lus\u00e9rn - Luserna",
+                "addr:city:cim": "Lus\u00e9rn",
+                "addr:city:it": "Luserna",
+                "addr:housenumber": "6",
+                "addr:postcode": "38040",
+                "addr:street": "Via Trento",
+                "name": "Dokumentationszentrum Lus\u00e9rn - Centro Documentazione Luserna",
+                "name:cim": "Dokumentationszentrum Lus\u00e9rn",
+                "name:it": "Centro Documentazione Luserna",
+                "tourism": "museum",
+                "website": "http://www.lusern.it/",
+                "wikidata": "Q55353027"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4655181880,
+            "lat": 46.1029026,
+            "lon": 10.7378488,
+            "tags": {
+                "addr:city": "Spiazzo",
+                "addr:housenumber": "31",
+                "addr:postcode": "38088",
+                "addr:street": "Via San Vigilio",
+                "name": "Museo della Guerra Bianca Adamellina",
+                "tourism": "museum",
+                "website": "http://www.museograndeguerra.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4655195320,
+            "lat": 46.2976448,
+            "lon": 10.6954658,
+            "tags": {
+                "addr:city": "Vermiglio",
+                "addr:housenumber": "15",
+                "addr:postcode": "38020",
+                "addr:province": "Trento",
+                "addr:state": "Italia",
+                "addr:street": "Via di Borgo Nuovo",
+                "museum": "war",
+                "name": "Museo della Guerra di Vermiglio",
+                "phone": "+39 0463 758200",
+                "tourism": "museum",
+                "website": "http://www.museoguerrabianca.com/",
+                "wikidata": "Q37855787"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4664024243,
+            "lat": 46.0554009,
+            "lon": 11.4609639,
+            "tags": {
+                "contact:website": "http://www.egidiogalvan.it/sala-museo",
+                "name": "Sala Galvan",
+                "note:it": "Da posizionare nel luogo esatto.",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4691277678,
+            "lat": 46.0738165,
+            "lon": 11.2472628,
+            "tags": {
+                "name": "Museo della Centrale idroelettrica di Serso",
+                "tourism": "museum",
+                "wikidata": "Q55353338"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5141813120,
+            "lat": 46.1440739,
+            "lon": 11.193779,
+            "tags": {
+                "name": "Museo Casa Porfido",
+                "tourism": "museum",
+                "wikidata": "Q29904941"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5244003945,
+            "lat": 46.0179592,
+            "lon": 10.8112746,
+            "tags": {
+                "addr:postcode": "38071",
+                "name": "Museo della Scuola",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5891555080,
+            "lat": 46.4690581,
+            "lon": 11.3314601,
+            "tags": {
+                "addr:city": "Bolzano - Bozen",
+                "addr:housenumber": "8",
+                "addr:postcode": "39100",
+                "addr:street": "Via Johann Kravogl - Johann-Kravogl-Stra\u00dfe",
+                "contact:email": "cinemuseum@virgilio.it",
+                "name": "Cin\u00e8 Museum",
+                "opening_hours": "Jan-Jun,Sep-Dec: Tu,We,Fr,Sa 09:30-12:00,15:00-18:00",
+                "tourism": "museum",
+                "website": "http://www.cinemuseum.eu/",
+                "wheelchair": "yes",
+                "wikidata": "Q98086645"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6105549705,
+            "lat": 46.2390099,
+            "lon": 10.5797768,
+            "tags": {
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6191858021,
+            "lat": 45.6805439,
+            "lon": 11.2483947,
+            "tags": {
+                "museum": "local",
+                "name": "Casa de Abramo",
+                "operator": "Comunit\u00e0 montana Agno-Chiampo",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6520406767,
+            "lat": 45.7177734,
+            "lon": 11.3592219,
+            "tags": {
+                "addr:city": "Schio",
+                "addr:housenumber": "19",
+                "addr:postcode": "36015",
+                "addr:street": "Via Baratto",
+                "name": "Museo dei Treni in miniatura",
+                "opening_hours": "Fr 21:00-23:00",
+                "tourism": "museum",
+                "website": "http://www.fermodellistialtovicentino.it",
+                "wikidata": "Q55677776"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6586924497,
+            "lat": 46.1019507,
+            "lon": 11.0952666,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:housenumber": "65",
+                "addr:postcode": "38121",
+                "addr:street": "Via Innsbruck",
+                "name": "TTram",
+                "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-12:00",
+                "operator": "Trentino Trasporti",
+                "operator:type": "public",
+                "tourism": "museum",
+                "website": "https://www.ttram.it",
+                "wikidata": "Q106873311"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7094044891,
+            "lat": 46.0674312,
+            "lon": 11.1175234,
+            "tags": {
+                "addr:housenumber": "1/A",
+                "addr:street": "Via Don Giovanni Battista Zanella",
+                "name": "Officina dell'Autonomia - Museo Storico del Trentino",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7152488777,
+            "lat": 45.9213243,
+            "lon": 11.3251242,
+            "tags": {
+                "name": "Haus von Pr\u00fckk",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7617614535,
+            "lat": 46.0550822,
+            "lon": 11.6155268,
+            "tags": {
+                "name": "Museo del Moleta",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7618249162,
+            "lat": 45.9228591,
+            "lon": 10.8205621,
+            "tags": {
+                "addr:city": "Pranzo",
+                "museum": "history",
+                "name": "Punto Informativo area archeolosica San Martino",
+                "opening_hours:covid19": "off",
+                "tourism": "museum",
+                "website": "http://www.archeosanmartino.it"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7624119609,
+            "lat": 45.7142576,
+            "lon": 11.3626429,
+            "tags": {
+                "addr:city": "Schio",
+                "addr:housenumber": "51",
+                "addr:postcode": "36015",
+                "addr:street": "Via Arnaldo Fusinato",
+                "email": "bakhitaschio@gmail.com",
+                "fax": "+39 0445 401175",
+                "name": "Museo di Santa Giuseppina Bakhita",
+                "phone": "+39 0445 521044",
+                "tourism": "museum",
+                "website": "www.bakhita.fdcc.org",
+                "wikidata": "Q55677783"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7709961185,
+            "lat": 45.8160347,
+            "lon": 10.7922603,
+            "tags": {
+                "addr:housenumber": "9",
+                "addr:street": "Via Orti",
+                "charge": "2 EUR",
+                "fee": "yes",
+                "name": "La limonaia del Castel",
+                "tourism": "museum",
+                "website": "http://www.comune.limonesulgarda.bs.it/index.asp?lang=1&menu=96&art=62"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7710069325,
+            "lat": 45.9699298,
+            "lon": 10.9392211,
+            "tags": {
+                "fee": "no",
+                "name": "Castello di Drena",
+                "tourism": "museum",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7951743706,
+            "lat": 45.9917883,
+            "lon": 10.8353645,
+            "tags": {
+                "fee": "yes",
+                "museum": "history",
+                "name": "Ricostruzione villaggio palafitticolo",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8299409997,
+            "lat": 45.7053437,
+            "lon": 11.2264184,
+            "tags": {
+                "addr:city": "Recoaro Terme",
+                "addr:housenumber": "17/B",
+                "addr:postcode": "36076",
+                "addr:street": "Via Roma",
+                "museum": "history",
+                "name": "La Vita del Soldato nella Grande Guerra",
+                "operator": "Biblioteca Comunale",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8354299825,
+            "lat": 45.7049259,
+            "lon": 11.2271753,
+            "tags": {
+                "fee": "no",
+                "name": "Impronte dei Grandi della Fisarmonica",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8354966441,
+            "lat": 45.9544822,
+            "lon": 10.9288149,
+            "tags": {
+                "name": "Piccola esposizione attrezzi agricoli",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8839854774,
+            "lat": 46.3120119,
+            "lon": 11.2696264,
+            "tags": {
+                "name": "Museo di cultura popolare - Museum f\u00fcr Alltagskultur",
+                "name:de": "Museum f\u00fcr Alltagskultur",
+                "name:it": "Museo di cultura popolare",
+                "tourism": "museum",
+                "website": "https://www.museum-alltagskultur.it/",
+                "wikidata": "Q55351936"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8888066684,
+            "lat": 46.3411724,
+            "lon": 11.2401376,
+            "tags": {
+                "fee": "yes",
+                "name": "Dorfmuseum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9591520871,
+            "lat": 46.4779877,
+            "lon": 11.338803,
+            "tags": {
+                "addr:city": "Bolzano - Bozen",
+                "addr:housenumber": "161",
+                "addr:postcode": "39100",
+                "addr:street": "Via Claudia Augusta - Claudia-Augusta-Stra\u00dfe",
+                "museum": "technology",
+                "name": "Turbina Francis Turbine (1925 Marlengo - Marling)",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9682005614,
+            "lat": 46.1460856,
+            "lon": 10.7697475,
+            "tags": {
+                "description": "Il cannone venuto dal ghiaccio... frammenti di vita, di guerra e di morte (cannone Skoda recuperato dalla Presanella)",
+                "name": "Museo della Grande Guerra",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9872303857,
+            "lat": 46.069028,
+            "lon": 11.6071832,
+            "tags": {
+                "addr:city": "Pieve Tesino",
+                "addr:housenumber": "1",
+                "addr:postcode": "38050",
+                "addr:street": "Via Alcide De Gasperi",
+                "name": "Museo Casa Degasperi",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10560037562,
+            "lat": 45.6449063,
+            "lon": 11.3002343,
+            "tags": {
+                "addr:city": "Valdagno",
+                "addr:housenumber": "63",
+                "addr:postcode": "36078",
+                "addr:street": "Corso Italia",
+                "name": "Museo Civico \" Domenico Dal Lago\"",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10701711613,
+            "lat": 46.0714199,
+            "lon": 11.1264841,
+            "tags": {
+                "addr:city": "Trento",
+                "addr:housenumber": "5",
+                "addr:postcode": "38122",
+                "addr:street": "Via cardinale Bernardo Clesio",
+                "contact:email": "info@buonconsiglio.it",
+                "contact:instagram": "castellodelbuonconsiglio",
+                "contact:phone": "+39 0461 233770",
+                "contact:website": "https://www.buonconsiglio.it/index.php/it/Castello-del-Buonconsiglio",
+                "entrance": "yes",
+                "fee": "yes",
+                "name": "Museo del Castello del Buonconsiglio",
+                "opening_hours": "Tu-Su 10:00-18:00",
+                "tourism": "museum"
+            }
+        }
+    ]
+}
