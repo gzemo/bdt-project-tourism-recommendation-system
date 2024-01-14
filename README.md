@@ -150,5 +150,6 @@ To apply the simulation to another region, please note that you should also upda
 - change the parameters `PARSING_FROM_CASSANDRA` and `PARSING_FROM_GEOCODING` as True from the `main.py` to enable the data storing 
 
 
-### Credits:
+### Credits and third party licences:
+OSM POI: Open Data Commons Open Database License (ODbL) (https://opendatacommons.org/licenses/odbl/)
 Picture of Nettuno's fountain, Piazza del Duomo, Trento: Zairon, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
