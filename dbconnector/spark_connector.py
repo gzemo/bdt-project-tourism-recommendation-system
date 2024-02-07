@@ -5,8 +5,9 @@ from run.utils import printBold, printNorm
 class SparkConnector():
 
 	def __init__(self, pathToJarFile:str, masterName:str="local",
-		userName:str="postgres", password:str="123", 
-		driver:str="org.postgresql.Driver"):
+		userName:str="postgres", 
+		driver:str="org.postgresql.Driver",
+		password:str):
 		"""
 		For configuration purpose:
 		Jar file available at: https://jdbc.postgresql.org/download/
