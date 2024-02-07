@@ -3,6 +3,7 @@ import sys
 import random
 from termcolor import colored, cprint
 
+# --- General Utils: ---
 
 def initialize_postgres_database(postgres_connector, verbose=True):
 	"""
@@ -16,17 +17,6 @@ def initialize_postgres_database(postgres_connector, verbose=True):
 		user_surname varchar, user_sex varchar, user_birth date
 		)''';
 	postgres_connector.execute(sql1)
-
-	#sql2 = '''CREATE TABLE PREFERENCES(
-	#	user_spark_id integer, user_id varchar, gastronomy integer, 
-	#	skiing integer, art integer, hiking int, ice_skating integer, 
-	#	adventure integer, wellness integer, camping integer, 
-	#	museums integer
-	#	)''';
-	#postgres_connector.execute(sql2)
-
-	#sql3 = '''CREATE TABLE POI(poi_spark_id integer, poi_id varchar, poi_name varchar, 
-	#	poi_place varchar, poi_type varchar)''';
 	
 	sql3 = '''CREATE TABLE POI(poi_spark_id bigint,
 							poi_id bigint, 
@@ -57,9 +47,6 @@ def drop_postgres_database(postgres_connector):
 	printNorm("Deleting All Postgres relations ", "red", space=0, toend="\n")
 	sql1 = '''DROP TABLE USERS''';
 	postgres_connector.execute(sql1)
-
-	#sql2 = '''DROP TABLE PREFERENCES''';
-	#postgres_connector.execute(sql2)
 
 	sql3 = '''DROP TABLE POI''';
 	postgres_connector.execute(sql3)
@@ -159,7 +146,6 @@ def drop_postgres_database_top_poi(postgres_connector):
 	except:
 		pass	
 
-
 def initialize_cassandra_keyspace(cassandra_connector):
 	"""
 	Initialize the cassandra_connection and generate the keyspace
@@ -183,7 +169,6 @@ def drop_cassandra_keyspace(cassandra_connector):
 	printNorm("Deleting Cassandra BDT Keyspace ", "red", space=0, toend="\n")
 	cassandra_connector.execute("""DROP KEYSPACE bdt;""")
 
-
 def get_all_unique_user_spark_id(postgres_connector):
 	"""
 	Return the list of all distinc POI spark id
@@ -192,7 +177,6 @@ def get_all_unique_user_spark_id(postgres_connector):
 	users = postgres_connector.execute(sql_users)
 	return [el[0] for el in users]
 
-
 def get_all_unique_destinations(postgres_connector):
 	"""
 	Return all unique destinations querying "municipality name" form MUNICIPALITIES relation
@@ -200,7 +184,6 @@ def get_all_unique_destinations(postgres_connector):
 	sql_dest = '''SELECT DISTINCT mun_name FROM MUNICIPALITIES''';
 	destinations = postgres_connector.execute(sql_dest)
 	return [el[0] for el in destinations]
-
 
 def get_all_unique_categories(postgres_connector):
 	"""
@@ -220,9 +203,7 @@ def get_all_unique_poi(postgres_connector):
 	return [el[0] for el in poi_names]
 
 
-
-
-
+# --- Printing functions: ---
 
 def fair_ratings():
 	return random.choices([1,2,3,4,5], weights=[0.10,0.10,0.20,0.40,0.20])[0]
