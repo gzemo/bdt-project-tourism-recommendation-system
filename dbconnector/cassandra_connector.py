@@ -99,12 +99,8 @@ class CassandraConnector():
 			cassandra.cluster.ResultSet (iterator object which allows to access to each row)
 		"""
 
-		# example usage of a prepared statement
-		# cql = """SELECT tags FROM bdt.rawpoi WHERE block_name = ? ALLOW FILTERING;"""
-
 		if not type(block_name) == tuple:
 			block_name = tuple([block_name])
-		#assert type(block_name)==tuple and len(block_name)==1, "Wrong block name to query !"
 		prepared_statement = self.cassandra_connector.prepare(cql)
 		return self.cassandra_connector.execute(prepared_statement, block_name)
 
