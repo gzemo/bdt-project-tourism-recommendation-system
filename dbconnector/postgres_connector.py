@@ -6,7 +6,7 @@ from run.utils import printBold, printNorm
 class PostgresConnector():
 
 	def __init__(self, dbname:str="bdt", hostname:str="localhost",
-		username:str="postgres", password:str="123", port:str="5432"):
+		username:str="postgres", port:str="5432",  password:str):
 
 		self._dbname = dbname
 		self._hostname = hostname
