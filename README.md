@@ -151,5 +151,5 @@ To apply the simulation to another region, please note that you should also upda
 
 
 ### Credits and third party licences:
-OpenStreetMap Point Of interest are licensed by: Open Data Commons Open Database License (ODbL) (<https://opendatacommons.org/licenses/odbl/>)
-Picture of Nettuno's fountain, Piazza del Duomo, Trento: Zairon, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+- OpenStreetMap Point Of interest are licensed by: Open Data Commons Open Database License (ODbL) (<https://opendatacommons.org/licenses/odbl/>)
+- Picture of Nettuno's fountain, Piazza del Duomo, Trento: Zairon, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
