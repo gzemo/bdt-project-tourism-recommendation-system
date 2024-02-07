@@ -22,6 +22,19 @@ class OSMparser():
 		if you do not want to run and to be connected with Cassandra cluster
 		set:
 			cassandra_connector = None
+   	
+    	Example how to run:
+	
+		>>> parser = OSMparser(postgres_connector, redis_connector, 
+			spark_connector, cassandra_connector, './POI/overpass_query_block.txt')
+		
+		>>> parser.query_store_single_block(parser.blocks[1], parser.blocks_name[1], 
+			localCopy=True, intoCassandra=True)
+		
+		>>> parser.query_store_all_blocks(timeLimit=2, 
+			localCopy=False,
+			intoCassandra=True,
+			verbose=True)
 
 	Example:
 		This is an example of the syntax used to query from Overpass API (asking to OpenStreetMapAPI)
@@ -219,22 +232,3 @@ class OSMparser():
 				self._check_result(item)
 				tags = self._extract_tags(item)
 				self._store(item, blockName, tags)
-
-
-"""
-
-### how to run ###
-
-parser = OSMparser(postgres_connector, redis_connector, 
-	spark_connector, cassandra_connector, './POI/overpass_query_block.txt')
-
-# tesing a single block
-#parser.query_store_single_block(parser.blocks[1], parser.blocks_name[1], 
-#	localCopy=True, intoCassandra=True)
-
-# testing all
-parser.query_store_all_blocks(timeLimit=2, 
-							localCopy=False,
-							intoCassandra=True,
-							verbose=True)
-"""
