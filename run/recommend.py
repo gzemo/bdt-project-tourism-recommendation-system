@@ -282,21 +282,3 @@ class Recommender():
 			top_poi_predicted_ratings.append(avg_ratings_col[i])
 
 		return top_poi_names, top_poi_predicted_ratings
-
-		# # we now retrieve all the possible destinations that satisfies some requisites
-		# sql3 = '''SELECT poi_name FROM POI WHERE poi_place=%s''';
-		# data = (destination,)
-		# tmp_pool = self.postgres_connector.execute(sql3, data)
-		# tmp_pool_clean = set([el[0] for el in tmp_pool])
-		# top_poi_names_set = set(top_poi_names_set)
-
-		# # printing intersection
-		# inters = tmp_pool_clean.intersection(top_poi_names_set)
-		# if len(inters) == 0:
-		# 	if verbose:
-		# 		print("\tNo suggestion for your current destination")
-		# 	inters = None
-
-		# return list(inters), top_poi_predicted_ratings, nUsers, predictions_df_mean_sorted
-
-
