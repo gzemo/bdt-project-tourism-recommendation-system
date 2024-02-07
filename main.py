@@ -19,7 +19,11 @@ from POI.municipality_parser import MuncipalityParser
 from POI.selection_POI import SelectionPOI
 from clients.common import User, OldUser
 
+# --- services parameters: ---
+SPARK_PS = ""
+POSTGRESS_PS = ""
 
+# --- simulation parameters: ---
 COMPLETE_SIMULATION          = True # run simulation from beginning; otherwise simulate the user request 
 PARSING_FROM_CASSANDRA       = False # whether to perform the Overpass API request, store into cassandra and filter to postgress
 PARSING_FROM_GEOCODING       = False # whether to retrieve the municipality's coordinates from (reverse) geocoding maps
@@ -42,7 +46,7 @@ def initialize_spark_connector():
 				pathToJarFile="./dbconnector/postgresql-42.6.0.jar",
 				masterName="local",
 				userName="postgres",
-				password="123", 
+				password=SPARK_PS, 
 				driver="org.postgresql.Driver")
 
 def initialize_redis_connector():
@@ -55,7 +59,7 @@ def initialize_postgres_connector():
 				dbname="bdt", 
 				hostname="localhost",
 				username="postgres",
-				password="123",
+				password=POSTGRESS_PS,
 				port="5433")
 
 def initialize_cassandra_connector():
@@ -93,6 +97,8 @@ def initialize_user_baseline(Nusers:int=500, userSeed:int=1):
 
 
 if __name__ == "__main__":
+
+	assert (SPARK_PS!="" or POSTGRESS_PS!=""), "Services psw not initialized yet! (Check main.py)"
 
 
 	### initialize connectors
