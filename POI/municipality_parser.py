@@ -17,7 +17,7 @@ class MuncipalityParser():
     Example Usage:
     >>>    postgres_connector = PostgresConnector()
     >>>    municiparser = MuncipalityParser(postgres_connector, control_var)
-    >>>    municiparser.parse_dataset(filepath="/Users/majadallacqua/Desktop/municipalities_of_trentino.txt", verbose=True)
+    >>>    municiparser.parse_dataset(filepath="./municipalities_of_trentino.txt", verbose=True)
     """
 
     def __init__(self, postgres_connector,  control_var):
